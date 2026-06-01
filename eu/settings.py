@@ -101,3 +101,12 @@ DOWNLOAD_TIMEOUT = 120
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.retry.RetryMiddleware': 550,
 }
+
+
+FEEDS = {
+    "eu_fsf_sanctions.json": {
+        "format": "json",
+        "encoding": "utf8",
+        "indent": 2,
+    }
+}
