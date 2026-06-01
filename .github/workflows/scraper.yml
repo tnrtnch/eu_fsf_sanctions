@@ -1,0 +1,175 @@
+name: EU FSF Worker
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  TARGET_URL: https://data.opensanctions.org/datasets/latest/eu_fsf/targets.simple.csv
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest 
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Show environment
+        run: |
+          python --version
+          pip --version
+          pwd
+          ls -lah
+
+      - name: Test endpoint headers
+        run: |
+          echo "==== CURL HEADERS ===="
+
+          curl -I -L \
+            -A "Mozilla/5.0" \
+            "${TARGET_URL}"
+
+      - name: Download raw response
+        run: |
+          echo "==== DOWNLOAD RAW RESPONSE ===="
+
+          curl -L \
+            -A "Mozilla/5.0" \
+            "${TARGET_URL}" \
+            -o raw_response.txt
+
+          echo "==== FILE SIZE ===="
+          wc -c raw_response.txt
+
+          echo "==== FIRST 50 LINES ===="
+          head -50 raw_response.txt
+
+      - name: Upload raw response
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-response
+          path: raw_response.txt
+
+      - name: Remove old output
+        run: |
+          rm -f eu_fsf_sanctions.json
+
+      - name: Run scraper
+        run: |
+          scrapy crawl eu_spider -L INFO 2>&1 | tee scraper.log
+
+      - name: Upload scraper log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-log
+          path: scraper.log
+
+      - name: Upload debug response
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-response
+          path: debug_response.txt
+
+      - name: Debug generated files
+        run: |
+          echo "==== CURRENT DIRECTORY ===="
+          pwd
+
+          echo "==== FILE LIST ===="
+          ls -lah
+
+          echo "==== JSON FILES ===="
+          find . -name "*.json"
+
+      - name: Validate output
+        run: |
+          python - <<'PY'
+          import json
+          import os
+
+          FILE = "eu_fsf_sanctions.json"
+
+          if not os.path.exists(FILE):
+              raise Exception(f"{FILE} not found")
+
+          with open(FILE, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          items = data.get("items", [])
+
+          print("Generated at:", data.get("generated_at"))
+          print("Item count:", len(items))
+
+          if len(items) < 100:
+              raise Exception(
+                  f"Too few items scraped: {len(items)}"
+              )
+
+          print("Validation successful")
+          PY
+
+      - name: Show output preview
+        run: |
+          head -20 eu_fsf_sanctions.json
+
+      - name: Commit and push result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add eu_fsf_sanctions.json
+
+          echo "==== GIT STATUS ===="
+          git status
+
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "Auto update eu_fsf_sanctions.json [$(date -u)]"
+            git push origin HEAD:main
+          fi
+
+      - name: Send alert email on failure
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+
+          username: ${{ secrets.EMAIL_USER }}
+          password: ${{ secrets.EMAIL_PASS }}
+
+          subject: "EU FSF Worker FAILED"
+
+          to: taner9321@gmail.com
+          from: EU FSF Worker Bot
+
+          body: |
+            EU FSF worker workflow failed.
+
+            Repository: ${{ github.repository }}
+            Workflow: ${{ github.workflow }}
+            Event: ${{ github.event_name }}
+            Run ID: ${{ github.run_id }}
+
+            Check logs:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
