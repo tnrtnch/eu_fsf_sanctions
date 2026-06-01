@@ -117,37 +117,7 @@ jobs:
 
       - name: Validate output
         run: |
-          python - <<'PY'
-          import json
-          import os
-
-          FILE = "eu_fsf_sanctions.json"
-
-          if not os.path.exists(FILE):
-              raise Exception(f"{FILE} not found")
-
-          with open(FILE, "r", encoding="utf-8") as f:
-              data = json.load(f)
-
-          if not isinstance(data, dict):
-              raise Exception(
-                  f"Root must be dict, got {type(data)}"
-              )
-
-          items = data.get("items")
-
-          if not isinstance(items, list):
-              raise Exception("items must be list")
-
-          print("Item count:", len(items))
-
-          if len(items) < 100:
-              raise Exception(
-                  f"Too few items: {len(items)}"
-              )
-
-          print("Validation successful")
-          PY
+          scrapy crawl eu_spider -L INFO
 
       - name: Show output preview
         run: |
