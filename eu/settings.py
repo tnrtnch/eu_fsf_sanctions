@@ -62,8 +62,15 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   "eu.pipelines.EuPipeline": 300,
+# ITEM_PIPELINES = {
+#    "eu.pipelines.EuPipeline": 300,
+# }
+
+custom_settings = {
+    "ITEM_PIPELINES": {
+        "eu.pipelines.EuPipeline": 300,
+    },
+    "LOG_LEVEL": "INFO",
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
