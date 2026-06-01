@@ -1,5 +1,4 @@
 import json
-from eu.validators import validate_item
 from pathlib import Path
 from datetime import datetime, UTC
 
@@ -14,11 +13,19 @@ class EuPipeline:
 
         spider.logger.info(f"OUTPUT FILE: {output_file}")
 
+        if not output_file:
+            raise Exception("output_file missing in scraper.yaml")
+
+        self.json_path = Path.cwd() / output_file
+
+        spider.logger.info(f"JSON PATH: {self.json_path}")
+
     def process_item(self, item, spider):
         spider.logger.info(f"PROCESS ITEM: {item}")
-        item = validate_item(item)
-        self.items.append(dict(item)) 
-        return item 
+
+        self.items.append(dict(item))
+
+        return item
 
     def close_spider(self, spider):
         spider.logger.info("CLOSING SPIDER")
