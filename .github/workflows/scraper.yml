@@ -16,9 +16,6 @@ concurrency:
 permissions:
   contents: write
 
-env:
-  TARGET_URL: https://data.opensanctions.org/datasets/latest/eu_fsf/targets.simple.csv
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -27,8 +24,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -40,43 +35,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Show environment
-        run: |
-          python --version
-          pip --version
-          pwd
-          ls -lah
-
-      - name: Test endpoint headers
-        run: |
-          echo "==== CURL HEADERS ===="
-
-          curl -I -L \
-            -A "Mozilla/5.0" \
-            "${TARGET_URL}"
-
-      - name: Download raw response
-        run: |
-          echo "==== DOWNLOAD RAW RESPONSE ===="
-
-          curl -L \
-            -A "Mozilla/5.0" \
-            "${TARGET_URL}" \
-            -o raw_response.txt
-
-          echo "==== FILE SIZE ===="
-          wc -c raw_response.txt
-
-          echo "==== FIRST 50 LINES ===="
-          head -50 raw_response.txt
-
-      - name: Upload raw response
-        uses: actions/upload-artifact@v4
-        with:
-          name: raw-response
-          path: raw_response.txt
-
-      - name: Remove old output
+      - name: Clean old files
         run: |
           rm -f eu_fsf_sanctions.json
           rm -f scraper.log
@@ -84,44 +43,50 @@ jobs:
 
       - name: Run scraper
         run: |
+          set -e
+
           scrapy crawl eu_spider -L INFO 2>&1 | tee scraper.log
 
-      - name: Debug generated files
-        if: always()
-        run: |
-          echo "==== CURRENT DIRECTORY ===="
-          pwd
-
-          echo "==== FILE LIST ===="
+          echo "==== FILES AFTER SCRAPE ===="
           ls -lah
 
           echo "==== JSON FILES ===="
           find . -name "*.json"
 
-          echo "==== SCRAPER LOG ===="
+          if [ ! -f eu_fsf_sanctions.json ]; then
+            echo "eu_fsf_sanctions.json was not generated"
+            exit 1
+          fi
+
+      - name: Show scraper log
+        if: always()
+        run: |
           cat scraper.log || true
-
-      - name: Upload scraper log
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: scraper-log
-          path: scraper.log
-
-      - name: Upload debug response
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-response
-          path: debug_response.txt
 
       - name: Validate output
         run: |
-          scrapy crawl eu_spider -L INFO
+          python - <<'PY'
+          import json
 
-      - name: Show output preview
-        run: |
-          head -20 eu_fsf_sanctions.json
+          with open("eu_fsf_sanctions.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          if not isinstance(data, dict):
+              raise Exception(
+                  f"Root must be dict, got {type(data)}"
+              )
+
+          items = data.get("items", [])
+
+          print("Item count:", len(items))
+
+          if len(items) < 100:
+              raise Exception(
+                  f"Too few items: {len(items)}"
+              )
+
+          print("Validation successful")
+          PY
 
       - name: Commit and push result
         run: |
@@ -139,6 +104,20 @@ jobs:
             git commit -m "Auto update eu_fsf_sanctions.json [$(date -u)]"
             git push origin HEAD:main
           fi
+
+      - name: Upload scraper log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-log
+          path: scraper.log
+
+      - name: Upload debug response
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-response
+          path: debug_response.txt
 
       - name: Send alert email on failure
         if: failure()
@@ -160,8 +139,7 @@ jobs:
 
             Repository: ${{ github.repository }}
             Workflow: ${{ github.workflow }}
-            Event: ${{ github.event_name }}
             Run ID: ${{ github.run_id }}
 
-            Check logs:
+            Logs:
             https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
