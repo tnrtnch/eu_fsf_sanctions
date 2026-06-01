@@ -21,4 +21,4 @@ def validate_item(item):
     item["sanctions"] = item.get("sanctions") or ""
     item["aliases"] = item.get("aliases") or ""
 
-    return item 
+    return item  
