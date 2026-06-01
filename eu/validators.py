@@ -3,6 +3,17 @@ class SchemaValidationError(Exception):
 
 
 def validate_item(item):
+    """
+    Accepts either:
+    - dict (single item)
+    - list of dicts (bulk items)
+    """
+
+    # CASE 1: list input
+    if isinstance(item, list):
+        return [validate_item(i) for i in item]
+
+    # CASE 2: must be dict
     if not isinstance(item, dict):
         raise SchemaValidationError(f"Invalid item type: {type(item)}")
 
@@ -13,6 +24,7 @@ def validate_item(item):
 
     item["name"] = name.strip()
 
+    # normalize optional fields
     item["sanctions"] = item.get("sanctions") or []
     item["aliases"] = item.get("aliases") or []
 
