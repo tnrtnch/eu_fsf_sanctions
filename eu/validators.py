@@ -3,10 +3,17 @@ class SchemaValidationError(Exception):
 
 
 def validate_item(item):
-    if not item["name"]:
-        raise SchemaValidationError("Missing name")
+    if not isinstance(item, dict):
+        raise SchemaValidationError(f"Invalid item type: {type(item)}")
 
-    item["sanctions"] = item.get("sanctions", "")
-    item["aliases"] = item.get("aliases", "")
+    name = item.get("name")
+
+    if not name or not isinstance(name, str):
+        raise SchemaValidationError("Missing or invalid name")
+
+    item["name"] = name.strip()
+
+    item["sanctions"] = item.get("sanctions") or []
+    item["aliases"] = item.get("aliases") or []
 
     return item
