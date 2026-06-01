@@ -3,6 +3,16 @@ name: EU FSF Worker
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "0 */6 * * *"
+
+  repository_dispatch:
+    types: [run-sanctions]
+
+concurrency:
+  group: eu-fsf-worker
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
