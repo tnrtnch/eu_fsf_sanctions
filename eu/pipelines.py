@@ -16,7 +16,7 @@ class EuPipeline:
         if not output_file:
             raise Exception("output_file missing in scraper.yaml")
 
-        self.json_path = Path.cwd() / output_file
+        self.json_path = Path(output_file).resolve()
 
         spider.logger.info(f"JSON PATH: {self.json_path}")
 
