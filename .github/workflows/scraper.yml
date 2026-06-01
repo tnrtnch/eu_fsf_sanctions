@@ -21,7 +21,7 @@ env:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
@@ -79,10 +79,27 @@ jobs:
       - name: Remove old output
         run: |
           rm -f eu_fsf_sanctions.json
+          rm -f scraper.log
+          rm -f debug_response.txt
 
       - name: Run scraper
         run: |
           scrapy crawl eu_spider -L INFO 2>&1 | tee scraper.log
+
+      - name: Debug generated files
+        if: always()
+        run: |
+          echo "==== CURRENT DIRECTORY ===="
+          pwd
+
+          echo "==== FILE LIST ===="
+          ls -lah
+
+          echo "==== JSON FILES ===="
+          find . -name "*.json"
+
+          echo "==== SCRAPER LOG ===="
+          cat scraper.log || true
 
       - name: Upload scraper log
         if: always()
@@ -98,27 +115,24 @@ jobs:
           name: debug-response
           path: debug_response.txt
 
-      - name: Debug generated files
-        run: |
-          echo "==== CURRENT DIRECTORY ===="
-          pwd
-
-          echo "==== FILE LIST ===="
-          ls -lah
-
-          echo "==== JSON FILES ===="
-          find . -name "*.json"
-
       - name: Validate output
         run: |
           python - <<'PY'
           import json
+          import os
 
-          with open("eu_fsf_sanctions.json", "r", encoding="utf-8") as f:
+          FILE = "eu_fsf_sanctions.json"
+
+          if not os.path.exists(FILE):
+              raise Exception(f"{FILE} not found")
+
+          with open(FILE, "r", encoding="utf-8") as f:
               data = json.load(f)
 
           if not isinstance(data, dict):
-              raise Exception(f"Root must be dict, got {type(data)}")
+              raise Exception(
+                  f"Root must be dict, got {type(data)}"
+              )
 
           items = data.get("items")
 
@@ -128,7 +142,9 @@ jobs:
           print("Item count:", len(items))
 
           if len(items) < 100:
-              raise Exception(f"Too few items: {len(items)}")
+              raise Exception(
+                  f"Too few items: {len(items)}"
+              )
 
           print("Validation successful")
           PY
@@ -179,4 +195,3 @@ jobs:
 
             Check logs:
             https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-
