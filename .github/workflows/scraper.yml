@@ -170,7 +170,7 @@ jobs:
           subject: "EU FSF Worker FAILED"
 
           to: taner9321@gmail.com
-          from: EU FSF Worker Bot
+          from: ${{ secrets.EMAIL_USER }}
 
           body: |
             EU FSF worker workflow failed.
