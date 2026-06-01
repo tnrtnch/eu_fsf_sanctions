@@ -21,7 +21,7 @@ class EuPipeline:
 
     def process_item(self, item, spider):
         item = validate_item(item)
-        self.items.append(dict(item))
+        self.items.append(dict(item)) 
         return item
 
     def close_spider(self, spider):

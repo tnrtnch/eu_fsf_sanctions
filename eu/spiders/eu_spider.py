@@ -22,7 +22,7 @@ class EuSpider(scrapy.Spider):
         yield scrapy.Request(
             url=self.config["target_url"],
             callback=self.parse_csv,
-            dont_filter=True,
+            dont_filter=True, 
             headers={
                 "User-Agent": (
                     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
