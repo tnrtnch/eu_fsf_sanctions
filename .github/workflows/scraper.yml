@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 0 * * *" #Daily run
+    - cron: "0 2 * * *" #Daily run
 
   repository_dispatch:
     types: [run-sanctions]
