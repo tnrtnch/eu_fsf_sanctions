@@ -21,7 +21,7 @@ class EuSpider(scrapy.Spider):
         "https://data.opensanctions.org/datasets/latest/eu_fsf/targets.simple.csv"
     )
 
-    def start_requests(self):
+    async def start(self):
         self.logger.info(f"TARGET URL: {self.TARGET_URL}")
 
         yield scrapy.Request(
