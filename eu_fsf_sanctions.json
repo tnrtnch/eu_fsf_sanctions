@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:15:56.553589+00:00",
+  "generated_at": "2026-06-13T06:11:22.371669+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1422,12 +1422,6 @@
       "schema": "Person",
       "sanctions": "BLR - 2025/2039 (OJ L202502039) - 2025-10-23",
       "aliases": "Yuriy Ivanovich PREDKO;Юрий Иванович ПРЕДКО"
-    },
-    {
-      "name": "LLC “Leading Charter Technologies”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
-      "aliases": "»Leading Charter Technologies« Kft.;ООО “Ведущие Технологии Чартера”"
     },
     {
       "name": "Nayara Energy Limited",
@@ -9852,6 +9846,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-02-25",
       "aliases": "Aleksandr LOZITSKIJ;Aleksandr Lozickij;Alexandr Lozickij;Александр ЛОЗИЦКИЙ"
+    },
+    {
+      "name": "LLC “Leading Charter Technologies”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
+      "aliases": "»Leading Charter Technologies« Kft.;ООО “Ведущие Технологии Чартера”"
     },
     {
       "name": "Zelenodolsk Design Bureau JSC",
