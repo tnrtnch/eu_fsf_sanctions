@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T07:34:47.352080+00:00",
+  "generated_at": "2026-06-17T07:03:09.958016+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -2190,12 +2190,6 @@
       "schema": "Person",
       "sanctions": "VEN - 2025/44 (OJ L10012025) - 2025-01-10",
       "aliases": "Antonio José MENESES RODRÍGUEZT"
-    },
-    {
-      "name": "LLC “ATLANT AERO”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
-      "aliases": "Limited Liability Company “Atlant Aero;OОО «АТЛАНТ АЭРО»;Общество с ограниченной ответственностью «АТЛАНТ АЭРО»"
     },
     {
       "name": "Aleksei Yuryevich BELETSKY",
@@ -9956,12 +9950,6 @@
       "aliases": "Michalaj Vasiľevič MAXIMAVIČ;Mikalaj Maksimavič;Mikalaj Vasiljevitj MAKSIMAVITJ;Nikolai Vasilievich MAKSIMOVICH;Nikolaj Vasiljevitj MAKSIMOVITJ;Мікалай Васільевіч МАКСІМАВІЧ;Николай Васильевич МАКСИМОВИЧ"
     },
     {
-      "name": "CJSC TengriCoin",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
-      "aliases": "ЗАО «ТенгриКоин»"
-    },
-    {
       "name": "Ilja BOTŠAROV",
       "schema": "Person",
       "sanctions": "RUSDA - 2025/965 (OJ L202500965) - 2025-05-20",
@@ -12756,6 +12744,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-02-23",
       "aliases": "Haji Mullah Sahib;Zakir"
+    },
+    {
+      "name": "CJSC TengriCoin",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
+      "aliases": "ЗАО «ТенгриКоин»"
     },
     {
       "name": "Татьяна Ярославовна МОТЫЛЬ",
@@ -15836,12 +15830,6 @@
       "aliases": "Jihad Mohamed SULTAN;Jihad Mohammad SULTAN;Jihad Mohammed SULTAN;Jihad Muhammad SULTAN"
     },
     {
-      "name": "Nova Shipmanagement LLC-FZ",
-      "schema": "Organization",
-      "sanctions": "UKR - 2025/2588 (OJ L202502588) - 2025-12-15",
-      "aliases": ""
-    },
-    {
       "name": "Igor Georgievich NASENKOV",
       "schema": "Person",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -16176,6 +16164,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2017-03-21",
       "aliases": "بديع المعلا"
+    },
+    {
+      "name": "Nova Shipmanagement LLC-FZ",
+      "schema": "Organization",
+      "sanctions": "UKR - 2025/2588 (OJ L202502588) - 2025-12-15",
+      "aliases": ""
     },
     {
       "name": "СОЮЗ ДОБРОВОЛЬЦЕВ ДОНБАССА",
@@ -21744,6 +21738,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": "Joint Stock Company “Scientific and production association of automation named by academician N.A. Semikhatov”;Акционерное общество “Научно-Производственное Объединение Автоматики имени академика Н.А. Семихатова”"
+    },
+    {
+      "name": "LLC “ATLANT AERO”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
+      "aliases": "Limited Liability Company “Atlant Aero;OОО «АТЛАНТ АЭРО»;Общество с ограниченной ответственностью «АТЛАНТ АЭРО»"
     },
     {
       "name": "Armed Islamic Group",
