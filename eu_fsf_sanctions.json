@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T06:59:55.963676+00:00",
+  "generated_at": "2026-06-19T07:00:06.872651+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -626,12 +626,6 @@
       "aliases": "Amjad AL-ABBAS;أمجد عباس"
     },
     {
-      "name": "Imam Reza Corps",
-      "schema": "Organization",
-      "sanctions": "IRN - 2026/648 (OJ L202600648) - 2026-03-16",
-      "aliases": "Imam Reza Islamic Revolutionary Guard Corps"
-    },
-    {
       "name": "Amir RADFAR",
       "schema": "Person",
       "sanctions": "IRN - 2026/262 (OJ L202600262) - 2026-01-29",
@@ -702,12 +696,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Dmitrij Eduardovitj DEZORTSEV;Dmytro Eduardovytj DEZORTSEV;Дмитрий Эдуардович ДЕЗОРЦЕВ;Дмитро Едуардович ДЕЗОРЦЕВ"
-    },
-    {
-      "name": "LLC TD KAMA",
-      "schema": "Organization",
-      "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-06-03",
-      "aliases": "Společnost TD KAMA;\"ООО ТД \"\"КАМА\"\"\""
     },
     {
       "name": "Désiré LONDROMA NDJUKPA",
@@ -13034,6 +13022,12 @@
       "aliases": ""
     },
     {
+      "name": "Imam Reza Corps",
+      "schema": "Organization",
+      "sanctions": "IRN - 2026/648 (OJ L202600648) - 2026-03-16",
+      "aliases": "Imam Reza Islamic Revolutionary Guard Corps"
+    },
+    {
       "name": "Russian Navy",
       "schema": "Organization",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
@@ -14010,6 +14004,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2025/689 (OJ L202500689) - 2011-10-10",
       "aliases": "Mohamed-Bagher BAGHERI"
+    },
+    {
+      "name": "LLC TD KAMA",
+      "schema": "Organization",
+      "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-06-03",
+      "aliases": "Společnost TD KAMA;\"ООО ТД \"\"КАМА\"\"\""
     },
     {
       "name": "Валентина Васильевна ЛАВРИК",
