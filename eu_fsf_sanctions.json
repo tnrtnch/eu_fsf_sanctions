@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T07:19:37.819182+00:00",
+  "generated_at": "2026-06-20T06:15:05.630112+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -5478,6 +5478,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
       "aliases": ""
+    },
+    {
+      "name": "Seyf Ebu BEKIR",
+      "schema": "Person",
+      "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
+      "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
     },
     {
       "name": "Mahmoud al-Dj",
@@ -35358,12 +35364,6 @@
       "schema": "Person",
       "sanctions": "BLR - 2025/386 (OJ L25022025) - 2022-06-03",
       "aliases": "Ivan GALAVATIJ;Ivan Halavaty;Ivan Ivanavitj HALAVATY;Ivan Ivanovich GOLOVATY;Ivan Ivanovitj GOLOVATYJ;Iван Iванавiч ГАЛАВАТЫ;Иван Галавати;Иван Иванович ГОЛОВАТЫЙ"
-    },
-    {
-      "name": "Seyf Ebu BEKIR",
-      "schema": "Person",
-      "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
-      "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
     }
   ]
 }
