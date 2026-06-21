@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T06:36:56.449267+00:00",
+  "generated_at": "2026-06-21T06:46:01.908893+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1602,12 +1602,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
       "aliases": "Tatiana Georgijevna Brattjenko;Tetiana Georgiivna BRATCHENKO;Татьяна Георгиевна БРАТЧЕНКО;Тетяна Георгіївна БРАТЧЕНКО"
-    },
-    {
-      "name": "Mesut SEKERCI",
-      "schema": "Person",
-      "sanctions": "EUAQ - 2021/612 (OJ L129I) - 2021-04-15",
-      "aliases": ""
     },
     {
       "name": "Nazeeh HASSOUN",
@@ -5480,12 +5474,6 @@
       "aliases": ""
     },
     {
-      "name": "Seyf Ebu BEKIR",
-      "schema": "Person",
-      "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
-      "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
-    },
-    {
       "name": "Mahmoud al-Dj",
       "schema": "Person",
       "sanctions": "SYR - 2024/362 (OJ L22012024) - 2024-01-22",
@@ -7932,12 +7920,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
       "aliases": "LLC - Navitron;Limited Liability Company NTLAB-SK;NTLAB-SK LLC;Navitron - Korlátolt Felelősségű Társaság;OOO - Navitron;ООО - Навитрон;ООО НТЛАБ-СК;Общество с Ограниченной Ответственностью - НТЛАБ-СК"
-    },
-    {
-      "name": "JSC Saratov",
-      "schema": "Organization",
-      "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
-      "aliases": "AO СРЗ;AO “Саратовский радиоприборный завод”;Aкционерное общество “Cаратовский радиоприборный завод”;JSC SRZ;Joint Stock Company Saratov Radio Instrument Plant;Radio Instrument Plant;Rádióeszközgyár;SZRZ Rt.;Szaratov Rt;Szaratovi Rádióeszközgyár Részvénytársaság;sociedad anónima Saratov Radio Instrument Plant"
     },
     {
       "name": "Iran Alumina Co.",
@@ -17328,6 +17310,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
       "aliases": "\"\"\"'ATLAS' Tudományos és Műszaki Központ\"\" Részvénytársaság\";Akciová spoločnosť Scientific and Technical Center ATLAS;Cuideachta Comhstoic ‘Scientific and Technical Center ‘ATLAS'’’;Joint Stock Company “Scientific and Technical Center 'ATLAS'”;\"STC \"\"Atlas\"\" Rt.\";Societatea pe acțiuni „Centrul Științific și Tehnic «ATLAS»”;АО “НТЦ”Атлас”;Акционерное Общество “Научно Технический Центр 'АТЛАС'”"
+    },
+    {
+      "name": "JSC Saratov",
+      "schema": "Organization",
+      "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
+      "aliases": "AO СРЗ;AO “Саратовский радиоприборный завод”;Aкционерное общество “Cаратовский радиоприборный завод”;JSC SRZ;Joint Stock Company Saratov Radio Instrument Plant;Radio Instrument Plant;Rádióeszközgyár;SZRZ Rt.;Szaratov Rt;Szaratovi Rádióeszközgyár Részvénytársaság;sociedad anónima Saratov Radio Instrument Plant"
     },
     {
       "name": "Abolghasem VALAGOHAR",
@@ -26942,6 +26930,12 @@
       "aliases": "Mohamed Mazen Ali YOUSEF"
     },
     {
+      "name": "Mesut SEKERCI",
+      "schema": "Person",
+      "sanctions": "EUAQ - 2021/612 (OJ L129I) - 2021-04-15",
+      "aliases": ""
+    },
+    {
       "name": "Ivan Ivanovitsch OKHLOBYSTIN",
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
@@ -35364,6 +35358,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2025/386 (OJ L25022025) - 2022-06-03",
       "aliases": "Ivan GALAVATIJ;Ivan Halavaty;Ivan Ivanavitj HALAVATY;Ivan Ivanovich GOLOVATY;Ivan Ivanovitj GOLOVATYJ;Iван Iванавiч ГАЛАВАТЫ;Иван Галавати;Иван Иванович ГОЛОВАТЫЙ"
+    },
+    {
+      "name": "Seyf Ebu BEKIR",
+      "schema": "Person",
+      "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
+      "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
     }
   ]
 }
