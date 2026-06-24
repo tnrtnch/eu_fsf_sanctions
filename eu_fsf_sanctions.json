@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T06:14:56.883363+00:00",
+  "generated_at": "2026-06-24T06:01:37.179989+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -3860,12 +3860,6 @@
       "aliases": "Aleksandr Jurjevitj GROMAKOV;Александр Юрьевич ГРОМАКОВ;Олександр Юрiйович ГРОМАКОВ"
     },
     {
-      "name": "Islamic Republic of Iran Shipping Lines",
-      "schema": "Organization",
-      "sanctions": "IRN - 2025/1548 (OJ L202501548) - 2024-11-18;IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
-      "aliases": "Az Iráni Iszlám Köztársaság Tengerhajózási Társasága;Compagnie de transport maritime de la République islamique d'Iran;Companhia de Transportes Marítimos da República Islâmica do Irão;Compania de transport maritim a Republicii Islamice a Iranului;Compañía de Transporte Marítimo de la República Islámica de Irán;IRISL;Iranin islamilaisen tasavallan linjavarustamo;Irano Islamo Respublikos laivybos linijos;Islamic Republic of Iran Shipping Lines (IRISL);Linie Żeglugowe Islamskiej Republiki Iranu;Lodní linky Íránské islámské republiky;Poduzeće za pomorski prijevoz Islamske Republike Iran (IRISL);Ναυτιλιακές γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Οι Ναυτιλιακές Γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Корабна компания на Ислямска република Иран;گروه کشتیرانی جمهوری اسلمی ایران"
-    },
-    {
       "name": "UE “Institute of Digital Television Horizon”",
       "schema": "Organization",
       "sanctions": "BLR - 2025/2039 (OJ L202502039) - 2025-10-23",
@@ -5868,6 +5862,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "Aleksej Borisovitj LABKO;Alexej Labko;Alexey Borisovich LABKO;Aliaksei Borisovich LABKO;Aljaksej Barysavitj LABKO;Aljaxej Labko;Алексей Борисович ЛАБКО;Аляксей Барысавіч ЛАБКО"
+    },
+    {
+      "name": "Islamic Republic of Iran Shipping Lines",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1548 (OJ L202501548) - 2024-11-18;IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
+      "aliases": "Az Iráni Iszlám Köztársaság Tengerhajózási Társasága;Compagnie de transport maritime de la République islamique d'Iran;Companhia de Transportes Marítimos da República Islâmica do Irão;Compania de transport maritim a Republicii Islamice a Iranului;Compañía de Transporte Marítimo de la República Islámica de Irán;IRISL;Iranin islamilaisen tasavallan linjavarustamo;Irano Islamo Respublikos laivybos linijos;Islamic Republic of Iran Shipping Lines (IRISL);Linie Żeglugowe Islamskiej Republiki Iranu;Lodní linky Íránské islámské republiky;Poduzeće za pomorski prijevoz Islamske Republike Iran (IRISL);Ναυτιλιακές γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Οι Ναυτιλιακές Γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Корабна компания на Ислямска република Иран;گروه کشتیرانی جمهوری اسلمی ایران"
     },
     {
       "name": "Jorge Elieser MÁRQUEZ MONSALVE",
