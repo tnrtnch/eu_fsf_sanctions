@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:57:00.604794+00:00",
+  "generated_at": "2026-07-16T04:55:13.711924+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -468,12 +468,6 @@
       "schema": "Person",
       "sanctions": "RUS - 2026/431 (OJ L202600431) - 2026-02-23",
       "aliases": "Антон Владимирович РЫЧАР"
-    },
-    {
-      "name": "Reconnaissance General Bureau",
-      "schema": "Organization",
-      "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
-      "aliases": "Chongch’al Ch’ongguk;KPA Unit 586;RGB"
     },
     {
       "name": "Slim Ben Mohamed Salah Ben Ahmed ZARROUK",
@@ -2132,12 +2126,6 @@
       "aliases": "Viktar Ljutcau;Viktor Lutcev;Viktor Petrovich LUTSEV;Виктор Петрович ЛУТЦЕВ;Віктар Пятровіч ЛУТЦАЎ"
     },
     {
-      "name": "Strategic Culture Foundation",
-      "schema": "Organization",
-      "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-12-16",
-      "aliases": "Fondation de la culture stratégique;Fundación Estratégica para la Cultura;Fundação para a Cultura Estratégica;Fundația pentru cultură strategică;Stiftung Strategische Kultur;Strategická nadácia pre kultúru;Strategický kulturní fond;Strategiczna Fundacja Kultury;Strateginės kultūros fondas;Stratégiai Kulturális Alapítvány;Στρατηγικό Ίδρυμα Πολιτισμού;Фонд стратегической культуры;Фондация „Стратегическа култура“"
-    },
-    {
       "name": "Vitaly Viktorovich YASKELAYNEN",
       "schema": "Person",
       "sanctions": "UKR - 2023/806 (OJ L101) - 2022-12-16",
@@ -2282,12 +2270,6 @@
       "aliases": "JSC NPP Rubin;Joint Stock Company “Scientific Production Enterprise ‘Rubin’”;NPP Rubin Rt.;Sociedade por ações “Empresa de produção científica ‘Rubin’”;Societatea pe acțiuni «Întreprinderea științifică de producție „Rubin”»;»Scientific Production Enterprise ’Rubin’« Rt.;»Scientific Production Enterprise ’Rubin’« Részvénytársaság;АО НПП Рубин;Акционерное Общество “Научно Производственное Предприятие ‘Рубин’”"
     },
     {
-      "name": "شرکت صنایع هواپیماسازی ایران",
-      "schema": "Organization",
-      "sanctions": "IRN - 267/2012 (OJ L88) - 2012-03-23;UKR - 2023/192 (OJ L26I) - 2023-01-30",
-      "aliases": "Corporația industriilor producătoare de aeronave din Iran;Empresa iraniana de indústrias de fabrico de aeronaves;HESA;HESA Trade Center;HTC;Hava Peyma Sazi-e Iran;Havapeyma Sazhran;Havapeyma Sazi Iran;Hevapeimasazi;IAMCO;IAMI;Iran Aircraft Manufacturing Company;Iran Aircraft Manufacturing Industries;Iran Aircraft Manufacturing Industries Corporation;Karkhanejate Sanaye Havapaymaie Iran"
-    },
-    {
       "name": "Evgenii Mikhaylovich SEREBRIAKOV",
       "schema": "Person",
       "sanctions": "CYB - 2025/886 (OJ L202500886) - 2020-07-30",
@@ -2306,12 +2288,6 @@
       "aliases": "Anna Jurjevna TODOROVA;Hanna Jurjivna TODOROVA;Анна Юрьевна ТОДОРОВА;Ганна Юрiївна ТОДОРОВА"
     },
     {
-      "name": "محمد ناذر جمال الدين",
-      "schema": "Person",
-      "sanctions": "SYR - 2022/840 (OJ L148) - 2019-01-21",
-      "aliases": "Jamal Aldiyn;Mohammed Jamal Eddine;Mohammed Nazer JAMAL EDDIN;Nazir Ahmad"
-    },
-    {
       "name": "Mohammad Reza REZVANIANZADEH",
       "schema": "Person",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
@@ -2328,12 +2304,6 @@
       "schema": "Person",
       "sanctions": "COD - 2025/2508 (OJ L202502508) - 2025-03-17",
       "aliases": ""
-    },
-    {
-      "name": "Владимир АЛЕКСЕЕВ",
-      "schema": "Person",
-      "sanctions": "CHEM - 2022/2228 (OJ L293-I) - 2022-11-14",
-      "aliases": "Vladimir ALEXEEV;Vladimir ALEXEJEV;Vladimir ALEXEYEV;Vladimir Aleksandrovitj PANJAJEV;Vladimir Alexandrovich PANYAEV;Владимир Александрович ПАНЯЕВ"
     },
     {
       "name": "OJSC TRC AF RF “Zvezda”",
@@ -3020,12 +2990,6 @@
       "aliases": "AO Брянский автомобильный завод;Automobilfabrik Bryansk;BAZ;Briansko automobilių gamykla;Brjanszki Autógyár;Bryansk automobielfabriek;Fabrica de automobile Briansk;Fábrica de Automóveis de Bryansk;Planta de Automoción de Bryansk;Usine automobile Bryansk;АО 'БАЗ'"
     },
     {
-      "name": "Mouvement Du 23 Mars",
-      "schema": "Organization",
-      "sanctions": "COD - 2017/396 (OJ L60) - 2012-12-31",
-      "aliases": "M23;Movimento de 23 de março"
-    },
-    {
       "name": "سازمان صدا و سيمای جمهوری اسلامی ايران",
       "schema": "Organization",
       "sanctions": "IRN - 2022/2428 (OJ L318I) - 2022-12-12",
@@ -3126,6 +3090,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-02-23",
       "aliases": "Shams ur-Rahman Sher Alam;Shams-u-Rahman;Shamsurrahman;Shamsurrahman Abdurahman"
+    },
+    {
+      "name": "Strategic Culture Foundation",
+      "schema": "Organization",
+      "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-12-16",
+      "aliases": "Fondation de la culture stratégique;Fundación Estratégica para la Cultura;Fundação para a Cultura Estratégica;Fundația pentru cultură strategică;Stiftung Strategische Kultur;Strategická nadácia pre kultúru;Strategický kulturní fond;Strategiczna Fundacja Kultury;Strateginės kultūros fondas;Stratégiai Kulturális Alapítvány;Στρατηγικό Ίδρυμα Πολιτισμού;Фонд стратегической культуры;Фондация „Стратегическа култура“"
     },
     {
       "name": "Samer AL-DIBIS",
@@ -3924,12 +3894,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-03-02",
       "aliases": "Александр Викторович НАУМЕНКО"
-    },
-    {
-      "name": "Saw Chit Thu",
-      "schema": "Person",
-      "sanctions": "MMR - 2024/2784 (OJ L29102024) - 2024-10-29",
-      "aliases": "Chit Thu;Maung Chit Thu;Saw San Myint"
     },
     {
       "name": "Djamel Lounici",
@@ -5048,6 +5012,12 @@
       "aliases": ""
     },
     {
+      "name": "محمد ناذر جمال الدين",
+      "schema": "Person",
+      "sanctions": "SYR - 2022/840 (OJ L148) - 2019-01-21",
+      "aliases": "Jamal Aldiyn;Mohammed Jamal Eddine;Mohammed Nazer JAMAL EDDIN;Nazir Ahmad"
+    },
+    {
       "name": "EDBI Stock Brokerage Company",
       "schema": "Organization",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
@@ -5864,12 +5834,6 @@
       "aliases": "Aleksej Borisovitj LABKO;Alexej Labko;Alexey Borisovich LABKO;Aliaksei Borisovich LABKO;Aljaksej Barysavitj LABKO;Aljaxej Labko;Алексей Борисович ЛАБКО;Аляксей Барысавіч ЛАБКО"
     },
     {
-      "name": "Islamic Republic of Iran Shipping Lines",
-      "schema": "Organization",
-      "sanctions": "IRN - 2025/1548 (OJ L202501548) - 2024-11-18;IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
-      "aliases": "Az Iráni Iszlám Köztársaság Tengerhajózási Társasága;Compagnie de transport maritime de la République islamique d'Iran;Companhia de Transportes Marítimos da República Islâmica do Irão;Compania de transport maritim a Republicii Islamice a Iranului;Compañía de Transporte Marítimo de la República Islámica de Irán;IRISL;Iranin islamilaisen tasavallan linjavarustamo;Irano Islamo Respublikos laivybos linijos;Islamic Republic of Iran Shipping Lines (IRISL);Linie Żeglugowe Islamskiej Republiki Iranu;Lodní linky Íránské islámské republiky;Poduzeće za pomorski prijevoz Islamske Republike Iran (IRISL);Ναυτιλιακές γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Οι Ναυτιλιακές Γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Корабна компания на Ислямска република Иран;گروه کشتیرانی جمهوری اسلمی ایران"
-    },
-    {
       "name": "Jorge Elieser MÁRQUEZ MONSALVE",
       "schema": "Person",
       "sanctions": "VEN - 2023/2500 (OJ L13112023) - 2020-06-29",
@@ -6066,6 +6030,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "Роберт Ришатович ГАЛИМОB"
+    },
+    {
+      "name": "Saw Chit Thu",
+      "schema": "Person",
+      "sanctions": "MMR - 2024/2784 (OJ L29102024) - 2024-10-29",
+      "aliases": "Chit Thu;Maung Chit Thu;Saw San Myint"
     },
     {
       "name": "Инна Владимировна МИЩЕНКО",
@@ -6378,12 +6348,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Vasilij Anatoljevitj PERTSEV;Vasyl Anatolijovytj PERTSEV;Василий Анатольевич ПЕРЦЕВ;Василь Анатолійович ПЕРЦЕВ"
-    },
-    {
-      "name": "صنایع هوایی شاهد",
-      "schema": "Organization",
-      "sanctions": "UKR - 2022/1985 (OJ L272 I) - 2022-10-20",
-      "aliases": "Centro de Investigação das Indústrias de Aviação Shahed;Centrul de cercetare al Shahed Aviation Industries;Indústrias de Aviação Shahed;Shahed Aviation Industries;Shahed Aviation Industries Kutatóközpont;Shahed Aviation Industries Research Center/Centre;مرکز تحقیقات صنایع هوایی شاهد"
     },
     {
       "name": "Gholamreza ZIAEI",
@@ -6764,12 +6728,6 @@
       "aliases": "Alla Arkadjevna PODTYNNAJA;Алла Аркадьевна ПОДТЫННАЯ"
     },
     {
-      "name": "Internet Research Agency",
-      "schema": "Organization",
-      "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-02-23",
-      "aliases": "Agencija za spletne raziskave;Agencja Badań Internetowych;Agenția pentru cercetarea internetului;Agência de Investigação da Internet;Internetkutató Ügynökség;Internetová výskumná agentúra;Агентство интернет-исследований"
-    },
-    {
       "name": "Irano Hind Shipping Company",
       "schema": "Organization",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
@@ -6924,12 +6882,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Valerij Iosifovitj GALINKIN;Валерий Иосифович ГАЛИНКИН"
-    },
-    {
-      "name": "SMT Engineering",
-      "schema": "Organization",
-      "sanctions": "SDNZ - 2024/384 (OJ L22012024) - 2024-01-22",
-      "aliases": "SMT;Sudan Master Technology"
     },
     {
       "name": "SUE DPR Ugletelekom",
@@ -7562,6 +7514,12 @@
       "aliases": ""
     },
     {
+      "name": "Reconnaissance General Bureau",
+      "schema": "Organization",
+      "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
+      "aliases": "Chongch’al Ch’ongguk;KPA Unit 586;RGB"
+    },
+    {
       "name": "Federal state enterprise “Plant named after Ia. M. Sverdlov”",
       "schema": "Organization",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
@@ -7848,12 +7806,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
       "aliases": "Associação científica e de produção Rustecdrone;Limited Liability Company “Scientific And Production Association Rustecdrone”;NPO Rustecdrone Kft.;OOO “НПО Рустехдрон”;»Rustecdrone Tudományos és Gyártási Szövetség« Korlátolt Felelősségű Társaság;Общество с ограниченной ответственностью “Научно-Производственное Объединение"
-    },
-    {
-      "name": "PROPAGANDA AND AGITATION DEPARTMENT (PAD)",
-      "schema": "Organization",
-      "sanctions": "PRK - 2017/1568 (OJ L238) - 2017-09-11",
-      "aliases": ""
     },
     {
       "name": "Yulia Sergeevna VELICHKO",
@@ -9410,12 +9362,6 @@
       "aliases": "SUN Ship Management (D) Ltd.;SUN Ship Management (D) SRL;SUN Ship Management Ltd."
     },
     {
-      "name": "Haqqani Network",
-      "schema": "Organization",
-      "sanctions": "AFG - 2017/404 (OJ L63) - 2012-11-05",
-      "aliases": "HQN;Haqqani tinklas;Haqqani võrgustik;Haqqani-hálózat;Haqqani-netwerk;Haqqani-nätverket;Haqqani-verkosto;Haqqaninetværket;Mreža Haqqani;Red Haqqani;Rede Haqqani;Rete Haqqani;Rețeaua Haqqani;Réseau Haqqani;Sieć Haqqani;Síť Haqqani;sieť Haqqani;Δίκτυο Haqqani;Мрежа „Haqqani“"
-    },
-    {
       "name": "Volgaburmash Joint Stock Company",
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -9486,6 +9432,12 @@
       "schema": "Organization",
       "sanctions": "TAQA - 1058/2014 (OJ L293) - 2014-09-23",
       "aliases": "AAS-T;Al-Qayrawan Media Foundation;Ansar al-Sharia;Ansar al-Sharia in Tunisia;Ansar al-Shari’ah;Ansar al-Shari’ah in Tunisia;Supporters of Islamic Law"
+    },
+    {
+      "name": "Internet Research Agency",
+      "schema": "Organization",
+      "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-02-23",
+      "aliases": "Agencija za spletne raziskave;Agencja Badań Internetowych;Agenția pentru cercetarea internetului;Agência de Investigação da Internet;Internetkutató Ügynökség;Internetová výskumná agentúra;Агентство интернет-исследований"
     },
     {
       "name": "新疆生产建设兵团公安局",
@@ -10346,12 +10298,6 @@
       "aliases": "Анатолий Андреевич КОВАЛЕВ"
     },
     {
-      "name": "Garantex",
-      "schema": "Organization",
-      "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
-      "aliases": ""
-    },
-    {
       "name": "Milosh Eduardovich WAGNER",
       "schema": "Person",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -11042,6 +10988,12 @@
       "aliases": "Carskije volki;Carští vlci;Cári farkasok;Tsar Wolves;Tsarskie Volki katonai magánvállalat;empresa militar privada Tsarskie Volki"
     },
     {
+      "name": "Haqqani Network",
+      "schema": "Organization",
+      "sanctions": "AFG - 2017/404 (OJ L63) - 2012-11-05",
+      "aliases": "HQN;Haqqani tinklas;Haqqani võrgustik;Haqqani-hálózat;Haqqani-netwerk;Haqqani-nätverket;Haqqani-verkosto;Haqqaninetværket;Mreža Haqqani;Red Haqqani;Rede Haqqani;Rete Haqqani;Rețeaua Haqqani;Réseau Haqqani;Sieć Haqqani;Síť Haqqani;sieť Haqqani;Δίκτυο Haqqani;Мрежа „Haqqani“"
+    },
+    {
       "name": "Song Il Choe",
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
@@ -11120,12 +11072,6 @@
       "aliases": "Haji Muhammad Qasim Sarafi;Musa Kalim Hawala;New Chagai Trading;Rahat Ltd"
     },
     {
-      "name": "Katarji Group",
-      "schema": "Organization",
-      "sanctions": "SYR - 2022/840 (OJ L148) - 2020-02-17",
-      "aliases": "Al Qatarji Company;Al-Sham and Al-Darwish Company;Grupa Katerji;Katerji Group;Khatirji Group;Qatarji International Group;Qatirji Group;شركة قاطرجى;مجموعة قاطرجى"
-    },
-    {
       "name": "Yevgeny Shevchenko",
       "schema": "Person",
       "sanctions": "RUSDA - 2025/1444 (OJ L202501444) - 2025-07-15",
@@ -11184,6 +11130,12 @@
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2017-08-05",
       "aliases": "Pak Il-Gyu"
+    },
+    {
+      "name": "Islamic Republic of Iran Shipping Lines",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1548 (OJ L202501548) - 2024-11-18;IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
+      "aliases": "Az Iráni Iszlám Köztársaság Tengerhajózási Társasága;Compagnie de transport maritime de la République islamique d'Iran;Companhia de Transportes Marítimos da República Islâmica do Irão;Compania de transport maritim a Republicii Islamice a Iranului;Compañía de Transporte Marítimo de la República Islámica de Irán;IRISL;Iranin islamilaisen tasavallan linjavarustamo;Irano Islamo Respublikos laivybos linijos;Islamic Republic of Iran Shipping Lines (IRISL);Linie Żeglugowe Islamskiej Republiki Iranu;Lodní linky Íránské islámské republiky;Poduzeće za pomorski prijevoz Islamske Republike Iran (IRISL);Ναυτιλιακές γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Οι Ναυτιλιακές Γραμμές της Ισλαμικής Δημοκρατίας του Ιράν;Корабна компания на Ислямска република Иран;گروه کشتیرانی جمهوری اسلمی ایران"
     },
     {
       "name": "Aria Nikan",
@@ -12470,6 +12422,12 @@
       "aliases": "Ali Akbar JAVIDAN"
     },
     {
+      "name": "PROPAGANDA AND AGITATION DEPARTMENT (PAD)",
+      "schema": "Organization",
+      "sanctions": "PRK - 2017/1568 (OJ L238) - 2017-09-11",
+      "aliases": ""
+    },
+    {
       "name": "بسام حنا",
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
@@ -13268,6 +13226,12 @@
       "aliases": "LLC South Fleet;Limited Liability Company Yuzhny Flot;South Fleet;South Fleet Kft.;Yuzhny Flot;Yuzhny Flot Kft.;»Yuzhny Flot« Korlátolt Felelősségű Társaság;ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “ЮЖНЫЙ ФЛОТ”"
     },
     {
+      "name": "صنایع هوایی شاهد",
+      "schema": "Organization",
+      "sanctions": "UKR - 2022/1985 (OJ L272 I) - 2022-10-20",
+      "aliases": "Centro de Investigação das Indústrias de Aviação Shahed;Centrul de cercetare al Shahed Aviation Industries;Indústrias de Aviação Shahed;Shahed Aviation Industries;Shahed Aviation Industries Kutatóközpont;Shahed Aviation Industries Research Center/Centre;مرکز تحقیقات صنایع هوایی شاهد"
+    },
+    {
       "name": "Andrey Ivanovich MALYUKOV",
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
@@ -13910,6 +13874,12 @@
       "aliases": "Aleksandr Vasiljevitj SJUBIN;Александр Васильевич ШУБИН"
     },
     {
+      "name": "Mouvement Du 23 Mars",
+      "schema": "Organization",
+      "sanctions": "COD - 2017/396 (OJ L60) - 2012-12-31",
+      "aliases": "M23;Movimento de 23 de março"
+    },
+    {
       "name": "Андрей Сергеевич БАКАЧ",
       "schema": "Person",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2021-06-21",
@@ -13938,12 +13908,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "Nichtregierungsorganisation „Delfini“;organisation non gouvernementale Delfini;\"organização não governamental \"\"Delfini\"\"\";\"Общественная организация \"\"Дельфины\"\"\";„Delfini” nem kormányzati szervezet"
-    },
-    {
-      "name": "Qods Aviation Industries",
-      "schema": "Organization",
-      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2023-10-17;UKR - 2022/2229 (OJ L293-I) - 2022-11-14",
-      "aliases": "Company for Designing and Manufacturing Light Aircraft;Družba Qods Aviation Industries;Industrias Aeronáuticas Qods;Industries aéronautiques Qods;Industriji tal-Avjazzjoni Qods;Indústrias Aeronáuticas Qods;Indústrias de Aviação Qods;Light Aircraft Design and Manufacturing Industries;QAI;Qods Aeronautics Industries;Quds Air Industries;zakłady przemysłu lotniczego Qods;Въздухоплавателни индустрии Qods;شرکت صنایع هوایی قدس;صنایع هوایی قدس"
     },
     {
       "name": "Boubakeur Boulghit",
@@ -14348,6 +14312,12 @@
       "aliases": "DIS;Defense Industries System;Military Industrial Corporation;Military Industry Corporation;Systém pro obranný průmysl"
     },
     {
+      "name": "Garantex",
+      "schema": "Organization",
+      "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
+      "aliases": ""
+    },
+    {
       "name": "Iran Aircraft Industries",
       "schema": "Organization",
       "sanctions": "IRN - 267/2012 (OJ L88) - 2012-03-23",
@@ -14538,6 +14508,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2009-07-16",
       "aliases": "Korea Hyoksin Trading Corporation"
+    },
+    {
+      "name": "Qods Aviation Industries",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2023-10-17;UKR - 2022/2229 (OJ L293-I) - 2022-11-14",
+      "aliases": "Company for Designing and Manufacturing Light Aircraft;Družba Qods Aviation Industries;Industrias Aeronáuticas Qods;Industries aéronautiques Qods;Industriji tal-Avjazzjoni Qods;Indústrias Aeronáuticas Qods;Indústrias de Aviação Qods;Light Aircraft Design and Manufacturing Industries;QAI;Qods Aeronautics Industries;Quds Air Industries;zakłady przemysłu lotniczego Qods;Въздухоплавателни индустрии Qods;شرکت صنایع هوایی قدس;صنایع هوایی قدس"
     },
     {
       "name": "ВОЛГОГРАДСКАЯ МАШИНОСТРОИТЕЛЬНАЯ КОМПАНИЯ \"ВГТЗ\"",
@@ -15420,12 +15396,6 @@
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2013-01-22",
       "aliases": ""
-    },
-    {
-      "name": "Oje Parvaz Mado Nafar Company",
-      "schema": "Organization",
-      "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-12-12",
-      "aliases": "Mado;Owj Parvaz Mado Nafar Company LLC;Societatea Oje Parvaz Mado Nafar;شرکت اوژه پرواز مادو نفر;مادو"
     },
     {
       "name": "PJSC NGK Slavneft",
@@ -16616,6 +16586,12 @@
       "aliases": ""
     },
     {
+      "name": "Katarji Group",
+      "schema": "Organization",
+      "sanctions": "SYR - 2022/840 (OJ L148) - 2020-02-17",
+      "aliases": "Al Qatarji Company;Al-Sham and Al-Darwish Company;Grupa Katerji;Katerji Group;Khatirji Group;Qatarji International Group;Qatirji Group;شركة قاطرجى;مجموعة قاطرجى"
+    },
+    {
       "name": "Sergey Fedorovich KHRIPACH",
       "schema": "Person",
       "sanctions": "BLR - 2023/1591 (OJ L195 I) - 2023-08-03",
@@ -16890,6 +16866,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 2017/1390 (OJ L195) - 2017-07-20",
       "aliases": "Abu-Muslim Al-Shishani;Arthur;George;John;Lava;Lova Madayev;Murad Akhmedovich Madayev;Muslim;Sedoy;Zurab Iraklievich Margoshvili"
+    },
+    {
+      "name": "SMT Engineering",
+      "schema": "Organization",
+      "sanctions": "SDNZ - 2024/384 (OJ L22012024) - 2024-01-22",
+      "aliases": "SMT;Sudan Master Technology"
     },
     {
       "name": "Javedan Mehr Toos",
@@ -17876,6 +17858,12 @@
       "aliases": ""
     },
     {
+      "name": "Владимир АЛЕКСЕЕВ",
+      "schema": "Person",
+      "sanctions": "CHEM - 2022/2228 (OJ L293-I) - 2022-11-14",
+      "aliases": "Vladimir ALEXEEV;Vladimir ALEXEJEV;Vladimir ALEXEYEV;Vladimir Aleksandrovitj PANJAJEV;Vladimir Alexandrovich PANYAEV;Владимир Александрович ПАНЯЕВ"
+    },
+    {
       "name": "KOREA YUJONG SHIPPING CO LTD",
       "schema": "Organization",
       "sanctions": "PRK - 2018/548 (OJ L91) - 2018-03-30",
@@ -18836,12 +18824,6 @@
       "aliases": "Ansae Institute;Ansar Bank;Ansar Finance and Credit Fund;Ansar Saving and Interest Free-Loans Fund;Ansar al-Mojahedin No-Interest Loan Institute"
     },
     {
-      "name": "VTB Bank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-04-08",
-      "aliases": "Banque VTB;ВТБ/Внешторгбанк"
-    },
-    {
       "name": "Javad DARVISH-VAND",
       "schema": "Person",
       "sanctions": "IRN - 2022/1010 (OJ L170) - 2008-06-23",
@@ -19404,12 +19386,6 @@
       "schema": "Person",
       "sanctions": "TAQA - 2016/307 (OJ L58) - 2016-02-29",
       "aliases": "AA;Abd Al-Baset Azzouz;Abdelbassed Azouz"
-    },
-    {
-      "name": "Isfahan Optics",
-      "schema": "Organization",
-      "sanctions": "IRN - 2024/2074 (OJ L29072024) - 2010-07-26",
-      "aliases": "Iszfaháni Optikai Vállalat"
     },
     {
       "name": "Vitaly Fridrikhovich KILCHEVSKY",
@@ -20130,6 +20106,12 @@
       "schema": "Organization",
       "sanctions": "TAQA - 2017/1390 (OJ L195) - 2017-07-20",
       "aliases": "Harakat al-Muthanna al-Islamia;Khalid ibn al-Walid Army;Liwa Shuhada al-Yarmouk"
+    },
+    {
+      "name": "شرکت صنایع هواپیماسازی ایران",
+      "schema": "Organization",
+      "sanctions": "IRN - 267/2012 (OJ L88) - 2012-03-23;UKR - 2023/192 (OJ L26I) - 2023-01-30",
+      "aliases": "Corporația industriilor producătoare de aeronave din Iran;Empresa iraniana de indústrias de fabrico de aeronaves;HESA;HESA Trade Center;HTC;Hava Peyma Sazi-e Iran;Havapeyma Sazhran;Havapeyma Sazi Iran;Hevapeimasazi;IAMCO;IAMI;Iran Aircraft Manufacturing Company;Iran Aircraft Manufacturing Industries;Iran Aircraft Manufacturing Industries Corporation;Karkhanejate Sanaye Havapaymaie Iran"
     },
     {
       "name": "Az Iszlám Forradalmi Gárda Kibervédelmi Parancsnoksága",
@@ -21152,6 +21134,12 @@
       "aliases": "Gabinete de Conceção Especial de Engenharia de Instrumentos e Automação;OJSC “SKB PA”;Open Joint Stock Company “Special Design Bureau of Instrument Engineering and Automation”;OАО “СКБ ПА”;»SKB PA« Nyrt.;»Special Design Bureau of Instrument Engineering and Automation« Nyilvánosan működő részvénytársaság;»Special Design Bureau of Instrument Engineering and Automation« Nyrt.;Открытое Акционерное общество “Специальное конструкторское бюро приборостроения и автоматики”"
     },
     {
+      "name": "Oje Parvaz Mado Nafar Company",
+      "schema": "Organization",
+      "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-12-12",
+      "aliases": "Mado;Owj Parvaz Mado Nafar Company LLC;Societatea Oje Parvaz Mado Nafar;شرکت اوژه پرواز مادو نفر;مادو"
+    },
+    {
       "name": "LLC “Krafttek”",
       "schema": "Organization",
       "sanctions": "UKR - 2025/1476 (OJ L202501476) - 2025-07-18",
@@ -21366,6 +21354,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/2124 (OJ L430I) - 2021-12-02",
       "aliases": "Igor Anatolevich KRICHKOV;Igor Anatolevich KRIUCHKOV;Igor Anatolevich KRUCHKOV;Igor Anatoljevitj KRJUTJKOV;Ihar Anatolevich KRUCHKOU;Ihar Anatolevič KRUČKOV;Ihar Anatoljevitj KRUTJKOU;Ігар Анатольевіч КРУЧКОЎ"
+    },
+    {
+      "name": "VTB Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-04-08",
+      "aliases": "Banque VTB;ВТБ/Внешторгбанк"
     },
     {
       "name": "Esmail AHMADI-MOQADDAM",
@@ -21822,6 +21816,12 @@
       "schema": "Organization",
       "sanctions": "TAQA - 2020/390 (OJ L74) - 2020-03-04",
       "aliases": "ISLAMIC STATE IN IRAQ AND THE LEVANT - LIBYA;Islamic state of Iraq and the Levant in Libya;Wilayat Al‑Tarablus;Wilayat Barqa;Wilayat Fezzan;Wilayat Tripolitania;الدولة الإسلامية في العراق والشام - ليبيا"
+    },
+    {
+      "name": "Isfahan Optics",
+      "schema": "Organization",
+      "sanctions": "IRN - 2024/2074 (OJ L29072024) - 2010-07-26",
+      "aliases": "Iszfaháni Optikai Vállalat"
     },
     {
       "name": "Somali battalion",
@@ -25088,12 +25088,6 @@
       "aliases": "Андрей Леонидович ДЕРКАЧ;Андрш Леошдович ДЕРКАЧ"
     },
     {
-      "name": "سامر فوز",
-      "schema": "Person",
-      "sanctions": "SYR - 2023/1027 (OJ L139) - 2019-01-21",
-      "aliases": "Samer FOZ;Samer Foz bin Zuhair;Samer Zuhair Foz;Samir Fawz;Samir Foz"
-    },
-    {
       "name": "Nikolay Mikhailovich PARSHIN",
       "schema": "Person",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -25124,10 +25118,10 @@
       "aliases": "Jaroslav Dronov;Shaman;Ярослав Юрьевич ДРОНОВ"
     },
     {
-      "name": "Amer FOZ",
+      "name": "سامر فوز",
       "schema": "Person",
-      "sanctions": "SYR - 2023/1027 (OJ L139) - 2020-02-17",
-      "aliases": "Amer Zuhair Fawz;عامر فوز"
+      "sanctions": "SYR - 2023/1027 (OJ L139) - 2019-01-21;SYR - 2023/1027 (OJ L139) - 2020-02-17",
+      "aliases": "Amer FOZ;Amer Zuhair Fawz;Samer FOZ;Samer Foz bin Zuhair;Samer Zuhair Foz;Samir Fawz;Samir Foz;عامر فوز"
     },
     {
       "name": "Sa'd Abd-al-Majid Al-Faisal Al-Tikriti",
