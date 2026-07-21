@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T05:46:30.658428+00:00",
+  "generated_at": "2026-07-21T05:15:36.625997+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -35358,6 +35358,144 @@
       "schema": "Person",
       "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
       "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
+    },
+    {
+      "name": "Lilya Valerievna SHVETSOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Лилия Валерьевна ШВЕЦОВА"
+    },
+    {
+      "name": "Elena Vasilievna ROMANOVSKAYA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Елена Васильевна РОМАНОВСКАЯ"
+    },
+    {
+      "name": "Andrey Pavlovich SABINOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Андрей Павлович САБИНОВ"
+    },
+    {
+      "name": "Александра Александровна БОНДАРЕВА",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Aleksandra Aleksandrovna BONDAREVA"
+    },
+    {
+      "name": "Alevtina Vasilievna ANDREEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Алевтина Васильевна АНДРЕЕВА"
+    },
+    {
+      "name": "Alina Sergeevna NIKISHAEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Алина Сергеевна НИКИШАЕВА"
+    },
+    {
+      "name": "Igor Valerievich ZHURAVLEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Игорь Валерьевич ЖУРАВЛЁВ"
+    },
+    {
+      "name": "Andranik Sarkisovich GASPARYAN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Андраник Саркисович ГАСПАРЯН"
+    },
+    {
+      "name": "Igor VOROBYOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Игорь ВОРОБЬЕВ"
+    },
+    {
+      "name": "Egor Andreevich LOGUNOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Егор Андреевич ЛОГУНОВ"
+    },
+    {
+      "name": "Marina Yuryevna SLONCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Марина Юрьевна СЛОНЧЕНКО"
+    },
+    {
+      "name": "Natalya Dadadzhonovna SHEVCHUK",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Наталья Дададжоновна ШЕВЧУК"
+    },
+    {
+      "name": "Evgeniya Alexandrovna GRICHENKOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Евгения Александровна ГРИЧЕНКОВА"
+    },
+    {
+      "name": "Dmitriy Evgenievich SHEVCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Dmitry Evgenievich SHEVCHENKO;Дмитрий Евгеньевич ШЕВЧЕНКО"
+    },
+    {
+      "name": "Aleksey Sergeevich ZINCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Alexey Sergeevich ZINCHENKO;Алексей Сергеевич ЗИНЧЕНКО;Олексій Сергійович ЗIНЧЕНКО"
+    },
+    {
+      "name": "Анастасия Павловна АККУРАТОВА",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Anastasia Pavlovna AKKURATOVA"
+    },
+    {
+      "name": "All Russian Children’s Centre “Smena”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "All-Russian Children’s Centre “Change”;Federal State Budgetary Educational Institution All Russian Children’s Centre “Smena”;Всероссийский детский центр “Смена”;ФГБОУ ВДЦ “Смена”"
+    },
+    {
+      "name": "Avangard Military Camp",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Avangard Military-Patriotic Training Centre;Военно-патриотический центр “Авангард”"
+    },
+    {
+      "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
+    },
+    {
+      "name": "Ano Military-Patriotic Club “Patriot”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Autonomous Non-Commercial Organisation Military-Patriotic Club “Patriot”;Military-Patriotic Club “Patriot”"
+    },
+    {
+      "name": "Federal State Public Educational Institution “Nakhimov Naval School of the Order of Honor of the Ministry of Defense of the Russian Federation”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "NVMU;Nakhimov Naval School;НВМУ;Нахимовское военно-морское училище;Федеральное государственное казённое общеобразовательное учреждение “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской Федерации”"
+    },
+    {
+      "name": "All-Russian Children’s Centre “Orlyonok”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Federal State Budgetary Educational Institution All-Russian Children’s Centre “Orlyonok”;Всероссийский детский центр “Орлёнок”;ФГБОУ ВДЦ “Орлёнок”;Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Орлёнок”"
+    },
+    {
+      "name": "All-Russian Children’s Centre “Scarlet Sails”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "All-Russian Children’s Centre “Alye Parusa”;Federal State Budgetary Educational Institution All-Russian Children’s Centre “Scarlet Sails”;Всероссийский детский центр “Алые паруса”;Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Алые паруса”"
     }
   ]
 }
