@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T05:26:52.661828+00:00",
+  "generated_at": "2026-07-22T05:14:35.441122+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -266,6 +266,12 @@
       "aliases": "AO Омский завод транспортного машиностроения “ОМСКТРАНСМАШ”;Fabryka Maszyn Transportowych „Omsk” SA;Omsktransmasj"
     },
     {
+      "name": "Andrey Pavlovich SABINOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Андрей Павлович САБИНОВ"
+    },
+    {
       "name": "Alexandr Valerievich BYKOV",
       "schema": "Person",
       "sanctions": "BLR - 2024/768 (OJ L27022024) - 2020-10-02",
@@ -432,6 +438,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/1476 (OJ L202501476) - 2025-07-19",
       "aliases": "PJSC “Yakutsk Fuel and Energy Company”;Публичное Акционерное Общество “Якутская Топливно Энергетическая Компания”"
+    },
+    {
+      "name": "Avangard Military Camp",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Avangard Military-Patriotic Training Centre;Военно-патриотический центр “Авангард”"
     },
     {
       "name": "Dmitry Evgenevich PANKRATOV",
@@ -908,6 +920,12 @@
       "aliases": ""
     },
     {
+      "name": "Alina Sergeevna NIKISHAEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Алина Сергеевна НИКИШАЕВА"
+    },
+    {
       "name": "Oleg Vladimirovich SEVOSTYANOV",
       "schema": "Person",
       "sanctions": "HR - 2024/952 (OJ L22032024) - 2024-03-22",
@@ -1328,6 +1346,12 @@
       "aliases": "Nina Dorochovová;Nina Viktorovna DOROCHOVA;Нина Викторовна ДОРОХОВА"
     },
     {
+      "name": "Ano Military-Patriotic Club “Patriot”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Autonomous Non-Commercial Organisation Military-Patriotic Club “Patriot”;Military-Patriotic Club “Patriot”"
+    },
+    {
       "name": "Saeng Pil Trading Corporation",
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2012-05-02",
@@ -1368,6 +1392,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2020/1367 (OJ L318) - 2020-10-01",
       "aliases": "Александр Николаевич ГАНОВ"
+    },
+    {
+      "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
     },
     {
       "name": "منال الأسد",
@@ -2336,6 +2366,12 @@
       "aliases": ""
     },
     {
+      "name": "Aleksey Sergeevich ZINCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Alexey Sergeevich ZINCHENKO;Алексей Сергеевич ЗИНЧЕНКО;Олексій Сергійович ЗIНЧЕНКО"
+    },
+    {
       "name": "محمد عبدالكریم الغماري",
       "schema": "Person",
       "sanctions": "YEM - 2021/2015 (OJ L410I) - 2021-11-09",
@@ -2364,6 +2400,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
       "aliases": "Roman Viktorovitj SAPRUNOV;Роман Викторович САПРУНОВ"
+    },
+    {
+      "name": "Marina Yuryevna SLONCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Марина Юрьевна СЛОНЧЕНКО"
     },
     {
       "name": "Mohammad Azam Elmi",
@@ -3200,6 +3242,12 @@
       "aliases": "Ribotos atsakomybės bendrovė (RAB) „Oskartour“;ООО Оскартур"
     },
     {
+      "name": "Igor VOROBYOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Игорь ВОРОБЬЕВ"
+    },
+    {
       "name": "Denis Valerievich TYURIN",
       "schema": "Person",
       "sanctions": "UKR - 2023/1563 (OJ L 190 I) - 2023-07-28",
@@ -3330,6 +3378,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2024/3177 (OJ L16122024) - 2024-12-16",
       "aliases": "Irina Majková;Iryna Leanidauna MAIKO;Iryna Majko;Iрына Леанідаўна МАЙКО;Ирина Леонидовна МАЙКО"
+    },
+    {
+      "name": "Evgeniya Alexandrovna GRICHENKOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Евгения Александровна ГРИЧЕНКОВА"
     },
     {
       "name": "Enutek Makina Sanayi Ve Ticaret",
@@ -3744,6 +3798,12 @@
       "schema": "Person",
       "sanctions": "HR - 2023/1715 (OJ L221 I) - 2023-09-08",
       "aliases": "Dljaver Memetovitj BERBEROV;Dľaver Memetovič BERBEROV;Длявер Меметович БЕРБЕРОВ"
+    },
+    {
+      "name": "Dmitriy Evgenievich SHEVCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Dmitry Evgenievich SHEVCHENKO;Дмитрий Евгеньевич ШЕВЧЕНКО"
     },
     {
       "name": "Ahmad Iman Ali",
@@ -5228,6 +5288,12 @@
       "aliases": "Az Iszlám Forradalmi Gárda Teherán tartománybeli Seyyed al-Shohada regionális hadteste;Corpo regionale Seyyed al-Shohada del Corpo delle guardie rivoluzionarie islamiche (IRGC), provincia di Teheran;\"Corps provincial \"\"Seyyed al-Shohada\"\" relevant du Corps des gardiens de la révolution islamique (IRGC) dans la province de Téhéran\";Corpul provincial «Seyyed al-Shohada» al Corpului Gardienilor Revoluției Iraniene (IRGC) din provincia Teheran;Cuerpo regional «Seyyed al-Shohada» del Cuerpo de los Guardianes de la Revolución Islámica en la provincia de Teherán;Cór réigiúnach Seyyed al-Shohada an Islamic Revolutionary Guard Corps (IRGC) i gcúige Tehran.;Den Islamiske Revolutionsgardes (IRGC's) regionale korps Seyyed al-Shohada i Teheranprovinsen;Islamic Revolutionary Guard Corps (IRGC) Regional Corps Seyyed al-Shohada in Tehran province;Islamilaisen vallankumous-kaartin (IRGC) alueelliset Seyyed al-Shohada -joukot Teheranin maakunnassa;Islamiska revolutionsgardets regionala Seyyed al-Shohada-styrkor i provinsen Teheran;Islamo revoliucijos gvardijos (IRGC) regioninis Seyyed al-Shohada korpusas Teherano provincijoje;Islāma revolucionāro gvardu korpusa (IRGC) reģionālais korpuss Seyyed al-Shohada, kas atrodas Teherānas provincē;Korp Reġjonali Seyyed al-Shohada tal-Korp tal-Gwardjani tar-Rivoluzzjoni Iżlamika (IRGC)) fil-provinċja ta’ Tehran;Należące do Korpusu Strażników Rewolucji Islamskiej (IRGC) regionalne siły Seyyed al-Shohada prowincji Teheran;Regionaal korps “Seyyed al-Shohada” van de Islamitische Revolutionaire Garde (IRG) in de provincie Teheran;Regionalkorps „Seyyed al-Shohada“ des Korps der Islamischen Revolutionsgarde (Islamic Revolutionary Guard Corps, IRGC) in der Provinz Teheran;Regionalni korpus Seyyed al-Shohada Islamske revolucionarne garde (IRGC)) u pokrajini Teheranu;Regionálna jednotka Zboru islamských revolučných gárd (IRGC) Seyyed al-Shohada v provicii Teherán;Regionální jednotka Islámských revolučních gard (IRGC) Sejjed aš-Šoháda v provincii Teherán;islami revolutsioonilise kaardiväe (IRGC) piirkondlik üksus Seyyed al-Shohada Teherani provintsis;regionalna enota Islamske revolucionarne garde Seyyed al-Shohada v provinci Teheran;Επαρχιακό σώμα Seyyed al-Shohada του Στρατού των Φρουρών της Ισλαμικής Επανάστασης (IRGC), επαρχία της Τεχεράνης;Регионален корпус Seyyed al-Shohada на Корпуса на гвардейците на ислямската революция (IRGC) в провинция Техеран"
     },
     {
+      "name": "Igor Valerievich ZHURAVLEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Игорь Валерьевич ЖУРАВЛЁВ"
+    },
+    {
       "name": "Marine Industries",
       "schema": "Organization",
       "sanctions": "IRN - 267/2012 (OJ L88) - 2012-03-23",
@@ -5898,6 +5964,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-02-23",
       "aliases": "Haji Mudir;Mohammad Taher Anwari;Mohammad Tahre Anwari;Muhammad Tahir Anwari"
+    },
+    {
+      "name": "Alevtina Vasilievna ANDREEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Алевтина Васильевна АНДРЕЕВА"
     },
     {
       "name": "Anastasia Uladzimirouna BENEDZISIUK",
@@ -8378,6 +8450,12 @@
       "aliases": "Роман Викторович ВЛАДИМИРОВ"
     },
     {
+      "name": "All Russian Children’s Centre “Smena”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "All-Russian Children’s Centre “Change”;Federal State Budgetary Educational Institution All Russian Children’s Centre “Smena”;Всероссийский детский центр “Смена”;ФГБОУ ВДЦ “Смена”"
+    },
+    {
       "name": "Viktor Nikolayevitch ADROV",
       "schema": "Person",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -8424,6 +8502,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/878 (OJ L153) - 2022-06-03",
       "aliases": "Sergej Sergejevitj ZORIN;Sergey Sergeevich ZORIN"
+    },
+    {
+      "name": "All-Russian Children’s Centre “Scarlet Sails”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "All-Russian Children’s Centre “Alye Parusa”;Federal State Budgetary Educational Institution All-Russian Children’s Centre “Scarlet Sails”;Всероссийский детский центр “Алые паруса”;Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Алые паруса”"
     },
     {
       "name": "Open Joint Stock Company \"MINSK ELECTROTECHNICAL PLANT NAMED AFTER V. I. KOZLOV\"",
@@ -8880,6 +8964,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "Televizijski kanal Tsargrad;Televízia Cargrad;Tsargrad TV Channel;Tsargrad televíziós csatorna;Tělekanal Cargard;chaîne de télévision Tsargrad;télévision Tsargrad;Τηλεοπτικό κανάλι Tsargrad;Телеканал Царьград;телевизия „Царград“"
+    },
+    {
+      "name": "Andranik Sarkisovich GASPARYAN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Андраник Саркисович ГАСПАРЯН"
     },
     {
       "name": "Citrine Marine SPC",
@@ -10020,6 +10110,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/362 (OJ L22012024) - 2024-01-22",
       "aliases": ""
+    },
+    {
+      "name": "Elena Vasilievna ROMANOVSKAYA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Елена Васильевна РОМАНОВСКАЯ"
     },
     {
       "name": "Armed Forces Geographical Organisation",
@@ -11180,6 +11276,12 @@
       "aliases": "Сергей Николаевич СТАНКЕВИЧ"
     },
     {
+      "name": "Александра Александровна БОНДАРЕВА",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Aleksandra Aleksandrovna BONDAREVA"
+    },
+    {
       "name": "Dumitru CHITOROAGĂ",
       "schema": "Person",
       "sanctions": "MDA - 2025/817 (OJ L202500817) - 2024-02-22",
@@ -11280,6 +11382,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
       "aliases": "AO “МПЗ”;Akciová společnost „Murom Instrument-Making Plant“;JSC Muromo prietaisų gamykla;JSC “MPZ”;Laitetehdas Murom JSC;Muromi Műszergyártó Üzem;Spoločnosť JSC “Murom Instrument-Making Plant”;Usine de fabrication d’instruments Murom S.A.;Uzina producătoare de instrumente Murom SA;fábrica de instrumentos JSC Murom;sociedad anónima “Murom Instrument-Making Plant”;\"società per azioni \"\"Murom Instrument Making Plant\"\"\";Акционерное общество “Муромский приборостроительный завод”"
+    },
+    {
+      "name": "Egor Andreevich LOGUNOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Егор Андреевич ЛОГУНОВ"
     },
     {
       "name": "OOO Липецкий механический завод",
@@ -19262,6 +19370,12 @@
       "aliases": "Maksim Yuryevich ERMAKOV;Maxim ERMAKOV"
     },
     {
+      "name": "Анастасия Павловна АККУРАТОВА",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Anastasia Pavlovna AKKURATOVA"
+    },
+    {
       "name": "Ekaterina Viktorovna GALYAUTDINOVA",
       "schema": "Person",
       "sanctions": "RUS - 2024/1488 (OJ L27052024) - 2024-05-27",
@@ -20204,6 +20318,12 @@
       "aliases": "Вадим Александрович САРДАНОВ"
     },
     {
+      "name": "All-Russian Children’s Centre “Orlyonok”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Federal State Budgetary Educational Institution All-Russian Children’s Centre “Orlyonok”;Всероссийский детский центр “Орлёнок”;ФГБОУ ВДЦ “Орлёнок”;Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Орлёнок”"
+    },
+    {
       "name": "Leanid ZHURAUSKI",
       "schema": "Person",
       "sanctions": "BLR - 2023/419 (OJ L61) - 2020-10-02",
@@ -20892,6 +21012,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-02-23",
       "aliases": "Aminullah Amin;Muhammad Yusuf"
+    },
+    {
+      "name": "Natalya Dadadzhonovna SHEVCHUK",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Наталья Дададжоновна ШЕВЧУК"
     },
     {
       "name": "Forces Democratiques De Liberation Du Rwanda",
@@ -21810,6 +21936,12 @@
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2017-08-05",
       "aliases": "Mun Chol Kim"
+    },
+    {
+      "name": "Lilya Valerievna SHVETSOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Лилия Валерьевна ШВЕЦОВА"
     },
     {
       "name": "Wilayat Tarablus",
@@ -35360,142 +35492,10 @@
       "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
     },
     {
-      "name": "Lilya Valerievna SHVETSOVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Лилия Валерьевна ШВЕЦОВА"
-    },
-    {
-      "name": "Elena Vasilievna ROMANOVSKAYA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Елена Васильевна РОМАНОВСКАЯ"
-    },
-    {
-      "name": "Andrey Pavlovich SABINOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Андрей Павлович САБИНОВ"
-    },
-    {
-      "name": "Александра Александровна БОНДАРЕВА",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Aleksandra Aleksandrovna BONDAREVA"
-    },
-    {
-      "name": "Alevtina Vasilievna ANDREEVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Алевтина Васильевна АНДРЕЕВА"
-    },
-    {
-      "name": "Alina Sergeevna NIKISHAEVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Алина Сергеевна НИКИШАЕВА"
-    },
-    {
-      "name": "Igor Valerievich ZHURAVLEV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Игорь Валерьевич ЖУРАВЛЁВ"
-    },
-    {
-      "name": "Andranik Sarkisovich GASPARYAN",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Андраник Саркисович ГАСПАРЯН"
-    },
-    {
-      "name": "Igor VOROBYOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Игорь ВОРОБЬЕВ"
-    },
-    {
-      "name": "Egor Andreevich LOGUNOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Егор Андреевич ЛОГУНОВ"
-    },
-    {
-      "name": "Marina Yuryevna SLONCHENKO",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Марина Юрьевна СЛОНЧЕНКО"
-    },
-    {
-      "name": "Natalya Dadadzhonovna SHEVCHUK",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Наталья Дададжоновна ШЕВЧУК"
-    },
-    {
-      "name": "Evgeniya Alexandrovna GRICHENKOVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Евгения Александровна ГРИЧЕНКОВА"
-    },
-    {
-      "name": "Dmitriy Evgenievich SHEVCHENKO",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Dmitry Evgenievich SHEVCHENKO;Дмитрий Евгеньевич ШЕВЧЕНКО"
-    },
-    {
-      "name": "Aleksey Sergeevich ZINCHENKO",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Alexey Sergeevich ZINCHENKO;Алексей Сергеевич ЗИНЧЕНКО;Олексій Сергійович ЗIНЧЕНКО"
-    },
-    {
-      "name": "Анастасия Павловна АККУРАТОВА",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Anastasia Pavlovna AKKURATOVA"
-    },
-    {
-      "name": "All Russian Children’s Centre “Smena”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "All-Russian Children’s Centre “Change”;Federal State Budgetary Educational Institution All Russian Children’s Centre “Smena”;Всероссийский детский центр “Смена”;ФГБОУ ВДЦ “Смена”"
-    },
-    {
-      "name": "Avangard Military Camp",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Avangard Military-Patriotic Training Centre;Военно-патриотический центр “Авангард”"
-    },
-    {
-      "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
-    },
-    {
-      "name": "Ano Military-Patriotic Club “Patriot”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Autonomous Non-Commercial Organisation Military-Patriotic Club “Patriot”;Military-Patriotic Club “Patriot”"
-    },
-    {
       "name": "Federal State Public Educational Institution “Nakhimov Naval School of the Order of Honor of the Ministry of Defense of the Russian Federation”",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "NVMU;Nakhimov Naval School;НВМУ;Нахимовское военно-морское училище;Федеральное государственное казённое общеобразовательное учреждение “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской Федерации”"
-    },
-    {
-      "name": "All-Russian Children’s Centre “Orlyonok”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Federal State Budgetary Educational Institution All-Russian Children’s Centre “Orlyonok”;Всероссийский детский центр “Орлёнок”;ФГБОУ ВДЦ “Орлёнок”;Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Орлёнок”"
-    },
-    {
-      "name": "All-Russian Children’s Centre “Scarlet Sails”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "All-Russian Children’s Centre “Alye Parusa”;Federal State Budgetary Educational Institution All-Russian Children’s Centre “Scarlet Sails”;Всероссийский детский центр “Алые паруса”;Федеральное государственное бюджетное образовательное учреждение «Всероссийский детский центр “Алые паруса”"
     }
   ]
 }
