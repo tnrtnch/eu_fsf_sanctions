@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T05:20:54.050157+00:00",
+  "generated_at": "2026-07-29T05:16:28.404226+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1392,12 +1392,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2020/1367 (OJ L318) - 2020-10-01",
       "aliases": "Александр Николаевич ГАНОВ"
-    },
-    {
-      "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
     },
     {
       "name": "منال الأسد",
@@ -35496,6 +35490,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "NVMU;Nakhimov Naval School;НВМУ;Нахимовское военно-морское училище;Федеральное государственное казённое общеобразовательное учреждение “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской Федерации”"
+    },
+    {
+      "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
     }
   ]
 }
