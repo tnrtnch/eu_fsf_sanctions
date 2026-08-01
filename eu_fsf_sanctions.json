@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:41:29.555523+00:00",
+  "generated_at": "2026-08-01T05:21:34.837299+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -12,6 +12,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/90040 (OJ L24102023) [corrigendum] - 2022-04-08",
       "aliases": "Irina Anatoljevna KOSTENKO;Iryna Anatolijivna KOSTENKO;Ірина Анатоліївна КОСТЕНКО;Ирина Анатольевна КОСТЕНКО"
+    },
+    {
+      "name": "GV Gold",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Vysochaishy;АКЦИОНЕРНОЕ ОБЩЕСТВО ВЫСОЧАЙШИЙ;АО Высочайший"
     },
     {
       "name": "Onsong County MSS Detention Centre",
@@ -116,6 +122,12 @@
       "aliases": "Tarif AL AKHRAS;الاخرس;طريف اخرس"
     },
     {
+      "name": "Aleksander Viktorovich RUDIK",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Aleksandr Viktorovich RUDIK;Александр Викторович РУДИК"
+    },
+    {
       "name": "Hassan SAFIYEH",
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
@@ -204,6 +216,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2024/2113 (OJ L 202402113) - 2024-08-05",
       "aliases": "Stanislau Ivanjucenka;Stanislav Ivaňutenko;Stanislav Vladimirovich IVANYUTENKO;Станислав Владимирович ИВАНЮТЕНКО;Станіслаў Уладзіміравіч IВАНЮЦЕНКА"
+    },
+    {
+      "name": "JSC ORBITA",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ORBITA S.A.;АО ОРБИТА"
     },
     {
       "name": "ZHANG Shilong",
@@ -296,6 +314,12 @@
       "aliases": "AQ-S;Al-Qaida in Syria;Guardians of Religion;Huras-al-Din;Hurras AL-DIN (HaD);Sham Al-Ribat;Tandhim Hurras Al-Deen;Tanzim Hurras Al-Din"
     },
     {
+      "name": "Mikhail Vladimirovich DEGTYAREV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Mikhail Vladimirovich DEGTYARYOV;Михаил Владимирович ДЕГТЯРЁВ"
+    },
+    {
       "name": "Elvira Yunusovna OBUKHOVA",
       "schema": "Person",
       "sanctions": "UKR - 2023/806 (OJ L101) - 2022-12-16",
@@ -306,6 +330,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Владимир Александрович ГОРЛОВ"
+    },
+    {
+      "name": "Joint Stock Company Commercial Bank Lanta-Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Акционерное Общество Коммерческий Банк Ланта-Банк"
     },
     {
       "name": "Nikolai Aleksandrovich TUPIKIN",
@@ -368,6 +398,12 @@
       "aliases": "Khaleel ZGHRAYBIH;Khaleel Zaghrayba;Khaleel Zaghraybah;Khaleel Zaghraybe;Khaleel Zeghrayba;Khaleel Zeghraybah;Khaleel Zeghraybe;Khaleel Zeghraybeh;Khaleel Zghrayba;Khaleel Zghraybah;Khaleel Zghraybe;Khaleel Zghraybeh;Khaleel Zighrayba;Khaleel Zighraybah;Khaleel Zighraybe;Khaleel Zighraybeh;Khaleel Zughrayba;Khaleel Zughraybah;Khaleel Zughraybe;Khaleel Zughraybeh;Khalil ZGHRAYBIH;Khalil Zaghrayba;Khalil Zaghraybah;Khalil Zaghraybe;Khalil Zaghraybeh;Khalil Zeghrayba;Khalil Zeghraybah;Khalil Zeghraybe;Khalil Zeghraybeh;Khalil Zghrayba;Khalil Zghraybah;Khalil Zghraybe;Khalil Zghraybeh;Khalil Zighrayba;Khalil Zighraybah;Khalil Zighraybe;Khalil Zighraybeh;Khalil Zughrayba;Khalil Zughraybah;Khalil Zughraybe;Khalil Zughraybeh;خليل زغربية;خليل زغريبه"
     },
     {
+      "name": "Limited Liability Company OZON Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Общество с Ограниченной Ответственностью ОЗОН Банк"
+    },
+    {
       "name": "JSC LOMO",
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -384,6 +420,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Vladimir Gennadjevitj PAKREJEV;Volodymyr Henadijovytj PAKREJEV;Владимир Геннадьевич ПАКРЕЕВ;Володимир Генадійович ПАКРЕЄВ"
+    },
+    {
+      "name": "Mikhail Safarbekovich GUTSERIEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Михаил Сафарбекович ГУЦЕРИЕВ"
     },
     {
       "name": "Anastasia Pavlovna POPKO",
@@ -500,10 +542,22 @@
       "aliases": "Emad HAMSHO;Emad Hamcho;Emad Hamchu;Emad Hemasho;Emad Hmeisho;Emad Hmisho;Imad HAMSHO;Imad Hamcho;Imad Hamchu;Imad Hamisho;Imad Hemasho;Imad Hmeisho;Imad Hmisho;عماد حمشو"
     },
     {
+      "name": "Public Joint Stock Company Metallinvestbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca de Investiții Metalurgice, societate publică pe acțiuni;Public Joint Stock Company Metalurgical Investment Bank;Публичное Акционерное Общество Металлинвестбанк;Публичное Акционерное Общество Металлургический Инвестиционный Банк"
+    },
+    {
       "name": "Hunan Haotyanyi",
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": ""
+    },
+    {
+      "name": "Credit Union “Payment Center” Ltd",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC RNCO “Payment Center”;ООО РНКО “Платежный Центр”"
     },
     {
       "name": "841st Separate Electronic Warfare Center of the Baltic Fleet",
@@ -686,6 +740,12 @@
       "aliases": "Leanid Viktaravitj Kasinski;Leonid Viktorovitj Kasinskij;Леанiд Вiктаравiч КАСIНСКI;Леонид Викторович КАСИНСКИЙ"
     },
     {
+      "name": "JSC Rosselkhozbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Russian Agricultural Bank;RSHB;АО Россельхозбанк;РСХБ"
+    },
+    {
       "name": "Al-Azaim Media Foundation",
       "schema": "Organization",
       "sanctions": "EUAQ - 2025/515(OJ L202500515) - 2025-03-17",
@@ -720,6 +780,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Maksim Gennadijevitj KNYSJ;Maksym Gennadijovytj KNYSJ;Максим Геннадиевич Кныш;Максим Геннадійович Книш"
+    },
+    {
+      "name": "PJSC AK BARS Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО АК БАРС Банк"
     },
     {
       "name": "Mikhail Alekseevich NEIMOVICH",
@@ -872,6 +938,12 @@
       "aliases": "علي"
     },
     {
+      "name": "Public Joint Stock Company SDM-Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Публичное Акционерное Общество СДМ-Банк"
+    },
+    {
       "name": "Management Company Tatneft-Neftekhim LLC",
       "schema": "Organization",
       "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-06-03",
@@ -888,6 +960,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
       "aliases": "JSC Stratim;»Stratim« Részvénytársaság;Акционерное Общество “Стратим”"
+    },
+    {
+      "name": "EPO Signal LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Engelsskoe Priborostroitelnoe Obyedinenie Signal;LLC Engels Instrumentation Association Signal;Общество с ограниченной ответственностью Энгельсское приборостроитель ное объединение Сигнал;ЭПО Сигнал"
     },
     {
       "name": "Igor Alekseevich GROZA",
@@ -944,6 +1022,12 @@
       "aliases": "Aleksandr Jevgenjevitj SJATROV;Alexander Evgenevich SHATROV;Aliaksandr Yauhenavich SHATROU;Aljaksandr Jauhenavitj SJATROU;Александр Евгеньевич ШАТРОВ;Аляксандр Яўгенавіч ШАТРОЎ"
     },
     {
+      "name": "Rimma Vladimirovna FALALEYEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Rimma Falalejevová;Римма Владимировна ФАЛАЛЕЕВА"
+    },
+    {
       "name": "Aleksandr Borisovich LIVSHITS",
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -954,6 +1038,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-02-23",
       "aliases": ""
+    },
+    {
+      "name": "Joint Stock Company Pergam Engineering",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Акционерное общество Пергам Инжиниринг"
     },
     {
       "name": "Kwang Yon KIM",
@@ -990,6 +1080,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/849 (OJ L13032024) - 2022-04-08",
       "aliases": "Maksim Aleksejevitj PROTASOV;Maksimum Alekseevich PROTASOV;Максим Алексеевич ПРОТАСОВ"
+    },
+    {
+      "name": "AMR JSC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Joint-stock Company Aluminium Metallurg Rus;АО АМР;Акционерное общество “Алюминий Металлург Рус”"
     },
     {
       "name": "Aleksey Konstantinovich KAKHIDZE",
@@ -1208,10 +1304,22 @@
       "aliases": "Swe Swe Aung"
     },
     {
+      "name": "Alexander MARSHAL",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Vitalyevich MINKOV;Александр Витальевич МИНЬКОВ;Александр МАРШАЛ"
+    },
+    {
       "name": "Isaschar MANNE",
       "schema": "Person",
       "sanctions": "HR - 2024/1960 (OJ L15072024) - 2024-07-15",
       "aliases": "Issachar MANN;יששכר מן"
+    },
+    {
+      "name": "Limited Liability Company Bank Tochka",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Общество с Ограниченной Ответственностью Банк Точка"
     },
     {
       "name": "Safe Internet League",
@@ -1274,6 +1382,12 @@
       "aliases": "Joint Stock Company “Samara Electromechanical Plant”;SEMZ Rt.;»Szamarai Elektromechanikai Üzem« Részvénytársaság;АО “СЭМЗ”;АО “Самарский Электромеханический Завод”"
     },
     {
+      "name": "JSC “Kuibyshevsk Oil Refinery”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Akciová spoločnosť „Kuibyshevsk Oil Refinery“;JSC “KNPZ”;Joint Stock Company “Kuibyshevsk Oil Refinery”;Rafinăria de Petrol Kuibyshevsk, societate pe acțiuni;АО “КНПЗ”;Акционерное общество “Куйбышевский Нефтеперерабатывающий Завод”"
+    },
+    {
       "name": "Ibrahim MA'LA",
       "schema": "Person",
       "sanctions": "SYR - 2021/848 (OJ L188) - 2012-07-24",
@@ -1290,6 +1404,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2025/776 (OJ L202500776) - 2025-04-14",
       "aliases": ""
+    },
+    {
+      "name": "Andrey Ivanovich SCHNEIDER",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Andrey SCHNEIDER;Андрей Иванович ШНАЙДЕР;Андрей ШНАЙДЕР"
     },
     {
       "name": "رافع أبو سعد",
@@ -1544,6 +1664,12 @@
       "aliases": "Malek Ajdar SHARIFI"
     },
     {
+      "name": "JSC Bank Orenburg",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Orenburg S.A.;АО Банк Оренбург"
+    },
+    {
       "name": "Андрей Юрьевич ПАВЛЮЧЕНКО",
       "schema": "Person",
       "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
@@ -1658,6 +1784,12 @@
       "aliases": "CHOE Yong Ho;최용호"
     },
     {
+      "name": "Vladimir Grigorievich TABAK",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Владимир Григорьевич ТАБАК"
+    },
+    {
       "name": "Aung Saw Win",
       "schema": "Person",
       "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
@@ -1722,6 +1854,18 @@
       "schema": "Person",
       "sanctions": "BLR - 2023/419 (OJ L61) - 2021-06-21",
       "aliases": "Alina Sergejevna KASIANTJIK;Alina Siarhejeuna KASIANTJYK;Alina Siarhieeuna KASIANCHYK;Алина Сергеевна КАСЬЯНЧИК;Аліна Сяргееўна КАСЬЯНЧЫК"
+    },
+    {
+      "name": "PJSC Metkombank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Меткомбанк"
+    },
+    {
+      "name": "JSC Petersburg Social Commercial Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "(Banca Comercială Socială Petersburg S.A.;JSC PSCB Russian: АO Петербургский Социальный Коммерческий Банк;АО ПСКБ"
     },
     {
       "name": "Douglas Arnoldo RICO GONZÁLEZ",
@@ -1806,6 +1950,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2013-03-07",
       "aliases": "2nd Academy of Natural Sciences;Academy of Natural Sciences;Chayon Kwahak-Won;Che 2 Chayon Kwahakwon;Kukpang Kwahak-Won;National Defense Academy;Sansri;Second Academy of Natural Sciences Research Institute"
+    },
+    {
+      "name": "Peninsular Maritime India Private Limited",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "India Maritimă Peninsulară, societate privată cu răspundere limitată"
     },
     {
       "name": "Vadim Ivanovich MOZOL",
@@ -1932,6 +2082,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2019-01-21",
       "aliases": "Anas TALAS;Anas Talous;Anas Tlass;Anas Tuls;أنس طلس"
+    },
+    {
+      "name": "JSC Royal Credit Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Роял Кредит Банк"
     },
     {
       "name": "Yuriy Nikolaevich AFANASEVSKY",
@@ -2072,6 +2228,12 @@
       "aliases": "Andrej Nikolajevitj IVANOV;Andrey Nikolaevich IVANOV"
     },
     {
+      "name": "Joint Stock Company “Aerodrommash”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Akciová spoločnosť „Aerodrommash“;JSC “Aerodrommash”;\"Joint Stock Company \"\"Airdrome Machines”\";\"Акционерное общество \"\"Аэродроммаш\"\"\";\"Акционерное общество \"\"Аэродромные Машины\"\"\""
+    },
+    {
       "name": "Ruslan Raisovich MARDANOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
@@ -2138,6 +2300,12 @@
       "aliases": "Nikolaj Gusev;Николай Анатольевич ГУСЕВ"
     },
     {
+      "name": "PJSC Chelyabinvestbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Челябинвестбанк"
+    },
+    {
       "name": "JANG Chol",
       "schema": "Person",
       "sanctions": "PRK - 2022/1331 (OJ L201) - 2017-04-07",
@@ -2190,6 +2358,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Aleksej Jurjevitj BELETSKIJ;Алексей Юрьевич БЕЛЕЦКИЙ"
+    },
+    {
+      "name": "JSCB “NRBank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO AКБ “НРБанк”;Aкционерный Коммерческий Банк “Национальный Резервный Банк” (AO);Joint Stock Commercial Bank “National Reserve Bank” (JSC);akcinis komercinis bankas „Nacionalinis rezervų bankas (JSC)"
     },
     {
       "name": "Gholam Hossein Golparvar",
@@ -2348,6 +2522,12 @@
       "aliases": "Ali MOSTAFAVI;Hojjat al-Eslam Ali MOSTAFAVINIA;نیا مصطفوی علی الاسلام هجت"
     },
     {
+      "name": "Seligdar PSJC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Seligdar, societate publică pe acțiuni"
+    },
+    {
       "name": "Mote Thun",
       "schema": "Person",
       "sanctions": "MMR - 2024/2784 (OJ L29102024) - 2024-10-29",
@@ -2426,6 +2606,12 @@
       "aliases": "LANGROUDI"
     },
     {
+      "name": "JSC Genbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Genbank S.A;АО Генбанк"
+    },
+    {
       "name": "BRIGHTMILE LIMITED",
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -2436,6 +2622,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/1496 (OJ L183 I) - 2023-07-20",
       "aliases": "Hamid Reza Sharifi-Tehrani;Hamidreza SHARIFI TEHRANI;Hamidreza Sharifi-Tehrani;مید رضا شریفی تهرانی"
+    },
+    {
+      "name": "Mikhail DOROFEEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "Chadi HOURANIEH",
@@ -2472,6 +2664,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2012-01-06",
       "aliases": "Faisal Rabbi;Fazal Rabi;Fazl Rabbi"
+    },
+    {
+      "name": "LLC MSKA INGENEERING",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited liability company MSKA ENGINEERING;MSKA INGENEERING S.R.L.;ООО МСКА ИНЖИНИРИНГ"
     },
     {
       "name": "Akhtar Mohammad Mansoor",
@@ -2604,6 +2802,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": ""
+    },
+    {
+      "name": "Ivan Alekseievich GAICHENYA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Ivan Gaitšenja;Ivan Gajčeňa;Иван АлексеевичЧ ГАЙЧЕНЯ"
     },
     {
       "name": "FSUE “Morozov Plant”",
@@ -2742,6 +2946,12 @@
       "schema": "Person",
       "sanctions": "SOM - 2017/395 (OJ L60) - 2014-09-23",
       "aliases": "Ameer Salman;Ma'alim Selman;Ma'alim Suleiman;Ma'alin Sulayman;Maalim Salman Ali;Maalim Selman Ali;Mu'alim Salman;Mualem Suleiman"
+    },
+    {
+      "name": "Moscow Exchange",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Beurs van Moskou;Bourse de Moscou;Bursa din Moscova MICEX-RTS, societate publică pe acțiuni;MOEX;Moskva Exchange;PJSC Moscow Exchange MICEX-RTS;ПАО Московская Биржа"
     },
     {
       "name": "DALNEVOSTOCHNIY BANK",
@@ -3038,6 +3248,12 @@
       "aliases": "Hamed ABDULLAHI;Mustafa Abdullahi"
     },
     {
+      "name": "Redwood Global Supply FZ-LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Societatea de aprovizionare la nivel internațional în regim de zonă liberă Redwood S.R.L.;ريدوود جلوبال سبلاي ش.م.ح- ذ.م.م"
+    },
+    {
       "name": "Rinat Alievich BILYALOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
@@ -3236,6 +3452,18 @@
       "aliases": "Ribotos atsakomybės bendrovė (RAB) „Oskartour“;ООО Оскартур"
     },
     {
+      "name": "LLC Cifra bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Cifra S.R.L.;LLC Digital Bank;OOO Цифра банк"
+    },
+    {
+      "name": "JSC Koshelev-Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Кошелев Банк;Banca Koshelev S.A."
+    },
+    {
       "name": "Igor VOROBYOV",
       "schema": "Person",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
@@ -3398,6 +3626,12 @@
       "aliases": ""
     },
     {
+      "name": "LLC Bank ITURUP",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "OOO Банк ИТУРУП"
+    },
+    {
       "name": "IK-3 men's maximum security correctional colony",
       "schema": "Organization",
       "sanctions": "HR - 2024/952 (OJ L22032024) - 2024-03-22",
@@ -3444,6 +3678,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/997 (OJ L219I) - 2021-06-21",
       "aliases": "Marina Sviataslavauna ZAPASNIK;Marina Sviatoslavovna ZAPASNIK;Marina Svjatoslavovna ZAPASNIK;Maryna Svjataslavauna ZAPASNIK;Марына Святаславаўна ЗАПАСНІК"
+    },
+    {
+      "name": "Joint Stock Company Bank DOM.RF",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Акционерное Общество Банк ДOM.РФ"
     },
     {
       "name": "Korea Rungrado General Trading Corporation",
@@ -3770,6 +4010,12 @@
       "aliases": "HASI;Hilal Ahmar Society Indonesia;Yayasan Hilal Ahmar"
     },
     {
+      "name": "LLC Design Bureau Aviatekhnolab",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC DB ATL;LLC KB ATL;ООО КБ АТЛ;ООО Конструкторское бюро Aвиатехнолаб"
+    },
+    {
       "name": "Redouane El Habhab",
       "schema": "Person",
       "sanctions": "TAQA - 1142/2012 (OJ L332) - 2012-12-03",
@@ -3824,6 +4070,12 @@
       "aliases": "Liberaal-Democratische Partij van Rusland;Liberal-demokratische Partei Russlands;Liberalna demokratična stranka Rusije;Liberalna demokratska stranka Rusije;Liberalno-Demokratyczna Partia Rosji;Liberálnodemokratická strana Ruska;Liberálně-demokratická strana Ruska;Oroszországi Liberális Demokrata Párt;Parti libéral-démocrate de Russie;Partido Democrata Liberal da Rússia;Partido Democrático Liberal de Rusia;Partidul Liberal Democrat din Rusia;Partito liberaldemocratico della Russia;Rusijos liberalų-demokratų partija;Rysslands liberaldemokratiska parti;Venemaa Liberaaldemokraatlik Partei;Φιλελεύθερο Δημοκρατικό Κόμμα της Ρωσίας;Либерално-демократичната партия на Русия;Либерально-демократическая партия России"
     },
     {
+      "name": "Aleksandr Viktorovich ARZAMASTSEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Alexander Viktorovich ARZAMASTSEV;Александр Викторович АРЗАМАСЦЕВ"
+    },
+    {
       "name": "LLC OBORONLOGISTICS",
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -3860,10 +4112,28 @@
       "aliases": "U Saw Ba Hline"
     },
     {
+      "name": "JSC Transstroybank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Трансстройбанк;Transstroybank S.A."
+    },
+    {
+      "name": "Joint-Stock Commercial Bank FORA-BANK",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Акционерный Коммерческий Банк ФОРА-БАНК"
+    },
+    {
       "name": "Banyar Aung Moe",
       "schema": "Person",
       "sanctions": "MMR - 2024/1249 (OJ L29042024) - 2021-04-19",
       "aliases": ""
+    },
+    {
+      "name": "JSC NPK SEVERNAYA ZARYA",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Istraživački i proizvodni kompleks ,Severnaya Zarya’;Joint-Stock Company “Research and Production Complex ‘Severnaya Zarya’”;Societatea pe acțiuni «Complexul de cercetare și producție „Severnaya Zarya”»;АО НПК СЕВЕРНАЯ ЗАРЯ;Акционерное Общество Научно-Производственный Комплекс “Северная Заря”"
     },
     {
       "name": "Galina Alexandrovna KHULAPOVA",
@@ -3924,6 +4194,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
       "aliases": "Vladimir Vladimirovich TYULIN"
+    },
+    {
+      "name": "PJSC South Investbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Yug-invest, societate publică pe acțiuni;PJSC Yug-invest Bank;ПАО Юг Инвестбанк"
     },
     {
       "name": "Andrei Viktorovich LITSOEV",
@@ -4044,6 +4320,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2021/848 (OJ L188) - 2012-01-23",
       "aliases": "Jamal YOUNES;Jamal YUNES"
+    },
+    {
+      "name": "JSC JSCB Evrofinance Mosnarbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО АКБ Еврофинанс Моснарбанк"
     },
     {
       "name": "Vladimir LIPCHENKO",
@@ -4340,6 +4622,12 @@
       "aliases": "Andrej Kazazajev;Андрей Петрович КАЗАЗАЕВ"
     },
     {
+      "name": "PJSC ‘Inter RAO UES’",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ‘ИНТЕР РАО ЕЭС’;‘Inter RAO’"
+    },
+    {
       "name": "Iskra Engineering Design Bureau JSC named after I.I. Kartukov",
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -4446,6 +4734,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
       "aliases": "کامفر بهداد"
+    },
+    {
+      "name": "Valentina Emmanuiovna SCHNEIDER",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Valentina SCHNEIDER;Валентина ШНАЙДЕР;Валентина Эммануиовна ШНАЙДЕР"
     },
     {
       "name": "Mohammad Reza HABIBI",
@@ -4658,6 +4952,12 @@
       "aliases": "Centar za nuklearna znanstvena istraživanja Yongbyon;Centre de recherche scientifique nucléaire de Yongbyon;Centro de Investigação Científica Nuclear de Yongbyon;Centro di ricerca scientifica nucleare di Yongbyon;Centrul de Cercetare Științifică Nucleară de la Yongbyon;Jongbjoni Nukleáris Kutatóközpont;Njongbjono branduolinių mokslinių tyrimų centras;Stredisko jadrového vedeckého výskumu v Yongbyone;Středisko jaderného vědeckého výzkumu v Jongpjonu;Středisko jaderného vědeckého výzkumu v Yongbyonu;Wetenschappelijk onderzoekscentrum voor kernenergie van Yongbyon;Yongbyon zinātniskais kodolpētījumu centrs;Yongbyoni tuumauuringute keskus;Yongbyonin tieteellinen ydintutkimus-keskus;Yongbyonin tieteellinen ydintutkimuskeskus;Zentrum für wissenschaftliche Kernforschung Yongbyon;Znanstveni center za jedrske raziskave Jongbjon;Ċentru ta' Riċerka Xjentifika Nukleari ta' Yongbyon;Κέντρο Πυρηνικών Ερευνών της Yongbyon;Център за ядрени научни изследвания Yongbyon;녕변 원자력 연구소;영변 원자력 연구소"
     },
     {
+      "name": "First Diamond Company",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "OOO Первая Алмазная Компания;Societatea pentru Diamante Numărul Unu;“First Diamond Company LLC”"
+    },
+    {
       "name": "SBK ART LLC",
       "schema": "Organization",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2022-12-16",
@@ -4760,6 +5060,12 @@
       "aliases": "Sergej Dmitrijevitj SIMONENKO;Sergej Simonenko;Sergej Simoněnko;Сергей Дмитриевич СИМОНЕНКО"
     },
     {
+      "name": "JSC Pavlik",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Gold Mining Company Pavlik;Pavlik;АКЦИОНЕРНОЕ ОБЩЕСТВО ЗОЛОТОРУДНА Я КОМПАНИЯ ПАВЛИК;АО ‘ПАВЛИК"
+    },
+    {
       "name": "Neda Mohammad NADEEM",
       "schema": "Person",
       "sanctions": "HR - 2024/2999 (OJ L03122024) - 2023-03-07",
@@ -4860,6 +5166,12 @@
       "schema": "Person",
       "sanctions": "LBY - 2020/1309 (OJ L305I) - 2020-09-21",
       "aliases": "Moussa DIAB"
+    },
+    {
+      "name": "JSC Moskommertsbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-09",
+      "aliases": "AO Москоммерцбанк;Moskommertsbank S.A."
     },
     {
       "name": "میرزای مرتضا",
@@ -4986,6 +5298,18 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
       "aliases": "Društvo s ograničenom odgovornošću ‚Media Group NewsFront;Hírfront;JSC Media Group NewsFront;Limited Liability Company Media Group NewsFront;Média Csoport Hírfront Kft.;NewsFront;»Média Csoport Hírfront« Korlátolt Felelősségű Társaság;ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “МЕДИАГРУПП НЬЮСФРОНТ”;ООО “МЕДИАГРУПП НЬЮСФРОНТ”"
+    },
+    {
+      "name": "Oleg Nikolaevich GUSAROVSKY",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Oleg Gusarovski;Oleg Gusarovskij;Олег Николаевич ГУСАРОВСКИЙ"
+    },
+    {
+      "name": "ARMORGRUPP",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ARMORGRUPP, societate cu răspundere limitată;Cuideachta faoi Dhliteanas Teoranta ARMORGRUPP;Gesellschaft mit beschränkter Haftung (Limited Liability Company) ARMORGRUPP;Kumpanija b'Responsabbiltà Limitata ARMORGRUPP;Limited Liability Company;ООО АРМОРГРУПП"
     },
     {
       "name": "Andrey Vadimovich MIKHAILICHENKO",
@@ -5396,6 +5720,12 @@
       "aliases": "OSAM (Otdiel’naya sluzhba aktivnykh mieropriyatiy);Otdelnaja sluzjba aktivnych meroprijatij;Асобная служба актыўных мерапрыемстваў (АСАМ);Отдельная служба активных мероприятий (ОСАМ)"
     },
     {
+      "name": "Joint Stock Company Pochta Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Joint Stock Company Post Bank;Акционерное Общество Почта Банк"
+    },
+    {
       "name": "Seyyed Abbas HOSSEINI",
       "schema": "Person",
       "sanctions": "IRN - 2023/1298 (OJ L160 I) - 2023-06-26",
@@ -5462,6 +5792,12 @@
       "aliases": ""
     },
     {
+      "name": "JSCB Energobank (JSC)",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca comercială pe acțiuni Energobank S.A.;АКБ Энергобанк (АО)"
+    },
+    {
       "name": "Natalya Alekseevna POLYANSKAYA",
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
@@ -5472,6 +5808,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
       "aliases": ""
+    },
+    {
+      "name": "LLC “Mobile Card”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Non-Banking financial company “Mobile card” Limited;Societatea financiară nebancară «Cardul Mobil» S.R.L.;niebedąca bankiem instytucja finansowa „Mobile Card” Limited;ООО НКО “Мобильная карта”"
     },
     {
       "name": "Cement Investment and Development Company",
@@ -5502,6 +5844,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/362 (OJ L22012024) - 2024-01-22",
       "aliases": "Mahmoud ALDJ"
+    },
+    {
+      "name": "Limited Liability Company A71",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Общество с ограниченной ответственностью А71"
     },
     {
       "name": "Ali SHIRAZI",
@@ -5840,6 +6188,12 @@
       "aliases": "Ansar Eddine"
     },
     {
+      "name": "Blanc bank LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Blanc S.R.L.;ООО “Бланк банк”"
+    },
+    {
       "name": "Chosen Expo",
       "schema": "Organization",
       "sanctions": "CYB - 2020/1125 (OJ L246) - 2020-07-30",
@@ -5850,6 +6204,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Vjačeslav GOLOVANOV;Вячеслав Георгиевич ГОЛОВАНОВ"
+    },
+    {
+      "name": "JSC Bank “Khlynov”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО КБ “Хлынов”"
     },
     {
       "name": "Seyyed Majid MIRAHMADI",
@@ -5916,6 +6276,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
       "aliases": "A.F. Iofféról elnevezett Fizikai-Technikai Intézet;Federal State-Financed Institution of Science Physics and Technology Institute Named After A.F. Ioffe of the Russian Federation Academy of Sciences;Institutul Ioffe;Institutul de Fizică Ioffe;Institutul de Fizică, Științe și Tehnologie finanțat de statul federal, denumit după A.F. Ioffe, al Academiei de Științe a Federației Ruse;Institutul fizico-tehnic denumit după A.F. Ioffe;Instytut Fizyko-Techniczny im. Abrama Ioffego Rosyjskiej Akademii Nauk;Instytut Ioffe (Instytut Ioffego);Ioffe Fizikai Intézet;Ioffe Institute;Ioffe Intézet;Physical-Technical Institute named after A.F. Ioffe;az Oroszországi Föderáció Tudományos Akadémiájának az A. F. Iofféról elnevezett szövetségi állami finanszírozású Fizikai és Technológiai Intézete;den federala statligt finansierade institutionen för vetenskap och forskning A. F. Ioffe-institutet för fysik och teknik vid Ryska vetenskapsakademin;ФТИ им. А.Ф. Иоффе;Федеральное государственное бюджетное учреждение науки Физико-технический институт им. А.Ф. Иоффе Российской академии наук;Физико-технический институт имени А.Ф. Иоффе РАН"
+    },
+    {
+      "name": "WB Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Wildberries Bank LLC;ОOO “Вайлдберриз Банк”;\"ООО “ВБ Банк\"\"\""
     },
     {
       "name": "LLC LUKOIL-Volgogradneftepererabotka",
@@ -6068,6 +6434,12 @@
       "aliases": "Biroul General pentru rachete;Oficina General de Misiles;Rakéta Főiroda"
     },
     {
+      "name": "JSC Electroavtomatika",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО “Электроавтоматика"
+    },
+    {
       "name": "Abdul Patta Escalon Abubakar",
       "schema": "Person",
       "sanctions": "TAQA - 2018/888 (OJ L158 I) - 2018-06-18",
@@ -6206,6 +6578,12 @@
       "aliases": ""
     },
     {
+      "name": "Aleksei Yuryevich MANIKIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Алексей Юрьевич МАНИКИН"
+    },
+    {
       "name": "Abdul Karim Ayeras",
       "schema": "Person",
       "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
@@ -6306,6 +6684,12 @@
       "schema": "Organization",
       "sanctions": "BLR - 2025/631 (OJ L202500631) - 2025-03-27",
       "aliases": "La sociedad limitada Tsybulka-Bel;Tsybulka Bel“ ООД;Tsybulka-Bel Kft.;Zybulka Bel;Zybulka Bel“ ООД;ООО “ЦЫБУЛЬКА-БЕЛ”;ТАА “ЦЫБУЛЬКА-БЕЛ”"
+    },
+    {
+      "name": "P.G. Korobkov IZ KARTEX LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ООО ИЗ КАРТЭКС ИМЕНИ П.Г. КОРОБКОВА"
     },
     {
       "name": "نیروی ویژه پاد وحشت",
@@ -6422,6 +6806,12 @@
       "aliases": "غلامرضا ضیایی"
     },
     {
+      "name": "JSC Yandex Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Яндекс Банк"
+    },
+    {
       "name": "Vladimir Mikhailovich RUSHHAK",
       "schema": "Person",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-04-08",
@@ -6440,6 +6830,12 @@
       "aliases": "Anton Cikurenko;Антон Сергеевич ЦИКУРЕНКО;Антон Сергійович ЦИКУРЕНКО"
     },
     {
+      "name": "Irina Vladimirovna KHARISOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "Ирина Владимировна ХАРИСОВА"
+    },
+    {
       "name": "Mohammad Samer Abdelrahman AL-KHALIL",
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2017-05-30",
@@ -6456,6 +6852,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
       "aliases": ""
+    },
+    {
+      "name": "JSC Bank Russian Standard",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Standardul Rus S.A.;АО “Банк Русский Стандарт”"
     },
     {
       "name": "Сергей Сергеевич ЧУРИН",
@@ -6542,6 +6944,12 @@
       "aliases": "Nefertiti Shipping"
     },
     {
+      "name": "Astute Maritime Services Private Limited",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
+    },
+    {
       "name": "Yu-ro Han",
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2009-07-16",
@@ -6558,6 +6966,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2026/648 (OJ L202600648) - 2026-03-16",
       "aliases": ""
+    },
+    {
+      "name": "JSC Ingo Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Банк Инго"
     },
     {
       "name": "Mikhail Uladzimiravich DZENISENKA",
@@ -6584,6 +6998,12 @@
       "aliases": ""
     },
     {
+      "name": "Sistema",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AFK Sistema;JSFC Sistema;PJSFC Sistema;Public Joint Stock Company Financial Corporation Sistema;Public Joint Stock Company Financial Corporation Sistema (Societatea publică pe acțiuni «Corporația Financiară Sistema»);Sistema JSFC;Sistema Joint Stock Financial Corporation;Sistema Joint-Stock Financial Corporation (Corporația Financiară pe Acțiuni Sistema);Sistema PJSFC;Sistema Public Joint Stock Financial Corporation;Sistema Public Joint Stock Financial Corporation (Corporația Financiară Publică pe Acțiuni Sistema);АФК Система;ПАО АФК “Система”;Публичное акционерное общество Акционерная финансовая корпорация “Система”"
+    },
+    {
       "name": "Naji Research and Development Company (NRDC)",
       "schema": "Organization",
       "sanctions": "IRN - 2026/648 (OJ L202600648) - 2026-03-16",
@@ -6594,6 +7014,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-02-23",
       "aliases": ""
+    },
+    {
+      "name": "JSC LOCKO-Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LOKO;АО ЛОКО Банк;ЛОКО"
     },
     {
       "name": "Alexander Vyacheslavovich VOIT",
@@ -6926,6 +7352,18 @@
       "aliases": "Tatiana Stanislavovna Dodonovová;Tatjana Stanislavovna DODONOVA;Taťjana Stanislavovna Dodonova;Taťjana Stanislavovna Dodonovaje;Татьяна Станиславовна ДОДОНОВА"
     },
     {
+      "name": "PJSC Bank Avangard",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Банк Авангард"
+    },
+    {
+      "name": "JSC “Sokol Asset”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "JSC “Sokol Essets”;Joint Stock Company “Sokol Asset”;\"Акционерное общество \"\"Сокол Эссет\"\"\""
+    },
+    {
       "name": "M Leasing LLC",
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -7088,6 +7526,12 @@
       "aliases": "Vladimir Nikolajevič LEPIN;Vladimir Nikolaïevitch LEPINE;Владимир Николаевич ЛЕПИН"
     },
     {
+      "name": "JOINT-STOCK COMPANY “IZHEVSK RADIO PLANT”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-09",
+      "aliases": "JSC “IRZ”;АКЦИОНЕРНОЕ ОБЩЕСТВО “ИЖЕВСКИЙ РАДИОЗАВОД”;АО “ИРЗ”"
+    },
+    {
       "name": "KIM Kyong Hui",
       "schema": "Person",
       "sanctions": "PRK - 2022/1331 (OJ L201) - 2018-04-20",
@@ -7238,6 +7682,12 @@
       "aliases": "Investneftetreyd;Invesztnyeftyetrejd;Invesztnyeftyetrejd Korlátolt Felelősségű Társaság;Limited Liability Company Investneftetrade;Societatea cu răspundere limitată Investneftetrade;ИНВЕСТНЕФТЕТРЕЙД;ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “ИНВЕСТНЕФТЕТРЕЙД”;ООО “ИНВЕСТНЕФТЕТРЕЙД”"
     },
     {
+      "name": "Stanislav Alekseyevich POZDNYAKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Станислав Алексеевич ПОЗДНЯКОВ"
+    },
+    {
       "name": "Hamid SOLTANI",
       "schema": "Person",
       "sanctions": "IRN - 2025/1559 (OJ L202501559) - 2025-07-29",
@@ -7284,6 +7734,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2024-05-28",
       "aliases": "Naaeem Jasem SULEIMAN;Naaim Jasem SULEIMAN;Naim Jasem SULEIMAN;Na’eem Jasem SULEIMAN;Na’im Jasem SULEIMAN;نعيم جاسم سليمان"
+    },
+    {
+      "name": "LLC Regional Commercial Siberian Social Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Socială Comercială Regională Siberiană S.R.L.;LLC Sibsotsbank;OOO Краевой Коммерческий Сибирский Социальный Банк;ООО Сибсоцбанк"
     },
     {
       "name": "Foundation to Battle Injustice",
@@ -7350,6 +7806,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Gennadij Michajlovitj BUNEJEV;Геннадий Михайлович БУНЕЕВ"
+    },
+    {
+      "name": "White Agate Marine SPC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "Central Bank of the Islamic Republic of Iran",
@@ -7428,6 +7890,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2022/840 (OJ L148) - 2017-07-18",
       "aliases": "Mohammad Yousef Hasouri;Mohammed Yousef Hasouri;Muhammad Yousef HASOURI"
+    },
+    {
+      "name": "UK UZTM KARTEX LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "UPRAVLYAYUSH CHAYA KOMPANIYA UZTM KARTEKS;ОБ УЗТМ КАРТЭКС"
     },
     {
       "name": "Vladlen Mausyrovich SHORIN",
@@ -7604,6 +8072,12 @@
       "aliases": "Michail Šmojlov;Mihail Šmoilov;Михаил Алексеевич ШМОЙЛОВ"
     },
     {
+      "name": "JSC Investtorgbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Investtradebank;АO Инвестторгбанк"
+    },
+    {
       "name": "Aung Moe Myint",
       "schema": "Person",
       "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
@@ -7748,6 +8222,12 @@
       "aliases": "Red Rock Mining Company"
     },
     {
+      "name": "Joint-Stock Commercial Mortgage Bank \"AKIBANK\" (Public Joint-Stock Company)",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Joint-Stock Commercial Mortgage Bank «AKIBANK» (Δημόσια συμμετοχική εταιρεία);Joint-Stock Commercial Mortgage Bank ‘AKIBANK’ (Cuideachta Comhstoic Phoiblí);Joint-Stock Commercial Mortgage Bank „AKIBANK“ (verejná akciová spoločnosť);PJSC AKIBANK;Акционерный Коммерческий Ипотечный Банк ‘’АКИБАНК’’ (Публичное Акционерное Общество);ПАО ‘’АКИБАНК’’"
+    },
+    {
       "name": "Oleg Aleksandrovich EGOROV",
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
@@ -7800,6 +8280,12 @@
       "schema": "Person",
       "sanctions": "VEN - 2022/2194 (OJ L292) - 2021-02-22",
       "aliases": ""
+    },
+    {
+      "name": "Uralmash NGO Holding LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Uralmash NGO Holding S.R.L.;Uralmash Oil and Gas Equipment Holding LLC;ООО Уралмаш Нефтегазовое оборудование Холдинг"
     },
     {
       "name": "ДШРГ Русич",
@@ -8204,6 +8690,12 @@
       "aliases": "Aliaksandr Genadzevich TKACHOU;Aljaksandr Tkatšou;Aljaksandr Tkačou;Александр Геннадьевич ТКАЧЕВ;Аляксандр Генадзьевіч ТКАЧОЎ"
     },
     {
+      "name": "JSC ‘’Realist Bank’’",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO ‘’Реалист Банк’’"
+    },
+    {
       "name": "Shahid Beheshti University",
       "schema": "Organization",
       "sanctions": "IRN - 2025/1559 (OJ L202501559) - 2025-07-29",
@@ -8306,6 +8798,12 @@
       "aliases": "Agricultural Bank;Al Masraf Al Zirae;Libyan Agricultural Bank"
     },
     {
+      "name": "JSC Gazenergobank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Газэнергобанк"
+    },
+    {
       "name": "CHANG AN SHIPPING & TECHNOLOGY",
       "schema": "Organization",
       "sanctions": "PRK - 2018/548 (OJ L91) - 2018-03-30",
@@ -8402,6 +8900,12 @@
       "aliases": "Ali Zafir ‘Abdullah’;Bashar Al-Nasiri;Bashar Sabawi Ibrahim Hasan Al-Bayjat;Bashar Sab’awi Ibrahim Hasan Al-Tikriti;Bashir Sabawi Ibrahim Al-Hassan Al-Tikriti;Bashir Sab’awi Ibrahim Al-Hasan Al-Tikriti"
     },
     {
+      "name": "Hortensia",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Design Bureau;Gortensia;Gortenziya;Hortensia Design Bureau;Hydrangea;Hydrangea Design Bureau;LIMITED LIABILITY COMPANY KB LIS;LLC “KB LIS”;ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННО СТЬЮ КБ ЛИС;ООО КБ ЛИС"
+    },
+    {
       "name": "Sergey Mirzoevich AVAKOV",
       "schema": "Person",
       "sanctions": "BLR - 2025/631 (OJ L202500631) - 2025-03-27",
@@ -8418,6 +8922,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-11-30",
       "aliases": ""
+    },
+    {
+      "name": "JSC BANK SNGB",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Joint Stock Company Surgutneftegasbank;АО БАНК СНГБ;Акционерное Общество Сургутнефтегазбанк"
     },
     {
       "name": "Megatrade",
@@ -8954,6 +9464,12 @@
       "aliases": "قاسم دماو ندیان"
     },
     {
+      "name": "LLC \"Ets Electronics\"",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC ETS ELECTRONICS;\"ООО \"\"Етс Электроникс\"\"\""
+    },
+    {
       "name": "Tsargrad TV",
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -9218,10 +9734,22 @@
       "aliases": "Pavel Ivanovich KAZAKOV;Павел Iванавіч КАЗАКОЎ;Павел Иванович КАЗАКОВ"
     },
     {
+      "name": "LLC LAGGAR PRO",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LAGGAR PRO, societate cu răspundere limitată;Limited Liability Company LAGGAR PRO;ООО ЛАГГАР ПРО"
+    },
+    {
       "name": "Abbas ABDI",
       "schema": "Person",
       "sanctions": "IRN - 2022/1955 (OJ L269I) - 2022-10-17",
       "aliases": "عبدی عباس"
+    },
+    {
+      "name": "Insaf Dulfnurovich FAKHRUTDINOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Insaf Fachrutdinov;Инсаф Дульфнурович ФАХРУТДИНОВ"
     },
     {
       "name": "SIN Kyu Nam",
@@ -9384,6 +9912,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 36/2011 (OJ L14) - 2011-01-18",
       "aliases": "Abou Ismail Al Djoundoubi;Abu Ismail;Tarek Ben Habib Ben Al-Toumi Al-Maaroufi"
+    },
+    {
+      "name": "JSC CB Energotransbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO КБ Энерготрансбанк"
     },
     {
       "name": "Sheikh Hassan Dahir Aweys",
@@ -9680,6 +10214,12 @@
       "aliases": "Abderrahmane Ould el Amar Ould Sidahmed Loukbeiti;Ahmad Ould Amar;Ahmed el Tilemsi;عبد الرحمن ولد العامر"
     },
     {
+      "name": "Denis Aleksandrovich MERZLIKIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Денис Александрович МЕРЗЛИКИН"
+    },
+    {
       "name": "Morteza PIRI",
       "schema": "Person",
       "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
@@ -9752,6 +10292,12 @@
       "aliases": ""
     },
     {
+      "name": "JSC Russian Bank for Small and Medium Enterprises Suppor",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC SME Bank;АО МСП Банк;Акционерное общество Российский Банк поддержки малого и среднего предпринимательства"
+    },
+    {
       "name": "Main Centre for Special Technologies (GTsST) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)",
       "schema": "Organization",
       "sanctions": "CYB - 2024/1390 (OJ L17052024) - 2020-07-30;CYB - 2024/1390 (OJ L17052024) - 2020-10-22",
@@ -9788,6 +10334,12 @@
       "aliases": "Aizsardzības ministrija;Forsvarsministeriet;Försvarsministeriet;Gynybos ministerija;Kaitseministeerium;Ministerie van Defensie;Ministero della difesa;Ministerstvo obrany;Ministerstwo Obrony;Ministeru tad-Difiża;Ministerul Apărării;Ministrerio de Defensa;Ministrstvo za obrambo;Ministère de la défense;Ministério da Defesa;Puolustusministeriö;Syrský národní bezpečnostní úřad;Verteidigungs-ministerium;Védelmi Minisztérium;Υπουργείο Άμυνας;Министерство на отбраната"
     },
     {
+      "name": "JSC Neftekhimservis",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Akciová spoločnosť „Neftechemservis“;Joint Stock Company “Neftechemservis”;Neftechemservis, societate pe acțiuni;АО “НХС”;Акционерное общество “Нефтехимсервис”"
+    },
+    {
       "name": "Luís PÉREZ OLIVAS",
       "schema": "Person",
       "sanctions": "NIC - 2024/2672 (OJ L09102024) - 2024-10-10",
@@ -9816,6 +10368,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2020/1267 (OJ L298) - 2015-02-16",
       "aliases": "Батальон ‘Спарта’"
+    },
+    {
+      "name": "Rishat Ilfatovich BASHIROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Rišat Baširov;Ришат Ильфатович БАШИРОВ"
     },
     {
       "name": "Habib Ben Kaddour Ben Mustapha BEN ZAKIR",
@@ -9852,6 +10410,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-02-25",
       "aliases": "Aleksandr LOZITSKIJ;Aleksandr Lozickij;Alexandr Lozickij;Александр ЛОЗИЦКИЙ"
+    },
+    {
+      "name": "JSC “BCS Bank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО “БКС Банк”"
     },
     {
       "name": "LLC “Leading Charter Technologies”",
@@ -9960,6 +10524,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2023/1591 (OJ L195 I) - 2023-08-03",
       "aliases": "Michalaj Vasiľevič MAXIMAVIČ;Mikalaj Maksimavič;Mikalaj Vasiljevitj MAKSIMAVITJ;Nikolai Vasilievich MAKSIMOVICH;Nikolaj Vasiljevitj MAKSIMOVITJ;Мікалай Васільевіч МАКСІМАВІЧ;Николай Васильевич МАКСИМОВИЧ"
+    },
+    {
+      "name": "PJSC Bank ZENIT",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Банк ЗЕНИТ"
     },
     {
       "name": "Ilja BOTŠAROV",
@@ -10296,6 +10866,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/1765 (OJ L226) - 2018-12-10",
       "aliases": "Olga Valeriyivna POZDNYAKOVA;Olga Valerjevna POZDNJAKOVA;Olga Valeryevna POZDNYAKOVA;Olha Valerijivna POZDNJAKOVA;Ольга Валерiївна ПОЗДНЯКОВА;Ольга Валерьевна ПОЗДНЯКОВА"
+    },
+    {
+      "name": "Hua Xia Shipmanagement Company Limited",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "Abdul Rahman Ahmad Hottak",
@@ -10652,6 +11228,12 @@
       "aliases": "서동명"
     },
     {
+      "name": "Evgeniy Vasilievich SAVLEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Jevgenij Savlev;Евгений Васильевич САВЛЕВ"
+    },
+    {
       "name": "Ali HAMOUD",
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2016-11-14",
@@ -10788,6 +11370,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
       "aliases": ""
+    },
+    {
+      "name": "IPK FINVAL JSC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Joint-stock Company IPK FINVAL;АО ИПК ФИНВАЛ;Акционерное Общество ИПК Финвал"
     },
     {
       "name": "“Engineering Center of Innovative Technologies”",
@@ -11186,6 +11774,12 @@
       "aliases": ""
     },
     {
+      "name": "PJSC RosDorBank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "PJSC Rusijos viešoji akcinė bendrovė Komercinis kelių bankas;PJSC Russian Public Joint-Stock Commercial Roads Bank;ПАО РосДорБанк;ПАО Российский акционерный коммерческий дорожный банк"
+    },
+    {
       "name": "Naftiran Intertrade Company",
       "schema": "Organization",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
@@ -11244,6 +11838,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2024/2074 (OJ L29072024) - 2008-06-23",
       "aliases": "Industrias Electrónicas de Irán;Iráni Elektronikai Iparágak Vállalat"
+    },
+    {
+      "name": "Oborontest, societate deschisă pe acțiuni",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Open joint stock company “Oborontest”;ОБОРОНТЕСТ;Открытое Акционерное Общество"
     },
     {
       "name": "JSC NPO Elektromechaniki",
@@ -11834,6 +12434,12 @@
       "aliases": "Societatea pe acțiuni Volgotanker;Volgotanker Részvénytársaság"
     },
     {
+      "name": "Public Joint Stock Company Bank Uralsib",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Публичное Акционерное Общество Банк Уралсиб"
+    },
+    {
       "name": "Геннадий Иосифович ДЫСКО",
       "schema": "Person",
       "sanctions": "BLR - 2021/997 (OJ L219I) - 2021-06-21",
@@ -12044,6 +12650,12 @@
       "aliases": "Здуард Александрович ЧУХЛЕБОВ"
     },
     {
+      "name": "JSC MB Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Мир Бизнес Банк;Banca Mir Business S.A.;JSC Mir Business Bank;АО МБ Банк"
+    },
+    {
       "name": "Xiamen Limbach Aviation Engine Co., Ltd",
       "schema": "Organization",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
@@ -12120,6 +12732,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
       "aliases": "Morteza Safari;Morteza Saferi;Murtaza Safari;Murtaza Saferi"
+    },
+    {
+      "name": "PJSC Yuzhuralzoloto Group of Companies",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "UGC;Yuzhuralzoloto;grupa przedsiębiorstw PJSC Yuzhuralzoloto;ПАО ‘’ЮГК’’;ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ‘’ЮЖУРАЛЗОЛО ТО ГРУППА КОМПАНИЙ’’;ЮЖУРАЛЗОЛОТ О"
     },
     {
       "name": "Александр Викторович ВИНС",
@@ -12440,6 +13058,12 @@
       "aliases": ""
     },
     {
+      "name": "Felix Vladimirovich Yevtushenkov",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Felix Vladimirovich EVTUSHENKOV;Felix Vladimirovič JEVTUŠENKOV;Феликс Владимирович ЕВТУШЕНКОВ"
+    },
+    {
       "name": "Red Rabbit TSK Vektor Industrial (Shenzhen) Co., Ltd",
       "schema": "Organization",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
@@ -12510,6 +13134,12 @@
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
       "aliases": ""
+    },
+    {
+      "name": "Andrey Nikolaevich Nikolaevich DORONIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Andrei Doronin;Andrej Doronin;Андрей Николаевич ДОРОНИН"
     },
     {
       "name": "Boris Anatolyevich TURCHAK",
@@ -13034,6 +13664,12 @@
       "aliases": "AO Sibirskaya Servisnaya Kompany;Siberian Service Company JSC;Siberian Service Company Rt.;Sibiřská servisní společnost, a. s.;АО Сибирская Сервисная Компания;АО “ССК”"
     },
     {
+      "name": "JSC KALMNEFTEGAZ",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-23",
+      "aliases": "\"NON PUBLIC JOINT STOCK COMPANY \"\"KALMYK OIL AND GAS COMPANY\";súkromná akciová spoločnosť „Kalmyk Oil and Gas Company“;\"АО \"\"КАЛМНЕФТЕГА З\"\"\";\"НЕПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"\"КАЛМЫЦКАЯ НЕФТЕГАЗОВАЯ КОМПАНИЯ\"\"\""
+    },
+    {
       "name": "Sung Nam Jang",
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2017-08-05",
@@ -13052,10 +13688,22 @@
       "aliases": "Strojgazmontazj-Most OOO;Strojgazmontaż-Most OOO;Strojgazmontaž Most OOO;Stroygazmontazh-Most OOO;ООО СГМ-Мост;ООО Стройгазмонтаж-Мост"
     },
     {
+      "name": "PJSC “NBD-Bank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "NBD-Bank, societate publică pe acțiuni;ПAO “НБД Банк”"
+    },
+    {
       "name": "JSC Design Bureau of Instrument-Making Named After Academic A. G. Shipunov",
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "A. G. Shipunov Műszeripari Tervezőiroda RT.;JSC Design Bureau of Instrument-Making Named, επ’ ονόματι του ακαδημαϊκού A. G. Shipunov;JSC KBP;KBP Rt.;Nástrojářská projekční kancelář akademika A, G. Šipunova;sociedad anónima Design Bureau of Instrument-Making Named After Academic A. G. Shipunov;société par actions Bureau d’études de fabrication d’instruments A. G. Shipunov;АО “КБП”;АО “Конструкторское Бюро Приборостроения Им. Академика А. Г. Шипунова”"
+    },
+    {
+      "name": "JSC “Novokuybyshevsk Oil Refinery”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Akciová spoločnosť „Novokuybyshevsk Oil Refinery“;Joint Stock Company “Novokuybyshevsk Oil Refinery”;Rafinăria de Petrol Novokuybyshevsk, societate pe acțiuni;Акционерное общество “Новокуйбышевский Нефтеперерабатывающий Завод”"
     },
     {
       "name": "Evgenij Evgenievich LAVRENOV",
@@ -13428,6 +14076,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
       "aliases": "Ярослав Викторович ТАБОЛЬСКИЙ"
+    },
+    {
+      "name": "Vladimir Rostislavovich MEDINSKY",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Владимир Ростиславович МЕДИН3СКИЙ"
     },
     {
       "name": "Atomic Energy Organisation of Iran",
@@ -13878,6 +14532,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2018-03-19",
       "aliases": "Fadhloun;Fadloun;Zoher;Zuhair FADHLUN"
+    },
+    {
+      "name": "JSC JSCB CentroCredit Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО АКБ ЦентроКредит"
     },
     {
       "name": "RI Hak Chol",
@@ -14396,6 +15056,12 @@
       "aliases": "Strategic Force;Strategic Forces;Strategic Rocket Force Command of KPA;Strategic Rocket Force of the Korean People's Army"
     },
     {
+      "name": "PJSC Bank Saint Petersburg",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Банк Санкт Петербург"
+    },
+    {
       "name": "Mawlawi Nanai",
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-01-25",
@@ -14592,6 +15258,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
       "aliases": "HDS Lines;HDSL"
+    },
+    {
+      "name": "LLC GRUPPA PROMAVTO",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited liability company GRUPPA PROMAVTO;Sociedad de responsabilidad limitada GRUPPA PROMAVTO;ООО ГРУППА ПРОМАВТО"
     },
     {
       "name": "Ali Gholam SHAKURI",
@@ -14942,6 +15614,12 @@
       "aliases": "Força Khalistan Zindabad;Forța din Khalistan Zindabad;Fuerza de Jalistán Zindabad;Fórsa Zindabad na Cálastáine;Il-Forza Khalistan Zindabad;KZF;Khalistan Zindabad pajėgos;Khalistan Zindabadi Relvajõud;Khaliszán Zindabad Erő;Sila Kalistan Zindabad;Siły Chalistan Zindabad;Skupina Kalistan Zindabad;Snage Khalistan Zindabad;Δύναμη Κομάντο του Χαλιστάν;Силата на Калистан Зиндабад"
     },
     {
+      "name": "JSC ‘’Bank ‘’Agroros’’",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО ‘’Банк ‘’Агророс’’"
+    },
+    {
       "name": "Moran Security Group Ltd",
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -15042,6 +15720,12 @@
       "schema": "Person",
       "sanctions": "LBY - 2017/489 (OJ L76) - 2011-02-26",
       "aliases": ""
+    },
+    {
+      "name": "LLC CB “Renaissance Credit”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ООО КБ “Ренессанс Кредит”"
     },
     {
       "name": "Abdul Manan Mohammad Ishak",
@@ -15290,6 +15974,12 @@
       "aliases": "Michail Kavaljou;Mikhail KOVALEV;Михаил КАВАЛЁВ;Міхаіл КАВАЛЁЎ"
     },
     {
+      "name": "PJSC Ural Bank For Reconstruction And Development",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banka za rekonstrukciju i razvoj;Societatea publică pe acțiuni Banca pentru Reconstrucție și Dezvoltare din Ural;UBRR;ПАО “УБРиР”;ПАО “Уральский банк реконструкции и развития”"
+    },
+    {
       "name": "Rahab Institute",
       "schema": "Organization",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2023-10-17",
@@ -15318,6 +16008,12 @@
       "schema": "Person",
       "sanctions": "HR - 2024/2999 (OJ L03122024) - 2024-03-22",
       "aliases": "Sergei Anatoljevitš Moroz;Sergej Anatolevič Moroz;Sergej Anatolievič Moroz;Сергей Анатолевич Мороз;Сергей Анатольевич МОРОЗ"
+    },
+    {
+      "name": "Baikit Oil and Gas Exploration Expedition LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “Bngre”;ООО “Байкитская нефтегазоразведочная экспедиция”"
     },
     {
       "name": "Salman ADINEHVAND",
@@ -15416,6 +16112,12 @@
       "aliases": ""
     },
     {
+      "name": "JSC BBR Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО ББР Банк"
+    },
+    {
       "name": "T-Bank JSC",
       "schema": "Organization",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-02-25",
@@ -15426,6 +16128,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2021/1464 (OJ L321) - 2017-08-04",
       "aliases": "Andrej Vladimirovitj TJEREZOV;Andrej Wladimirowitsch TSCHERESOW;Andrey Vladimirovich TSCHERESOW;Андрей Владимирович ЧЕРЕЗОВ"
+    },
+    {
+      "name": "Suniel Kumar Sharma",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "Joint-Stock Company “V.V. Bakhirev State Scientific Research Institute Of Mechanical Engineering”",
@@ -15644,6 +16352,12 @@
       "aliases": "Cartera Africana Libia de Inversiones;Libijski Portfel Inwestycyjny w Afryce;Libijski investicijski portfelj za Afriku;Libyjské africké investiční portfolio;Liibüa Aafrika Investeerimisportfell;Líbiai Afrikai Befektetési Társaság;Líbyjské africké investičné portfólio;Lībijas Āfrikas ieguldījumu portfelis;Portofoliul de Investiții Libia Africa"
     },
     {
+      "name": "PJSC Bank Derzhava",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Банк Держава"
+    },
+    {
       "name": "Joint Stock Company Central Design Bureau of Automatics",
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -15666,6 +16380,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": "JSC “ANKhK”;Joint Stock Company “Angarsk Petrochemical Company”;АО “Анхк”;Акционерное общество “Ангарская НЕфтехимическая Компания”"
+    },
+    {
+      "name": "Valentinovich BELOZEROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Олег Валентинович БЕЛОЗЁРОВ"
     },
     {
       "name": "Tong-Ho Kim",
@@ -15750,6 +16470,12 @@
       "schema": "Person",
       "sanctions": "PRK - 2022/1331 (OJ L201) - 2018-01-22",
       "aliases": "촤찬일"
+    },
+    {
+      "name": "LLC Slavneft-Nizhnevartovsk",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Slavneft-Nizhnevartovsk S.R.L.;ООО “Славнефть-Нижневартовск”"
     },
     {
       "name": "Khin Hlaing",
@@ -15870,6 +16596,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2020/1129 (OJ L247) - 2020-08-01",
       "aliases": "Korean Ryengwang Trading Corporation"
+    },
+    {
+      "name": "Maxim Sergeevich GRIGORYEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Максим Сергеевич ГРИГОРЬЕВ"
     },
     {
       "name": "Mustafa Ibrahim ABDEL NABI MOHAMED",
@@ -16124,6 +16856,12 @@
       "aliases": "Dmitrij Vladimirovitj SJMELEV;Dmitrij Šmelev;Дмитрий Владимирович ШМЕЛЕВ"
     },
     {
+      "name": "Sergey Dmitrievich LISKOVICH",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergei Liskovitš;Sergej Liskovič;Сергей Дмитриевич ЛИСКОВИЧ"
+    },
+    {
       "name": "Lehava",
       "schema": "Organization",
       "sanctions": "HR - 2024//1172 (OJ L19042024) - 2024-04-19",
@@ -16176,6 +16914,12 @@
       "schema": "Organization",
       "sanctions": "HR - 2024/2999 (OJ L03122024) - 2023-02-25",
       "aliases": "Servizi di sicurezza Sewa;bezpečnostná služba Sewa"
+    },
+    {
+      "name": "JSC Commercial Bank Solidarnost",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC komercinis bankas Solidarnost;Акционерное Общество Коммерческий Банк “Солидарность”"
     },
     {
       "name": "Viachaslau Ivanavich TULEYKA",
@@ -17090,6 +17834,18 @@
       "aliases": "Basamad Electronic Pouya Mérnöki Tervező Vállalat;Dinamikus Elektronikus Frekvenciatechnika i Korlátolt Felelősségű Társaság;Dynamic Electronic Frequency Engineering Limited Liability Company;بسامد الکترونیک پویا"
     },
     {
+      "name": "JOINT STOCK COMPANY Red October Corporation",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО КОРПОРАЦИЯ КРАСНЫЙ ОКТЯБРЬ"
+    },
+    {
+      "name": "Limited Liability Company “Lukoil-Marinbunker”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Cuideachta faoi Dhliteanas Teoranta ‘Lukoil-Marinbunker’;Lukoil-Marinbunker, societate cu răspundere limitată"
+    },
+    {
       "name": "Laser Devices and Technologies",
       "schema": "Organization",
       "sanctions": "BLR - 2025/1469 (OJ L202501469) - 2025-07-19",
@@ -17468,6 +18224,12 @@
       "aliases": "Asad;Asadullah;Shane Dominic Crawford"
     },
     {
+      "name": "PJSC KB Center-Invest",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО КБ Центр-инвест"
+    },
+    {
       "name": "JSC Ural Civil Aviation Factory",
       "schema": "Organization",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -17828,6 +18590,12 @@
       "aliases": "Haeyang Crew Management Company;Korea Mirae Shipping Co. Ltd;OMM;Ocean Maritime Management Company, Limited"
     },
     {
+      "name": "JSC SGB Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Severgazbank;АO Севергазбанк;АО Банк СГБ"
+    },
+    {
       "name": "Воткинский завод",
       "schema": "Organization",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
@@ -17922,6 +18690,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2023-04-24",
       "aliases": "طاهر الكيالي"
+    },
+    {
+      "name": "JSC Roseximbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Росэксимбанк"
     },
     {
       "name": "Vladislav Leonidovich BRUEV",
@@ -18122,6 +18896,12 @@
       "aliases": "Mahmoud Ibraheem SA’IID;Mahmoud Ibraheem Sa'eed;Mahmoud Ibraheem Said;Mahmoud Ibrahim SA’IID;Mahmoud Ibrahim Sa'eed;Mahmoud Ibrahim Saeed;Mahmoud Ibrahim Said;محمود ابراهيم سعيد"
     },
     {
+      "name": "JSC Expobank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Экспобанк"
+    },
+    {
       "name": "LLC SMT iLogic",
       "schema": "Organization",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2024-02-23",
@@ -18150,6 +18930,12 @@
       "schema": "Person",
       "sanctions": "NIC - 2020/606 (OJ L139I) - 2020-05-04",
       "aliases": ""
+    },
+    {
+      "name": "Joint-Stock Company RESEARCH AND PRODUCTION COMPANY MICRAN",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО НАУЧНО ПРОИЗВОДСТВЕ ННАЯ ФИРМА МИКРАН"
     },
     {
       "name": "Oleg Valeryevich KOVAL",
@@ -18242,6 +19028,12 @@
       "aliases": "Cuideachta Leictreachais Kalaye;Kalaye Villamosenergia-vállalat"
     },
     {
+      "name": "Aleksandr Yuryevich Iljin",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Александр Юрьевич ИЛЬИН"
+    },
+    {
       "name": "JSC Gazstroyprom",
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -18290,6 +19082,12 @@
       "aliases": ""
     },
     {
+      "name": "JSC Bank Avers",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Банк Аверс"
+    },
+    {
       "name": "Center for Agricultural Research and Nuclear Medicine",
       "schema": "Person",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
@@ -18306,6 +19104,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": "Aleksej Viktorovitsj RTISJTSJEV;Aleksey Viktorovich RTISHCHEV;Alexei Viktorovich RTISHCHEV;Alexey Viktorovich RTISHCHEV"
+    },
+    {
+      "name": "JSC Nokssbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca de dezvoltare pentru producția de echipamente de extracție a petrolului și gazelor, conversie, industrie navală și construcții S.A.;Bank rozwoju produkcji sprzętu do wydobywania i przerobu ropy naftowej i gazu, przemysłu stoczniowego i budownictwa (spółka akcyjna);Development Bank of production of oil and gas extractive equipment, conversion, shipbuilding and construction (joint stock company);Development Bank of production of oil and gas extractive equipment, conversion, shipbuilding and construction (sociedad de capital);JSC Noxsbank;АО “НОКССБАНК”;Банк развития производства нефтегазодобывающего оборудования, конверсии, судостроения и строительства (акционерное общество)"
     },
     {
       "name": "Khawla Barzan Ibrahim Hasan Al-Tikriti",
@@ -18438,6 +19242,12 @@
       "schema": "Person",
       "sanctions": "GTM - 2024/455 (OJ L02022024) - 2024-02-02",
       "aliases": "Leonor Eugenia Moralesová Lazová De Sánchez"
+    },
+    {
+      "name": "PJSC Levoberezhny Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Levoberezhny, societate publică pe acțiuni;ПАО “Левобережный банк”"
     },
     {
       "name": "Amer Tayseer KHITI",
@@ -18978,6 +19788,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2020/1367 (OJ L318) - 2020-10-01",
       "aliases": "Федеральное государственное унитарное предприятие «Крымская железная дорога»"
+    },
+    {
+      "name": "Uralmashzavod JSC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "URALMASHPLAN T JSC;UZTM;ПАО УРАЛМАШЗАВО Д;УЗТМ"
     },
     {
       "name": "José Rafael CURRUCHICHE CUCUL",
@@ -19568,6 +20384,12 @@
       "aliases": "Alena Kuncevič;Alena Kuncevičová;Alena Kuntsevitš;Elena Konstantinovna KUNTSEVICH;Алена Канстанцінаўна КУНЦЭВIЧ;Елена Константиновна КУНЦЕВИЧ"
     },
     {
+      "name": "JSC FINAM Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca FINAM S.A.;JSC FINAM Investment Bank;АO Инвестиционный Банк “ФИНАМ”;АО Банк ФИНАМ"
+    },
+    {
       "name": "Yulia Sergeevna PROKHOROVA",
       "schema": "Person",
       "sanctions": "RUSDA - 2025/965 (OJ L202500965) - 2025-05-20",
@@ -19878,6 +20700,12 @@
       "schema": "Organization",
       "sanctions": "LBY - 2016/44 (OJ L12) - 2011-04-12",
       "aliases": ""
+    },
+    {
+      "name": "Joint -Stock Commercial Bank Absolut Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Акционерный Коммерческий Банк Абсолют Банк (Публичное Акционерное Общество)"
     },
     {
       "name": "Alexander Nikolaevich ZAKHARENKO",
@@ -20322,6 +21150,18 @@
       "schema": "Person",
       "sanctions": "BLR - 2023/419 (OJ L61) - 2020-10-02",
       "aliases": "Leanid ZJURAUSKI;Leonid ZHURAVSKI;Leonid ZJURAVSKIJ;Леанід ЖУРАЎСКІ;Леонид ЖУРАВСКИЙ"
+    },
+    {
+      "name": "JSC Togliattikhimbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Togliattikhimbank S.A.;АО Тольяттихимбанк"
+    },
+    {
+      "name": "Sergey Vladimirovich BELOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Сергей Владимирович БЕЛОВ"
     },
     {
       "name": "Cairo Melvin AMADOR ARRIETA",
@@ -20900,6 +21740,12 @@
       "aliases": "Noor Barzan Ibrahim Hasan Al-Tikriti"
     },
     {
+      "name": "Areal International JSC (formerly “Hylende Gold” or “Highland Gold”)",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
+    },
+    {
       "name": "Mehdi GOGERDCHIAN",
       "schema": "Person",
       "sanctions": "IRN - 2024/2697 (OJL14102024) - 2024-10-14",
@@ -21176,6 +22022,12 @@
       "aliases": "Allah Dad Tabeeb;Allah Dad Tayeb Wali Muhammad"
     },
     {
+      "name": "Federal State Unitary Enterprise “Main Center for Special Communications”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "(Întreprinderea Unitară Federală de Stat «Centrul Principal de Comunicații Speciale»;Empresa pública unitária federal «Centro Principal de Comunicações Especiais»;\"Entreprise unitaire publique fédérale \"\"Main Center for Special Communications\"\"\";Federalne państwowe przedsiębiorstwo unitarne „Główne Centrum Komunikacji Specjalnej;\"Intrapriża Unitarja tal-Istat Federali \"\"Main Center for Special Communication\"\"\";Savezno državno unitarno poduzeće ,Glavni centar za posebne komunikacije;ФГУП Главный Центр Специальной Связи;Федерално държавно унитарно предприятие „Главен център за специални връзки“"
+    },
+    {
       "name": "Bogdan Vasilyevich STYOZHKA",
       "schema": "Person",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -21204,6 +22056,12 @@
       "schema": "Organization",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2020-12-17",
       "aliases": "Elektromehaanikatehas AGAT OJSC;Elektromehanski zavod OJSC;Fábrica eletromecânica AGAT OJSC;Open vennootschap op aandelen AGAT electromechanical Plant;zakłady elektromechaniczne AGAT OJSC;Агат-электромеханический завод"
+    },
+    {
+      "name": "LLC Megion Drilling Operations Department",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Departamentul pentru Operațiuni de Foraj din Megion S.R.L.;ООО “Мегионское управление буровых работ”"
     },
     {
       "name": "KIM Yong-Nam",
@@ -21258,6 +22116,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-12-12",
       "aliases": "Mado;Owj Parvaz Mado Nafar Company LLC;Societatea Oje Parvaz Mado Nafar;شرکت اوژه پرواز مادو نفر;مادو"
+    },
+    {
+      "name": "Zulu Ships Management",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "LLC “Krafttek”",
@@ -21392,6 +22256,12 @@
       "aliases": "Amir Abdullah Sahib"
     },
     {
+      "name": "JSC Commercial Bank “Forshtadt”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Comercială Forshtadt S.A.;АО АКБ “Форштадт”"
+    },
+    {
       "name": "Dubninsky machine-building plant",
       "schema": "Organization",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-02-25",
@@ -21498,6 +22368,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/1842 (OJ L28062024) - 2024-06-28",
       "aliases": "ILIADIS Rt.;sociedad anónima Iliadis;АО Илиадис"
+    },
+    {
+      "name": "LLC NTTs VOSTOK",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited liability company Scientific and technical centre Vostok;Sociedade de responsabilidade limitada Centro científico e técnico Vostok;Societatea cu răspundere limitată «Centrul științific și tehnic Vostok»;Научно Технический Центр ВОСТОК;ООО НТЦ ВОСТОК"
     },
     {
       "name": "Alexey Vadimovich NIZKOUS",
@@ -22122,6 +22998,18 @@
       "schema": "Organization",
       "sanctions": "TAQA - 2015/1390 (OJ L215) - 2015-08-14;TAQA - 34/2012 (OJ L15) - 2012-01-17",
       "aliases": "ASC;Afghan Support Committee;Ahya Ul Turas;Al-Furqan Welfare Foundation;Comité de Apoio ao Afeganistão;Comité de soutien afghan;Islami Pärandi Taaselustamise Ühing;Islami Pärandi Taaselustamise Ühing Aafrika Mandril, Jamia Ihya Ul Turath;Jamia Ihya Ul Turath;Jamiat Ayat-Ur-Rhas Al Islamia;Jamiat Ihia Al-Turath Al-Islamiya;Jamiat Ihya Ul Turath Al Islamia;Lajnat Ul Masa Eidatul Afghania;RIHS;Restauração do Património Social Islâmico do Continente Africano;Revival of Islamic Heritage Society;Revival of Islamic Society Heritage on the African Continent;Sociedade da Restauração do Património Islâmico;Αφγανική Επιτροπή Στήριξης"
+    },
+    {
+      "name": "LLC Commercial Bank Kuban Credit",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Comercială Kuban Credit S.R.L;ООО КБ Кубань Кредит"
+    },
+    {
+      "name": "Ruslan Georgievich AREFIEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Ruslan Georgievich AREFYEV;Руслан Георгиевич АРЕФЬЕВ"
     },
     {
       "name": "Hassan MADADI",
@@ -35492,10 +36380,454 @@
       "aliases": "NVMU;Nakhimov Naval School;НВМУ;Нахимовское военно-морское училище;Федеральное государственное казённое общеобразовательное учреждение “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской Федерации”"
     },
     {
+      "name": "Andrey Sergeevich SHUBIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Andrei Shubin;Andrej Šubin;Андрей Сергеевич ШУБИН"
+    },
+    {
+      "name": "Михаил Андреевич АМБАРОВ",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Michail Ambarov;Mihail Ambarov;Mikhail Andreevich AMBAROV;Михаил Амбаров"
+    },
+    {
+      "name": "PJSC AKB Primorye",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Public Joint Stock Company Commercial Bank Primorye;ПАО АКБ Приморье;Публичное Акционерное Общество Акционерный Коммерческий Банк “Приморье”"
+    },
+    {
+      "name": "Public Joint Stock Company MTS-Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Публичное Акционерное Общество МТС-Банк"
+    },
+    {
+      "name": "PJSC Bank Sinara",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Банк Синара"
+    },
+    {
+      "name": "Public Joint Stock Company Transkapitalbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "TKB Bank PJSC;Публичное Акционерное Общество Транскапиталбанк;ТКБ Банк ПАО"
+    },
+    {
+      "name": "JSC Auto Finance Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Авто Финанс Банк"
+    },
+    {
+      "name": "Sergey Viktorovich KONDRASHIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergei Kondrašin;Sergej Kondrašin;Сергей Викторович КОНДРАШИН"
+    },
+    {
+      "name": "Sergey Anatolievich SYCHKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergei Sytškov;Sergej Syčkov;Сергей Анатольевич СЫЧКОВ"
+    },
+    {
+      "name": "Aleksander Vladimirovich GARMASHOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Alexandr Garmašov;Александр Владимирович ГАРМАШОВ"
+    },
+    {
+      "name": "Elena Evgenievna SERGEEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Jelena Sergejeva;Jelena Sergejevová;Елена Евгеньевна СЕРГЕЕВА"
+    },
+    {
+      "name": "Aleksander Nikolaevich SHVETSOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Aleksandr Švetsov;Alexandr Švecov;Александр Николаевич ШВЕЦОВ"
+    },
+    {
+      "name": "Evgenyi Dmitrievich MALAKHOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Jevgeni Malahov;Jevgenij Malachov;Евгений Дмитриевич МАЛАХОВ"
+    },
+    {
+      "name": "Konstantin Valentinovich MIGALIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Константин Валентинович МИГАЛИН"
+    },
+    {
+      "name": "Yakovlevich SLODKEVICH",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-09",
+      "aliases": "Евгений Яковлевич СЛОДКЕВИЧ"
+    },
+    {
+      "name": "PJS SCBP “Primsotsbank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Comercială Socială «Primsotsbank» din Primorie, societate publică pe acțiuni;Public Joint-Stock Social Commercial Bank of Primorye “Primsotsbank”;ПАО СКБ Приморья “Примсоцбанк”;Публичное Акционерное Общество Социальный Коммерческий Банк Приморья “Примсоцбанк”"
+    },
+    {
+      "name": "PJSC National Bank “TRUST”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "PJSC nacionalinis bankas TRUST;ПАО Национальный Банк “ТРАСТ”"
+    },
+    {
+      "name": "PJSC Chelindbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Челиндбанк"
+    },
+    {
+      "name": "JSC Econombank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Экономбанк"
+    },
+    {
+      "name": "JSC Bank “National Standard”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC bankas Nacionalinis standartas;АО Банк “Национальный стандарт”"
+    },
+    {
+      "name": "JSC Commercial Bank “Modulbank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC komercinis bankas Modulbank;АО КБ “Модульбанк”"
+    },
+    {
+      "name": "PJSC “BystroBank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО “БыстроБанк”"
+    },
+    {
+      "name": "JSC “Bank Finservice”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Finservice S.A.;АО “Банк Финсервис”"
+    },
+    {
+      "name": "JSC Kuznetskbusinessbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Kuznecko verslo bankas;АО “Кузнецкбизнесбанк”"
+    },
+    {
+      "name": "JSC Bank Accept",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Accept S.A;АО “Банк Акцепт”"
+    },
+    {
+      "name": "LLC AUTOLIFE LOGISTIK",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Kumpanija b'Responsabbiltà Limitata AUTOLIFE LOGISTIK;Limited Liability Company AUTOLIFE LOGISTIK;ООО АВТОЛАЙФ ЛОГИСТИК"
+    },
+    {
+      "name": "LLC LK AUTOLIFE",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ООО ЛК АВТОЛАЙФ"
+    },
+    {
+      "name": "LLC DELMOT",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ООО ДЕЛМОТ"
+    },
+    {
+      "name": "LLC POLKOVODETS",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited liability company Polkovodets;POLKOVODETS S.R.L.;ООО ПОЛКОВОДЕЦ"
+    },
+    {
+      "name": "LLC RADIAL FIRM",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited Liability Company RADIAL FIRM;RADIAL FIRM, societate cu răspundere limitată;ООО ФИРМА РАДИАЛ"
+    },
+    {
+      "name": "LLC NPF ROTOR",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-09",
+      "aliases": "Limited liability company Research and production firm Rotor;ООО НПФ РОТОР;Общество с Ограниченной Ответственностью Научно-производственная Фирма “Ротор”"
+    },
+    {
+      "name": "LLC SISTEMA PG",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "GRUPUL INDUSTRIAL SISTEMIC S.R.L.;LLC SYSTEM INDUSTRIAL GROUP;ООО СИСТЕМА ПРОМЫШЛЕННАЯ ГРУППА"
+    },
+    {
+      "name": "CJSC TECHNOSVYAZ",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Closed joint stock company Technosvyaz;TECHNOSVYAZ, societate pe acțiuni de tip închis;ЗАО ТЕХНОСВЯЗЬ"
+    },
+    {
+      "name": "LLC TEXTILTECHSNAB",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "TEXTILTECHSNAB S.R.L.;ООО ТЕКСТИЛЬТЕХСНАБ"
+    },
+    {
+      "name": "PJSC Obneftegazgeologiya",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Obneftegazgeologiya, societate publică pe acțiuni;ПАО “Обьнефтегазгеология”"
+    },
+    {
+      "name": "Alexander Alexandrovich ZHAROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Александр Александрович ЖАРОВ"
+    },
+    {
+      "name": "Yuri Petrovich KUSHNEROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Юрий Петрович КУШНЕРОВ"
+    },
+    {
+      "name": "Аркадий Владимирович ДВОРКОВИЧ",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Vladimirovich DVORKOVICH"
+    },
+    {
+      "name": "Mikhail Gerazievich MAMIASHVILI",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Михаил Геразиевич МАМИАШВИЛИ"
+    },
+    {
+      "name": "Geradotovich DEMURCHIEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Роман Герадотович ДЕМУРЧИЕВ"
+    },
+    {
+      "name": "LLC “Tatneft-Samara”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Tatneft-Samara S.R.L.;ООО “Татнефть-Самара”"
+    },
+    {
+      "name": "Finist LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "TL TECHNOLOGY;ООО “Финист”"
+    },
+    {
+      "name": "LLC UGMK",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited Liability Company «Southern Mining and Metallurgical Complex» (Complexul de Minerit și Metalurgie din Sud, societate cu răspundere limitată);Limited Liability Company “Southern Mining and Metallurgical Complex”;ООО “ЮГМК”;Общество с Ограниченной Ответственностью “Южный Горно-Металлургический Комплекс”"
+    },
+    {
+      "name": "LLC “Anzhersky Oil and Gas Company”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “Angers Oil and Gas Company”;LLC “Angk”;LLC “Anzherskaya Oil and Gas Company”;Limited Liability Company “Anzhersky Oil and Gas Company”;Societatea de Petrol și Gaze Anzhersky, societate cu răspundere limitată;Spoločnosť s ručením obmedzeným „Anzhersky Oil and Gas Company“;ООО “Ангк”;Общество с ограниченной ответственностью “Анжерская Нефтегазовая Компания”"
+    },
+    {
+      "name": "LLC “Anzhersky Oil Refinery”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “ANZ”;Limited Liability Company “Anzhersky Oil Refinery”;Rafinăria de Petrol Anzhersky, societate cu răspundere limitată;Spoločnosť s ručením obmedzeným „Anzhersky Oil Refinery“;Общество с ограниченной ответственностью “Анжерский Нефтеперерабатывающий Завод”"
+    },
+    {
+      "name": "LLC “Oil Refinery ‘North Kuzbass’”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “Northern Kusbass Oil Refinery”;LLC “Oil Refinery ‘Northern Kuzbass’”;Limited Liability Company “Oil Refinery “North Kuzbass”;Osakeyhtiö ”Oil Refinery ”North Kuzbass””;Rafinăria de petrol «Kuzbassul de Nord», societate cu răspundere limitată;Severny Kuzbass Oil Refinery LLC;ООО “НПЗ ‘Северный Кузбасс’”;Общество с ограниченной ответственностью “Нефтеперерабатывающий Завод ‘Северный Кузбасс’”"
+    },
+    {
+      "name": "JSC RUSNEFTGAZ",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Руснeфтeгаз;Akciová spoločnosť RUSNEFTEGAZ;Joint Stock Company RUSNEFTGAZ;RUSNEFTGAZ, societate pe acțiuni"
+    },
+    {
+      "name": "Limited Liability Company “Soyuzmetallservis”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Soyuzmetallservis, societate cu răspundere limitată;Общество с ограниченной ответственностью “Союзметаллсервис”"
+    },
+    {
+      "name": "JSC Susumanzoloto",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Susuman Mining and Processing Plant “Susumanzoloto”;Susumanzoloto;Uzina Minieră și de Prelucrare din Susuman «Susumanzoloto» S.A.;АКЦИОНЕРНОЕ ОБЩЕСТВО “СУСУМАНСКИЙ ГОРНО-ОБОГАТИТЕЛЬНЫЙ КОМБИНАТ ‘СУСУМАНЗОЛОТО’”;АО “СУСУМАНЗОЛОТО”;СУСУМАНЗОЛОТО"
+    },
+    {
+      "name": "Sergey Ivanovich SCHNEIDER",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergey SCHNEIDER;Сергей Иванович ШНАЙДЕР;Сергей ШНАЙДЕР"
+    },
+    {
+      "name": "Leonid Vladimirovich SHUMAKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Леонид Владимирович ШУМАКОВ"
+    },
+    {
+      "name": "LLC Commercial Bank RostFinance",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Comercială RostFinance S.R.L.;ОOO Коммерческий Банк РостФинанс"
+    },
+    {
+      "name": "LLC Bank Round",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Round S.R.L.;ООО Банк Раунд"
+    },
+    {
+      "name": "PJSC Prio Vneshtorgbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Prio-Vneshtorgbank, societate publică pe acțiuni;Prio-bank;ПАО Прио Внешторгбанк;Прио-банк"
+    },
+    {
+      "name": "JSC Belgorodsocbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Comercială Universală pentru Dezvoltare Socială și Reconstrucție Belgorodsocbank S.A.;Joint Stock Company Universal Commercial Bank Of Social Development And Reconstruction “Belgorodsocbank”;АO УКБ Белгородсоцбанк;Акционерное Общество Универсальный Коммерческий Банк Социального Развития И Реконструкции “Белгородсоцбанк”"
+    },
+    {
+      "name": "JSC Bank “United Capital”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Банк “Объединенный капитал”;Banca «Capitalul Unit» S.A."
+    },
+    {
+      "name": "JSC Bank of Social Development of Tatarstan “Tatsotsbank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca pentru Dezvoltare Socială din Tatarstan Tatsotsbank S.A.;JSC Tatsotsbank;АО Татсоцбанк;“Банк Социального Развития Татарстана ‘Татсоцбанк’”"
+    },
+    {
+      "name": "JSC Bank “KUB”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Банк “КУБ”;Joint Stock Company “Credit Ural Bank”;АO “Кредит Урал Банк”"
+    },
+    {
+      "name": "JSC Almazergienbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Алмазэргиэнбанк;Almazergienbank S.A."
+    },
+    {
+      "name": "Aleksandr Evgenievich Klukov",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Александр Евгеньевич Клюков"
+    },
+    {
+      "name": "LLC “Aquamarine Ship Management”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited Liability Company “Aquamarine Ship Management”;Spoločnosť s ručením obmedzeným „Aquamarine Ship Management“;\"Общество с ограниченной ответственностью \"\"Аквамарин Шип Менеджмент\"\"\""
+    },
+    {
+      "name": "Nordgold",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Nordgold Management LLC;Нордголд;\"ООО \"\"Нордголд Менеджмент\"\"\""
+    },
+    {
+      "name": "JSC Coalmetbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Uglemetbank;АО Углеметбанк"
+    },
+    {
+      "name": "“Beget” LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
+    },
+    {
+      "name": "JSC “ABS ZEIM Automation”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "Joint Stock Company “ABS ZEIM Automation”;\"общество \"\"АБС ЗЭИМ Автоматизация\"\"\""
+    },
+    {
+      "name": "LLC “Asset Automation”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "\"LLC \"\"NPP \"\"ABS Electro\"\"\";\"LLC \"\"Scientific and Production Enterprise \"\"ABS Electro\"\"\";Limited Liability Company “Asset Automation”;\"Общество с ограниченной ответственностью \"\"Эссет Автоматизация\"\"\";“ABS Electro Group”"
+    },
+    {
+      "name": "JSC VNIIR",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "\"Open Joint Stock Company \"\"All Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production\"\"\";\"АО \"\"Вниир\"\"\";\"Открытое акционерное общество \"\"Всероссийский научно исследовательский , проектно конструкторский и технологический институт релестроения с опытным производством\"\"\""
+    },
+    {
+      "name": "LLC “Asset Electro”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "\"LLC \"\"Esset Elctro\"\"\";\"LLC \"\"NPP \"\"ABS Electro\"\"\";Limited Liability Company “Asset Electro”;\"Общество с ограниченной ответственностью \"\"Эссет Электро\"\"\""
+    },
+    {
+      "name": "Olga Aleksandrovna KORCHAGINA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Ольга Александровна КОРЧАГИНА"
+    },
+    {
+      "name": "Pavel Alekseevich CHERNYSHOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Павел Алексеевич ЧЕРНЫШОВ"
+    },
+    {
+      "name": "A7 Agent Limited Liability Company a.k.a. A7 AGENT LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Общество с ограниченной ответственностью А7-Агент"
+    },
+    {
+      "name": "AO KNG MashZavodServis",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO КНГ Машзаводсервис;Joint-Stock Company KNG MASHINOSTROY TELNY ZAVOD SERVICE;АКЦИОНЕРНОЕ ОБЩЕСТВО КНГ МАШИНОСТРОИ ТЕЛЬНЫЙ ЗАВОД СЕРВИС"
+    },
+    {
+      "name": "Limited Liability Company Russian Air Transport Laboratory",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "RLVT LLC, LLC Russkaya Laboratoriya Vozdushnogo Transporta;ООО РЛВТ;Общество с ограниченной ответственностью Русская лаборатория воздушного транспорта"
+    },
+    {
       "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
+    },
+    {
+      "name": "LLC Industrial Company YUMEX",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited Liability Company IC YUMEX;PROMYSHLENNAYA KOMPANIYA YUMEKS;SOCIETATEA INDUSTRIALĂ YUMEX S.R.L.;ООО ПК ЮМЭКС"
     }
   ]
 }
