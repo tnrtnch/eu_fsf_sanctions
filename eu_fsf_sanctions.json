@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:21:21.937345+00:00",
+  "generated_at": "2026-08-03T05:35:44.920620+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -12,6 +12,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/90040 (OJ L24102023) [corrigendum] - 2022-04-08",
       "aliases": "Irina Anatoljevna KOSTENKO;Iryna Anatolijivna KOSTENKO;Ірина Анатоліївна КОСТЕНКО;Ирина Анатольевна КОСТЕНКО"
+    },
+    {
+      "name": "LLC “Aquamarine Ship Management”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited Liability Company “Aquamarine Ship Management”;Spoločnosť s ručením obmedzeným „Aquamarine Ship Management“;\"Общество с ограниченной ответственностью \"\"Аквамарин Шип Менеджмент\"\"\""
     },
     {
       "name": "GV Gold",
@@ -326,6 +332,12 @@
       "aliases": "Elvira Junusovna OBUCHOVA;Elvira Obuchovová;Елвира Обухова;Эльвира Юнусовна ОБУХОВА"
     },
     {
+      "name": "PJSC National Bank “TRUST”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "PJSC nacionalinis bankas TRUST;ПАО Национальный Банк “ТРАСТ”"
+    },
+    {
       "name": "Vladimir Aleksandrovich GORLOV",
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
@@ -342,6 +354,12 @@
       "schema": "Person",
       "sanctions": "RUSDA - 2024/3188 (OJ L16122024) - 2024-12-16",
       "aliases": "Николай Александрович ТУПИКИН"
+    },
+    {
+      "name": "Olga Aleksandrovna KORCHAGINA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Ольга Александровна КОРЧАГИНА"
     },
     {
       "name": "Federal State Unitary Enterprise “Main Radio Frequency Centre”",
@@ -380,6 +398,12 @@
       "aliases": "محسن نیک ورز"
     },
     {
+      "name": "JSC “Bank Finservice”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Finservice S.A.;АО “Банк Финсервис”"
+    },
+    {
       "name": "Maxim Vitalievich KOROLYUK",
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
@@ -396,6 +420,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2011-12-01",
       "aliases": "Khaleel ZGHRAYBIH;Khaleel Zaghrayba;Khaleel Zaghraybah;Khaleel Zaghraybe;Khaleel Zeghrayba;Khaleel Zeghraybah;Khaleel Zeghraybe;Khaleel Zeghraybeh;Khaleel Zghrayba;Khaleel Zghraybah;Khaleel Zghraybe;Khaleel Zghraybeh;Khaleel Zighrayba;Khaleel Zighraybah;Khaleel Zighraybe;Khaleel Zighraybeh;Khaleel Zughrayba;Khaleel Zughraybah;Khaleel Zughraybe;Khaleel Zughraybeh;Khalil ZGHRAYBIH;Khalil Zaghrayba;Khalil Zaghraybah;Khalil Zaghraybe;Khalil Zaghraybeh;Khalil Zeghrayba;Khalil Zeghraybah;Khalil Zeghraybe;Khalil Zeghraybeh;Khalil Zghrayba;Khalil Zghraybah;Khalil Zghraybe;Khalil Zghraybeh;Khalil Zighrayba;Khalil Zighraybah;Khalil Zighraybe;Khalil Zighraybeh;Khalil Zughrayba;Khalil Zughraybah;Khalil Zughraybe;Khalil Zughraybeh;خليل زغربية;خليل زغريبه"
+    },
+    {
+      "name": "“Beget” LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "Limited Liability Company OZON Bank",
@@ -722,6 +752,12 @@
       "aliases": "Astais Rt.;Asteis Rt.;Asteys Rt.;JSC Astais;JSC Asteys;Joint Stock Company “Asteis”;Joint-Stock Company ‘Asteis’;»Asteis« Részvénytársaság;АО “АСТЕЙС”"
     },
     {
+      "name": "Аркадий Владимирович ДВОРКОВИЧ",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Vladimirovich DVORKOVICH"
+    },
+    {
       "name": "شرکت ایمن صنعت زمان فرا",
       "schema": "Organization",
       "sanctions": "IRN - 2023/152 (OJ L20 I) - 2023-01-23",
@@ -756,6 +792,12 @@
       "schema": "Person",
       "sanctions": "RUS - 2025/958 (OJ L202500958) - 2025-05-20",
       "aliases": "Екатерина Феликсовна ТЯМИНА"
+    },
+    {
+      "name": "PJSC Obneftegazgeologiya",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Obneftegazgeologiya, societate publică pe acțiuni;ПАО “Обьнефтегазгеология”"
     },
     {
       "name": "Dmitry Eduardovich DEZORTSEV",
@@ -840,6 +882,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/339 (OJ L68) - 2020-12-17",
       "aliases": "Victoria Valerevna SHABUNYA;Victoria Valeryeuna SHABUNYA;Viktorija Valerjevna SJABUNJA;Viktoryja Valerjeuna SJABUNJA;Вікторыя Валер'еўна ШАБУНЯ"
+    },
+    {
+      "name": "Yuri Petrovich KUSHNEROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Юрий Петрович КУШНЕРОВ"
     },
     {
       "name": "IRGC-Air Force Al-Ghadir Missile Command",
@@ -936,6 +984,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
       "aliases": "علي"
+    },
+    {
+      "name": "LLC Industrial Company YUMEX",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited Liability Company IC YUMEX;PROMYSHLENNAYA KOMPANIYA YUMEKS;SOCIETATEA INDUSTRIALĂ YUMEX S.R.L.;ООО ПК ЮМЭКС"
     },
     {
       "name": "Public Joint Stock Company SDM-Bank",
@@ -1056,6 +1110,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Konstantin Belokobyľskij;Konstantin Bělokobylskij;Константин Белокобилски;Константин Петрович БЕЛОКОБЫЛЬСКИЙ"
+    },
+    {
+      "name": "PJSC Prio Vneshtorgbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Prio-Vneshtorgbank, societate publică pe acțiuni;Prio-bank;ПАО Прио Внешторгбанк;Прио-банк"
     },
     {
       "name": "195 Repair Plant of Rocket and Artillery Weapons",
@@ -1256,6 +1316,12 @@
       "aliases": "Muthana Haris Al-Dhari;Muthana Haris al-Dari;Muthana Harith Al Dari;Muthanna Al Dari;Muthanna Hareth Al-Dhari;Muthanna Hareth al-Dari;Muthanna Harith Salman Al-Dari;Muthanna Harith Sulayman Al Dari Al-Zawba’;Muthanna Harith Sulayman Al-Dari;Muthanna Harith Sulayman Al-Dari Al-Zobai;Muthanna Harith Sulayman Al-Dari al-Zawba’i;Muthanna Harith Sulayman Al-Dhari;Muthanna Harith al-Dari al-Zowbai;Muthanna al-Dari"
     },
     {
+      "name": "LLC “Anzhersky Oil Refinery”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “ANZ”;Limited Liability Company “Anzhersky Oil Refinery”;Rafinăria de Petrol Anzhersky, societate cu răspundere limitată;Spoločnosť s ručením obmedzeným „Anzhersky Oil Refinery“;Общество с ограниченной ответственностью “Анжерский Нефтеперерабатывающий Завод”"
+    },
+    {
       "name": "Russian National Reinsurance Company JSC",
       "schema": "Organization",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -1278,6 +1344,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2020/510 (OJ L113) - 2020-04-08",
       "aliases": ""
+    },
+    {
+      "name": "JSC Kuznetskbusinessbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Kuznecko verslo bankas;АО “Кузнецкбизнесбанк”"
     },
     {
       "name": "JSC “NPP ‘Topaz’”",
@@ -1734,6 +1806,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Владислав Сергеевич ГОВОРОВ"
+    },
+    {
+      "name": "Leonid Vladimirovich SHUMAKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Леонид Владимирович ШУМАКОВ"
     },
     {
       "name": "JSC Holography Industry",
@@ -2402,6 +2480,12 @@
       "aliases": "Natalja Michajlovna BUGUK;Natallia Mikhailauna BUHUK;Natallja Michajlauna BUHUK;Наталля Міхайлаўна БУГУК;Наталья Михайловна БУГУК"
     },
     {
+      "name": "LLC DELMOT",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ООО ДЕЛМОТ"
+    },
+    {
       "name": "Андрей Александрович ЛАГУНОВИЧ",
       "schema": "Person",
       "sanctions": "BLR - 2021/339 (OJ L68) - 2020-12-17",
@@ -2562,6 +2646,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Gumics RTK Kft.;Gumics RTK Korlátolt Felelősségű Társaság;LLC Gumich RTK;Limited Liability Company Gumich RTK;Societatea cu răspundere limitată Gumich RTK;ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “ГУМИЧ РТК”;ООО “ГУМИЧ РТК”"
+    },
+    {
+      "name": "LLC LK AUTOLIFE",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ООО ЛК АВТОЛАЙФ"
     },
     {
       "name": "Sultan Aziz Azam",
@@ -3260,6 +3350,12 @@
       "aliases": "Rinat Alijevitj BILJALOV;Ринат Алиевич БИЛЯЛОВ"
     },
     {
+      "name": "AO KNG MashZavodServis",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO КНГ Машзаводсервис;Joint-Stock Company KNG MASHINOSTROY TELNY ZAVOD SERVICE;АКЦИОНЕРНОЕ ОБЩЕСТВО КНГ МАШИНОСТРОИ ТЕЛЬНЫЙ ЗАВОД СЕРВИС"
+    },
+    {
       "name": "Logex",
       "schema": "Organization",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2021-06-21",
@@ -3318,6 +3414,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Sergej Naviljevitj ABUKOV;Сергей Навильевич АБУКОВ"
+    },
+    {
+      "name": "JSC Bank Accept",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Banca Accept S.A;АО “Банк Акцепт”"
     },
     {
       "name": "142nd Separate Electronic Warfare Battalion",
@@ -3734,6 +3836,12 @@
       "aliases": "Seyyed Amin Ala Emami TABATABAI"
     },
     {
+      "name": "Pavel Alekseevich CHERNYSHOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Павел Алексеевич ЧЕРНЫШОВ"
+    },
+    {
       "name": "Alik Yuryevich HUCHBAROV",
       "schema": "Person",
       "sanctions": "RUSDA - 2025/965 (OJ L202500965) - 2025-05-20",
@@ -3804,6 +3912,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Александр Валерьевич ГАВРИЛОВ"
+    },
+    {
+      "name": "Limited Liability Company Russian Air Transport Laboratory",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "RLVT LLC, LLC Russkaya Laboratoriya Vozdushnogo Transporta;ООО РЛВТ;Общество с ограниченной ответственностью Русская лаборатория воздушного транспорта"
     },
     {
       "name": "Ali Hajinia Leilabadi",
@@ -4730,6 +4844,12 @@
       "aliases": ""
     },
     {
+      "name": "PJSC “BystroBank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО “БыстроБанк”"
+    },
+    {
       "name": "Behdad KAAMFAR",
       "schema": "Person",
       "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
@@ -4860,6 +4980,12 @@
       "schema": "Person",
       "sanctions": "VEN - 2025/44 (OJ L10012025) - 2025-01-10",
       "aliases": ""
+    },
+    {
+      "name": "Yakovlevich SLODKEVICH",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-09",
+      "aliases": "Евгений Яковлевич СЛОДКЕВИЧ"
     },
     {
       "name": "Hojjat al-Islam Seyyed Alireza ADIANI",
@@ -5010,6 +5136,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 253/2012 (OJ L84) - 2012-03-12",
       "aliases": "Abdul Rosyid Ridho Bashir;Rashid Rida Bashir;Rashid Rida Ba’aysir"
+    },
+    {
+      "name": "Public Joint Stock Company Transkapitalbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "TKB Bank PJSC;Публичное Акционерное Общество Транскапиталбанк;ТКБ Банк ПАО"
     },
     {
       "name": "JSC 'RADIOAVIONIKA'",
@@ -5246,6 +5378,12 @@
       "aliases": "Belnaftachim - Běloruský státní ropný a chemický koncern;Belneftekhim - Bieloruský štátny naftový a chemický koncern;Belneftekhim - Bjeloruski državni koncern za naftu i kemiju;Belneftekhim - Gnóthas Stáit na Bealarúise maidir le hOla agus Ceimic;Belneftekhim - L-Entità Statali tal-Belarussja għaż-Żejt u l-Kimika;Belneftekhim - consorzio statale bielorusso per il petrolio e la chimica;Belneftekhim - empresa estatal bielorrussa para o petróleo e a química;Belneftekhim - empresa petrolera y química estatal bielorrusa;Belneftekhim - Κρατικού ενδιαφέροντος εταιρεία πετρελαίου και χημείας;Belneftekhim – A belarusz olaj- és vegyipari állami konszern;Belneftekhim – Baltarusijos naftos ir chemijos valstybinis koncernas;Belneftekhim – Białoruski Państwowy Koncern Naftowy i Chemiczny;Belneftekhim – Concernul Belarus de Stat pentru Petrochimie;Belneftekhim – Entreprise d’État biélorusse pour le pétrole et la chimie;Belneftekhim – Valgevene riiklik nafta- ja keemiakontsern;Belneftekhim – Valko-Venäjän öljy- ja kemianalan valtionkonserni;Belneftekhim – beloruski državni koncern za nafto in kemijo;Belneftekhim — Belarussisch Staatsconcern voor olie en chemie;Belneftekhim — Belarussischer Staatskonzern für Öl und Chemie;Belneftekhim — den belarusiske statslige koncern for olie og kemi;Belneftekhim- Belarus statliga koncern för olja och kemi;Białoruski Państwowy Koncern Naftowy i Chemiczny »Biełnieftiechim«;Белнафтахiм – Беларускi дзяржаўны канцэрн па нафце i хiмii;Белнефтехим - Беларуският държавен нефтен и химичен концерн;Белнефтехим, Белорусский государственный концерн по нефти и химии"
     },
     {
+      "name": "JSC Commercial Bank “Modulbank”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC komercinis bankas Modulbank;АО КБ “Модульбанк”"
+    },
+    {
       "name": "Sergey Vladimirovich MOKEEV",
       "schema": "Person",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
@@ -5382,6 +5520,12 @@
       "schema": "Person",
       "sanctions": "HAM - 2024/1838 (OJ L28062023) - 2024-06-28",
       "aliases": ""
+    },
+    {
+      "name": "LLC “Asset Electro”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "\"LLC \"\"Esset Elctro\"\"\";\"LLC \"\"NPP \"\"ABS Electro\"\"\";Limited Liability Company “Asset Electro”;\"Общество с ограниченной ответственностью \"\"Эссет Электро\"\"\""
     },
     {
       "name": "José Miguel DOMÍNGUEZ RAMÍREZ",
@@ -5966,6 +6110,12 @@
       "aliases": ""
     },
     {
+      "name": "LLC POLKOVODETS",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Limited liability company Polkovodets;POLKOVODETS S.R.L.;ООО ПОЛКОВОДЕЦ"
+    },
+    {
       "name": "JSC “State Ryazan Instrument Plant”",
       "schema": "Organization",
       "sanctions": "UKR - 2025/1476 (OJ L202501476) - 2025-07-19",
@@ -6314,6 +6464,12 @@
       "aliases": "Drake Kft.;ООО Дрейк"
     },
     {
+      "name": "Nordgold",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Nordgold Management LLC;Нордголд;\"ООО \"\"Нордголд Менеджмент\"\"\""
+    },
+    {
       "name": "Sabtina Ltd",
       "schema": "Organization",
       "sanctions": "LBY - 2016/44 (OJ L12) - 2011-04-12",
@@ -6396,6 +6552,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
       "aliases": "NIOPDC"
+    },
+    {
+      "name": "Konstantin Valentinovich MIGALIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Константин Валентинович МИГАЛИН"
     },
     {
       "name": "Mojtaba MALEKI",
@@ -6638,6 +6800,12 @@
       "aliases": "Az Iszlám Forradalmi Gárda nyugat-azerbajdzsáni Shohada regionális hadteste;Corpo regionale Shohada del Corpo delle guardie rivoluzionarie islamiche (IRGC), Azerbaigian occidentale;\"Corps provincial \"\"Shohada\"\" relevant du Corps des gardiens de la révolution islamique (IRGC), dans la province de l’Azerbaïdjan occidental\";Corpul provincial «Shohada» al Corpului Gardienilor Revoluției Iraniene (IRGC) din Azerbaidjanul de Vest;Cuerpo regional «Shohada» del Cuerpo de los Guardianes de la Revolución Islámica en Azerbaiyán Occidental;Cór réigiúnach Sohanda an Islamic Revolutionary Guard Corps (IRGC) in West-Azerbaijan;Den Islamiske Revolutionsgardes (IRGC's) regionale korps Shohada i West Azerbaijan;Islamic Revolutionary Guard Corps (IRGC) Regional Corps Shohada in West-Azerbaijan;Islamilaisen vallankumous-kaartin (IRGC) alueelliset Shohada-joukot Länsi-Azerbaidžanissa;Islamiska revolutionsgardets regionala Shohada-styrkor i Västazarbaijan;Islamo revoliucijos gvardijos regioninis Shohada korpusas Vakarų Azerbaidžane;Islāma revolucionāro gvardu korpusa (IRGC) reģionālais korpuss Shohada, kas atrodas West-Azerbaijan;Korp Reġjonali Shohada tal-Korp tal-Gwardjani tar-Rivoluzzjoni Iżlamika (IRGC) f’West-Azerbaijan;Należące do Korpusu Strażników Rewolucji Islamskiej (IRGC) regionalne siły Shohada prowincji Azerbejdżan Zachodni;Regionaal korps “Shohada” van de Islamitische Revolutionaire Garde (IRG) in West-Azerbeidzjan;Regionalkorps „Shohada“ des Korps der Islamischen Revolutionsgarde (IRGC) in West-Azerbaijan;Regionalni korpus Shohada Islamske revolucionarne garde (IRGC)) u Zapadnom Azerbajdžanu;Regionálna jednotka Zboru islamských revolučných gárd (IRGC) Shohada v provincii Západný Azerbajdžan;Regionální jednotka Islámských revolučních gard (IRGC) Šoháda v provincii Západní Ázerbájdžán;islami revolutsioonilise kaardiväe (IRGC) piirkondlik üksus Shohada Lääne-Aserbaidžaani provintsis;regionalna enota Islamske revolucionarne garde Shohada) v Zahodnem Azerbajdžanu;Επαρχιακό σώμα Shohada του Στρατού των Φρουρών της Ισλαμικής Επανάστασης (IRGC), επαρχία του Δυτικού Αζερμπαϊτζάν;Регионален корпус Shohada на Корпуса на гвардейците на ислямската революция (IRGC) в Западен Азербайджан"
     },
     {
+      "name": "Mikhail Gerazievich MAMIASHVILI",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Михаил Геразиевич МАМИАШВИЛИ"
+    },
+    {
       "name": "JSC Tula Machine Building Plant",
       "schema": "Organization",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
@@ -6852,6 +7020,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
       "aliases": ""
+    },
+    {
+      "name": "Sergey Viktorovich KONDRASHIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergei Kondrašin;Sergej Kondrašin;Сергей Викторович КОНДРАШИН"
     },
     {
       "name": "JSC Bank Russian Standard",
@@ -7946,6 +8120,12 @@
       "aliases": "Dezvoltatorul Specializat PIK, societate pe acțiuni;PIK Cégcsoport Nyrt.;PIK Specializált Fejlesztő Rt.;PIK-specialised developer JSC;Public Joint Stock Company “PIK-specialized homebuilder”;»PIK Specializált Házépítő« Nyilvánosan Működő Részvénytársaság;АО “ПИК специализированный застройщик”"
     },
     {
+      "name": "Elena Evgenievna SERGEEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Jelena Sergejeva;Jelena Sergejevová;Елена Евгеньевна СЕРГЕЕВА"
+    },
+    {
       "name": "Alexey Nikolaevich VYAZNIKOV",
       "schema": "Person",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
@@ -8768,6 +8948,12 @@
       "aliases": "POSCO"
     },
     {
+      "name": "Aleksandr Evgenievich Klukov",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Александр Евгеньевич Клюков"
+    },
+    {
       "name": "Igor Gennadievich KUDRYASHKIN",
       "schema": "Person",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
@@ -9230,6 +9416,12 @@
       "aliases": ""
     },
     {
+      "name": "JSC Bank “National Standard”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC bankas Nacionalinis standartas;АО Банк “Национальный стандарт”"
+    },
+    {
       "name": "JSC “AGAT”",
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -9576,6 +9768,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-01-25",
       "aliases": "Sadruddin;Sadudin Sayed"
+    },
+    {
+      "name": "PJSC Chelindbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ПАО Челиндбанк"
     },
     {
       "name": "LLC “Stanko”",
@@ -10236,6 +10434,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "sociedad de responsabilidad limitada Sonatek;Общество с ограниченной ответственностью Сонатек"
+    },
+    {
+      "name": "Geradotovich DEMURCHIEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Роман Герадотович ДЕМУРЧИЕВ"
     },
     {
       "name": "علیرضا بلالی",
@@ -12764,6 +12968,12 @@
       "aliases": "Dmitrii Aleksandrovich SMOLIAGO;Dmitrij Aleksandrovitj SMOLJAGO"
     },
     {
+      "name": "JSC RUSNEFTGAZ",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Руснeфтeгаз;Akciová spoločnosť RUSNEFTEGAZ;Joint Stock Company RUSNEFTGAZ;RUSNEFTGAZ, societate pe acțiuni"
+    },
+    {
       "name": "Technology Cooperation Office of the Iranian President’s Office",
       "schema": "Organization",
       "sanctions": "IRN - 2025/1559 (OJ L202501559) - 2025-07-29",
@@ -12912,6 +13122,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "Aleksej Dubonosov;Алексей Геннадиевич ДУБОНОСОВ"
+    },
+    {
+      "name": "Sergey Anatolievich SYCHKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergei Sytškov;Sergej Syčkov;Сергей Анатольевич СЫЧКОВ"
     },
     {
       "name": "Khalid Qaddour",
@@ -13742,6 +13958,12 @@
       "aliases": "Alexandr POKATISOV;Александр Сергеевич ПОКАТИСОВ;Александър Покатисов"
     },
     {
+      "name": "Aleksander Nikolaevich SHVETSOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Aleksandr Švetsov;Alexandr Švecov;Александр Николаевич ШВЕЦОВ"
+    },
+    {
       "name": "Farzin KARIMI",
       "schema": "Person",
       "sanctions": "IRN - 2024/90749 corr (OJ L27112024) - 2022-02-20",
@@ -14130,6 +14352,12 @@
       "schema": "Person",
       "sanctions": "IRQ - 1210/2003 (OJ L169) - 2003-07-07",
       "aliases": "Ibrahim Ahmed Abdel Sattar Mohammed Al-Tikriti"
+    },
+    {
+      "name": "LLC “Oil Refinery ‘North Kuzbass’”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “Northern Kusbass Oil Refinery”;LLC “Oil Refinery ‘Northern Kuzbass’”;Limited Liability Company “Oil Refinery “North Kuzbass”;Osakeyhtiö ”Oil Refinery ”North Kuzbass””;Rafinăria de petrol «Kuzbassul de Nord», societate cu răspundere limitată;Severny Kuzbass Oil Refinery LLC;ООО “НПЗ ‘Северный Кузбасс’”;Общество с ограниченной ответственностью “Нефтеперерабатывающий Завод ‘Северный Кузбасс’”"
     },
     {
       "name": "Mostafa Barzegar GANJI",
@@ -14744,6 +14972,12 @@
       "aliases": "Abdul Samad Achekzai"
     },
     {
+      "name": "JSC “ABS ZEIM Automation”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "Joint Stock Company “ABS ZEIM Automation”;\"общество \"\"АБС ЗЭИМ Автоматизация\"\"\""
+    },
+    {
       "name": "Islamic Revolutionary Guard Corps Navy",
       "schema": "Organization",
       "sanctions": "IRN - 2024/90388 (OJ L11072024) - 2024-05-31",
@@ -14802,6 +15036,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2021-10-11",
       "aliases": "Andrej Nikolajevitj Dolgopolov;Andrej Nikolajewitsch DOLGOPOLOW;Andriej Nikołajewicz DOŁGOPOŁOW;Андрей Николаевич ДОЛГОПОЛОВ"
+    },
+    {
+      "name": "Михаил Андреевич АМБАРОВ",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Michail Ambarov;Mihail Ambarov;Mikhail Andreevich AMBAROV;Михаил Амбаров"
     },
     {
       "name": "JSC “Achinsk Refinery of the Eastern Oil Company”",
@@ -15036,6 +15276,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
       "aliases": "“Южный фронт”"
+    },
+    {
+      "name": "Aleksander Vladimirovich GARMASHOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Alexandr Garmašov;Александр Владимирович ГАРМАШОВ"
     },
     {
       "name": "Yahia Abou el Hammam",
@@ -15662,6 +15908,12 @@
       "aliases": "Kipli Sali;Salim Y Salamuddin JULKIPLI"
     },
     {
+      "name": "LLC AUTOLIFE LOGISTIK",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Kumpanija b'Responsabbiltà Limitata AUTOLIFE LOGISTIK;Limited Liability Company AUTOLIFE LOGISTIK;ООО АВТОЛАЙФ ЛОГИСТИК"
+    },
+    {
       "name": "Choson International Chemicals Joint Operation Company",
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2017-09-01",
@@ -16214,10 +16466,22 @@
       "aliases": "PJSC Oil and Gas Company “Slavneft”;PJSC Slavneft;Public Joint Stock Company Oil and Gas Company “Slavneft”;ПАО «Славнефть»;ПАО НГК «Славнефть»;ПАО Нефтегазовая компания «Славнефть»;Публичное акционерное общество Нефтегазовая Компания “Славнефть”"
     },
     {
+      "name": "Alexander Alexandrovich ZHAROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Александр Александрович ЖАРОВ"
+    },
+    {
       "name": "Faycal Boughanemi",
       "schema": "Person",
       "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
       "aliases": "Faical Boughanmi;Faysal al-Bughanimi"
+    },
+    {
+      "name": "Limited Liability Company “Soyuzmetallservis”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Soyuzmetallservis, societate cu răspundere limitată;Общество с ограниченной ответственностью “Союзметаллсервис”"
     },
     {
       "name": "Mohsen BARMAHANI",
@@ -16614,6 +16878,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-07-21",
       "aliases": "Concern FORSS;FORSS-Konzern;FORSS-koncernen;Grupa kompanija FORSS;Grupo de Empresas FORSS;Grupul de Societăți FORSS;skupina spoločností FORSS;Группа компаний ФОРСС;Консорциум ФОРСС"
+    },
+    {
+      "name": "CJSC TECHNOSVYAZ",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Closed joint stock company Technosvyaz;TECHNOSVYAZ, societate pe acțiuni de tip închis;ЗАО ТЕХНОСВЯЗЬ"
     },
     {
       "name": "جهاد محمد سلطان",
@@ -19136,6 +19406,12 @@
       "aliases": "Андрей Владимирович ПОЛЯКОВ"
     },
     {
+      "name": "Sergey Ivanovich SCHNEIDER",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Sergey SCHNEIDER;Сергей Иванович ШНАЙДЕР;Сергей ШНАЙДЕР"
+    },
+    {
       "name": "Division 39",
       "schema": "Organization",
       "sanctions": "PRK - 2022/1503 (OJ L235) - 2016-03-02",
@@ -19314,6 +19590,12 @@
       "schema": "Organization",
       "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
       "aliases": "Batalhão de Reconhecimento e Sabotagem Riyadus-Salikhin;Batalhão de Reconhecimento e Sabotagem dos Mártires Chechenos Riyadus-Salikhin;Batalhão de Reconhecimento e Sabotagem dos Shahids (Mártires) Riyadu-Salikhin;Firqat al-Takhrib wa al-Istitla al-Askariyah li Shuhada Riyadh al-Salihin;Grupo de Sabotagem e de Vigilância Militar dos Mártires Riyadh al-Salihin;RSRSBCM;Riyadh-as-Saliheen;Riyadu-Salikhin Reconnaissance and Sabotage battalion of Shahids (Martyrs);Riyadus-Salikhin Reconnaissance and Sabotage Battalion;The Sabotage and Military Surveillance Group of the Riyadh al-Salihin Martyrs"
+    },
+    {
+      "name": "Andrey Sergeevich SHUBIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Andrei Shubin;Andrej Šubin;Андрей Сергеевич ШУБИН"
     },
     {
       "name": "Farik Karin MORA SALCEDO",
@@ -20204,6 +20486,12 @@
       "aliases": "سید محمد امین آقامیری"
     },
     {
+      "name": "LLC TEXTILTECHSNAB",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "TEXTILTECHSNAB S.R.L.;ООО ТЕКСТИЛЬТЕХСНАБ"
+    },
+    {
       "name": "Ekaterina Gennadievna PRIEZZHEVA",
       "schema": "Person",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2023-02-25",
@@ -20322,6 +20610,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "Albatros Kft.;Albatross;sociedad de responsabilidad limitada Albatros;ООО “Альбатрос”"
+    },
+    {
+      "name": "Evgenyi Dmitrievich MALAKHOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Jevgeni Malahov;Jevgenij Malachov;Евгений Дмитриевич МАЛАХОВ"
     },
     {
       "name": "Ahmad Jan Akhund Zada",
@@ -21482,6 +21776,12 @@
       "aliases": "Олег Михайлович СОТНИКОВ"
     },
     {
+      "name": "LLC “Anzhersky Oil and Gas Company”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "LLC “Angers Oil and Gas Company”;LLC “Angk”;LLC “Anzherskaya Oil and Gas Company”;Limited Liability Company “Anzhersky Oil and Gas Company”;Societatea de Petrol și Gaze Anzhersky, societate cu răspundere limitată;Spoločnosť s ručením obmedzeným „Anzhersky Oil and Gas Company“;ООО “Ангк”;Общество с ограниченной ответственностью “Анжерская Нефтегазовая Компания”"
+    },
+    {
       "name": "Oko Design Bureau",
       "schema": "Organization",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
@@ -22032,6 +22332,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "Bogdan Stjožka;Bogdan Styožka;Bogdan Vasiljevitj STIOZJKA;Богдан Васильевич СТИОЖКА;Богдан Стьожка"
+    },
+    {
+      "name": "JSC Coalmetbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "JSC Uglemetbank;АО Углеметбанк"
     },
     {
       "name": "Ghorb Karbala",
@@ -22688,6 +22994,12 @@
       "aliases": "Yaftar;Yaftar Pazhohan Pishtaz Rayanesh Limited Company"
     },
     {
+      "name": "JSC Econombank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Экономбанк"
+    },
+    {
       "name": "Abukar Ali Adan",
       "schema": "Person",
       "sanctions": "SOM - 2021/559 (OJ L115I) - 2021-02-26",
@@ -22824,6 +23136,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2024/2074 (OJ L29072024) - 2010-07-26",
       "aliases": "Iszfaháni Optikai Vállalat"
+    },
+    {
+      "name": "JSC Almazergienbank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "AO Алмазэргиэнбанк;Almazergienbank S.A."
     },
     {
       "name": "Somali battalion",
@@ -23142,6 +23460,12 @@
       "schema": "Person",
       "sanctions": "LBY - 2018/1863 (OJ L304) - 2018-11-29",
       "aliases": ""
+    },
+    {
+      "name": "JSC VNIIR",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "\"Open Joint Stock Company \"\"All Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production\"\"\";\"АО \"\"Вниир\"\"\";\"Открытое акционерное общество \"\"Всероссийский научно исследовательский , проектно конструкторский и технологический институт релестроения с опытным производством\"\"\""
     },
     {
       "name": "Litasco Middle East DMCC",
@@ -23694,6 +24018,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2012-01-06",
       "aliases": "Mohammad Aman Akhund;Mohammed Aman;Mullah Mad Aman Ustad Noorzai;Mullah Mohammed Oman;Sanaullah"
+    },
+    {
+      "name": "LLC “Asset Automation”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
+      "aliases": "\"LLC \"\"NPP \"\"ABS Electro\"\"\";\"LLC \"\"Scientific and Production Enterprise \"\"ABS Electro\"\"\";Limited Liability Company “Asset Automation”;\"Общество с ограниченной ответственностью \"\"Эссет Автоматизация\"\"\";“ABS Electro Group”"
     },
     {
       "name": "STC, Ltd",
@@ -36380,18 +36710,6 @@
       "aliases": "NVMU;Nakhimov Naval School;НВМУ;Нахимовское военно-морское училище;Федеральное государственное казённое общеобразовательное учреждение “Нахимовское военно-морское ордена Почёта училище Министерства обороны Российской Федерации”"
     },
     {
-      "name": "Andrey Sergeevich SHUBIN",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Andrei Shubin;Andrej Šubin;Андрей Сергеевич ШУБИН"
-    },
-    {
-      "name": "Михаил Андреевич АМБАРОВ",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Michail Ambarov;Mihail Ambarov;Mikhail Andreevich AMBAROV;Михаил Амбаров"
-    },
-    {
       "name": "PJSC AKB Primorye",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
@@ -36410,148 +36728,16 @@
       "aliases": "АО Банк Синара"
     },
     {
-      "name": "Public Joint Stock Company Transkapitalbank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "TKB Bank PJSC;Публичное Акционерное Общество Транскапиталбанк;ТКБ Банк ПАО"
-    },
-    {
       "name": "JSC Auto Finance Bank",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "АО Авто Финанс Банк"
     },
     {
-      "name": "Sergey Viktorovich KONDRASHIN",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Sergei Kondrašin;Sergej Kondrašin;Сергей Викторович КОНДРАШИН"
-    },
-    {
-      "name": "Sergey Anatolievich SYCHKOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Sergei Sytškov;Sergej Syčkov;Сергей Анатольевич СЫЧКОВ"
-    },
-    {
-      "name": "Aleksander Vladimirovich GARMASHOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Alexandr Garmašov;Александр Владимирович ГАРМАШОВ"
-    },
-    {
-      "name": "Elena Evgenievna SERGEEVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Jelena Sergejeva;Jelena Sergejevová;Елена Евгеньевна СЕРГЕЕВА"
-    },
-    {
-      "name": "Aleksander Nikolaevich SHVETSOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Aleksandr Švetsov;Alexandr Švecov;Александр Николаевич ШВЕЦОВ"
-    },
-    {
-      "name": "Evgenyi Dmitrievich MALAKHOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Jevgeni Malahov;Jevgenij Malachov;Евгений Дмитриевич МАЛАХОВ"
-    },
-    {
-      "name": "Konstantin Valentinovich MIGALIN",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Константин Валентинович МИГАЛИН"
-    },
-    {
-      "name": "Yakovlevich SLODKEVICH",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-09",
-      "aliases": "Евгений Яковлевич СЛОДКЕВИЧ"
-    },
-    {
       "name": "PJS SCBP “Primsotsbank”",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "Banca Comercială Socială «Primsotsbank» din Primorie, societate publică pe acțiuni;Public Joint-Stock Social Commercial Bank of Primorye “Primsotsbank”;ПАО СКБ Приморья “Примсоцбанк”;Публичное Акционерное Общество Социальный Коммерческий Банк Приморья “Примсоцбанк”"
-    },
-    {
-      "name": "PJSC National Bank “TRUST”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "PJSC nacionalinis bankas TRUST;ПАО Национальный Банк “ТРАСТ”"
-    },
-    {
-      "name": "PJSC Chelindbank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "ПАО Челиндбанк"
-    },
-    {
-      "name": "JSC Econombank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "АО Экономбанк"
-    },
-    {
-      "name": "JSC Bank “National Standard”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "JSC bankas Nacionalinis standartas;АО Банк “Национальный стандарт”"
-    },
-    {
-      "name": "JSC Commercial Bank “Modulbank”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "JSC komercinis bankas Modulbank;АО КБ “Модульбанк”"
-    },
-    {
-      "name": "PJSC “BystroBank”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "ПАО “БыстроБанк”"
-    },
-    {
-      "name": "JSC “Bank Finservice”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Banca Finservice S.A.;АО “Банк Финсервис”"
-    },
-    {
-      "name": "JSC Kuznetskbusinessbank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "JSC Kuznecko verslo bankas;АО “Кузнецкбизнесбанк”"
-    },
-    {
-      "name": "JSC Bank Accept",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Banca Accept S.A;АО “Банк Акцепт”"
-    },
-    {
-      "name": "LLC AUTOLIFE LOGISTIK",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Kumpanija b'Responsabbiltà Limitata AUTOLIFE LOGISTIK;Limited Liability Company AUTOLIFE LOGISTIK;ООО АВТОЛАЙФ ЛОГИСТИК"
-    },
-    {
-      "name": "LLC LK AUTOLIFE",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "ООО ЛК АВТОЛАЙФ"
-    },
-    {
-      "name": "LLC DELMOT",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "ООО ДЕЛМОТ"
-    },
-    {
-      "name": "LLC POLKOVODETS",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Limited liability company Polkovodets;POLKOVODETS S.R.L.;ООО ПОЛКОВОДЕЦ"
     },
     {
       "name": "LLC RADIAL FIRM",
@@ -36572,54 +36758,6 @@
       "aliases": "GRUPUL INDUSTRIAL SISTEMIC S.R.L.;LLC SYSTEM INDUSTRIAL GROUP;ООО СИСТЕМА ПРОМЫШЛЕННАЯ ГРУППА"
     },
     {
-      "name": "CJSC TECHNOSVYAZ",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Closed joint stock company Technosvyaz;TECHNOSVYAZ, societate pe acțiuni de tip închis;ЗАО ТЕХНОСВЯЗЬ"
-    },
-    {
-      "name": "LLC TEXTILTECHSNAB",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "TEXTILTECHSNAB S.R.L.;ООО ТЕКСТИЛЬТЕХСНАБ"
-    },
-    {
-      "name": "PJSC Obneftegazgeologiya",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Obneftegazgeologiya, societate publică pe acțiuni;ПАО “Обьнефтегазгеология”"
-    },
-    {
-      "name": "Alexander Alexandrovich ZHAROV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Александр Александрович ЖАРОВ"
-    },
-    {
-      "name": "Yuri Petrovich KUSHNEROV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Юрий Петрович КУШНЕРОВ"
-    },
-    {
-      "name": "Аркадий Владимирович ДВОРКОВИЧ",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Vladimirovich DVORKOVICH"
-    },
-    {
-      "name": "Mikhail Gerazievich MAMIASHVILI",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Михаил Геразиевич МАМИАШВИЛИ"
-    },
-    {
-      "name": "Geradotovich DEMURCHIEV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Роман Герадотович ДЕМУРЧИЕВ"
-    },
-    {
       "name": "LLC “Tatneft-Samara”",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
@@ -36638,52 +36776,10 @@
       "aliases": "Limited Liability Company «Southern Mining and Metallurgical Complex» (Complexul de Minerit și Metalurgie din Sud, societate cu răspundere limitată);Limited Liability Company “Southern Mining and Metallurgical Complex”;ООО “ЮГМК”;Общество с Ограниченной Ответственностью “Южный Горно-Металлургический Комплекс”"
     },
     {
-      "name": "LLC “Anzhersky Oil and Gas Company”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "LLC “Angers Oil and Gas Company”;LLC “Angk”;LLC “Anzherskaya Oil and Gas Company”;Limited Liability Company “Anzhersky Oil and Gas Company”;Societatea de Petrol și Gaze Anzhersky, societate cu răspundere limitată;Spoločnosť s ručením obmedzeným „Anzhersky Oil and Gas Company“;ООО “Ангк”;Общество с ограниченной ответственностью “Анжерская Нефтегазовая Компания”"
-    },
-    {
-      "name": "LLC “Anzhersky Oil Refinery”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "LLC “ANZ”;Limited Liability Company “Anzhersky Oil Refinery”;Rafinăria de Petrol Anzhersky, societate cu răspundere limitată;Spoločnosť s ručením obmedzeným „Anzhersky Oil Refinery“;Общество с ограниченной ответственностью “Анжерский Нефтеперерабатывающий Завод”"
-    },
-    {
-      "name": "LLC “Oil Refinery ‘North Kuzbass’”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "LLC “Northern Kusbass Oil Refinery”;LLC “Oil Refinery ‘Northern Kuzbass’”;Limited Liability Company “Oil Refinery “North Kuzbass”;Osakeyhtiö ”Oil Refinery ”North Kuzbass””;Rafinăria de petrol «Kuzbassul de Nord», societate cu răspundere limitată;Severny Kuzbass Oil Refinery LLC;ООО “НПЗ ‘Северный Кузбасс’”;Общество с ограниченной ответственностью “Нефтеперерабатывающий Завод ‘Северный Кузбасс’”"
-    },
-    {
-      "name": "JSC RUSNEFTGAZ",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "AO Руснeфтeгаз;Akciová spoločnosť RUSNEFTEGAZ;Joint Stock Company RUSNEFTGAZ;RUSNEFTGAZ, societate pe acțiuni"
-    },
-    {
-      "name": "Limited Liability Company “Soyuzmetallservis”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Soyuzmetallservis, societate cu răspundere limitată;Общество с ограниченной ответственностью “Союзметаллсервис”"
-    },
-    {
       "name": "JSC Susumanzoloto",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "JSC Susuman Mining and Processing Plant “Susumanzoloto”;Susumanzoloto;Uzina Minieră și de Prelucrare din Susuman «Susumanzoloto» S.A.;АКЦИОНЕРНОЕ ОБЩЕСТВО “СУСУМАНСКИЙ ГОРНО-ОБОГАТИТЕЛЬНЫЙ КОМБИНАТ ‘СУСУМАНЗОЛОТО’”;АО “СУСУМАНЗОЛОТО”;СУСУМАНЗОЛОТО"
-    },
-    {
-      "name": "Sergey Ivanovich SCHNEIDER",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Sergey SCHNEIDER;Сергей Иванович ШНАЙДЕР;Сергей ШНАЙДЕР"
-    },
-    {
-      "name": "Leonid Vladimirovich SHUMAKOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Леонид Владимирович ШУМАКОВ"
     },
     {
       "name": "LLC Commercial Bank RostFinance",
@@ -36696,12 +36792,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "Banca Round S.R.L.;ООО Банк Раунд"
-    },
-    {
-      "name": "PJSC Prio Vneshtorgbank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Prio-Vneshtorgbank, societate publică pe acțiuni;Prio-bank;ПАО Прио Внешторгбанк;Прио-банк"
     },
     {
       "name": "JSC Belgorodsocbank",
@@ -36728,106 +36818,16 @@
       "aliases": "AO Банк “КУБ”;Joint Stock Company “Credit Ural Bank”;АO “Кредит Урал Банк”"
     },
     {
-      "name": "JSC Almazergienbank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "AO Алмазэргиэнбанк;Almazergienbank S.A."
-    },
-    {
-      "name": "Aleksandr Evgenievich Klukov",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Александр Евгеньевич Клюков"
-    },
-    {
-      "name": "LLC “Aquamarine Ship Management”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Limited Liability Company “Aquamarine Ship Management”;Spoločnosť s ručením obmedzeným „Aquamarine Ship Management“;\"Общество с ограниченной ответственностью \"\"Аквамарин Шип Менеджмент\"\"\""
-    },
-    {
-      "name": "Nordgold",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Nordgold Management LLC;Нордголд;\"ООО \"\"Нордголд Менеджмент\"\"\""
-    },
-    {
-      "name": "JSC Coalmetbank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "JSC Uglemetbank;АО Углеметбанк"
-    },
-    {
-      "name": "“Beget” LLC",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": ""
-    },
-    {
-      "name": "JSC “ABS ZEIM Automation”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
-      "aliases": "Joint Stock Company “ABS ZEIM Automation”;\"общество \"\"АБС ЗЭИМ Автоматизация\"\"\""
-    },
-    {
-      "name": "LLC “Asset Automation”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
-      "aliases": "\"LLC \"\"NPP \"\"ABS Electro\"\"\";\"LLC \"\"Scientific and Production Enterprise \"\"ABS Electro\"\"\";Limited Liability Company “Asset Automation”;\"Общество с ограниченной ответственностью \"\"Эссет Автоматизация\"\"\";“ABS Electro Group”"
-    },
-    {
-      "name": "JSC VNIIR",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
-      "aliases": "\"Open Joint Stock Company \"\"All Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production\"\"\";\"АО \"\"Вниир\"\"\";\"Открытое акционерное общество \"\"Всероссийский научно исследовательский , проектно конструкторский и технологический институт релестроения с опытным производством\"\"\""
-    },
-    {
-      "name": "LLC “Asset Electro”",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1779 (OJ L202601779) - 2026-07-17",
-      "aliases": "\"LLC \"\"Esset Elctro\"\"\";\"LLC \"\"NPP \"\"ABS Electro\"\"\";Limited Liability Company “Asset Electro”;\"Общество с ограниченной ответственностью \"\"Эссет Электро\"\"\""
-    },
-    {
-      "name": "Olga Aleksandrovna KORCHAGINA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Ольга Александровна КОРЧАГИНА"
-    },
-    {
-      "name": "Pavel Alekseevich CHERNYSHOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Павел Алексеевич ЧЕРНЫШОВ"
-    },
-    {
       "name": "A7 Agent Limited Liability Company a.k.a. A7 AGENT LLC",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "Общество с ограниченной ответственностью А7-Агент"
     },
     {
-      "name": "AO KNG MashZavodServis",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "AO КНГ Машзаводсервис;Joint-Stock Company KNG MASHINOSTROY TELNY ZAVOD SERVICE;АКЦИОНЕРНОЕ ОБЩЕСТВО КНГ МАШИНОСТРОИ ТЕЛЬНЫЙ ЗАВОД СЕРВИС"
-    },
-    {
-      "name": "Limited Liability Company Russian Air Transport Laboratory",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "RLVT LLC, LLC Russkaya Laboratoriya Vozdushnogo Transporta;ООО РЛВТ;Общество с ограниченной ответственностью Русская лаборатория воздушного транспорта"
-    },
-    {
       "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "Региональное отделение ДОСААФ России г. Севастополя"
-    },
-    {
-      "name": "LLC Industrial Company YUMEX",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Limited Liability Company IC YUMEX;PROMYSHLENNAYA KOMPANIYA YUMEKS;SOCIETATEA INDUSTRIALĂ YUMEX S.R.L.;ООО ПК ЮМЭКС"
     }
   ]
 }
