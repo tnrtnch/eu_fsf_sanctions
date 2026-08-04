@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T05:35:44.920620+00:00",
+  "generated_at": "2026-08-04T04:58:06.726961+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -3038,10 +3038,10 @@
       "aliases": "Ameer Salman;Ma'alim Selman;Ma'alim Suleiman;Ma'alin Sulayman;Maalim Salman Ali;Maalim Selman Ali;Mu'alim Salman;Mualem Suleiman"
     },
     {
-      "name": "Moscow Exchange",
+      "name": "PJSC Moscow Exchange MICEX-RTS",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Beurs van Moskou;Bourse de Moscou;Bursa din Moscova MICEX-RTS, societate publică pe acțiuni;MOEX;Moskva Exchange;PJSC Moscow Exchange MICEX-RTS;ПАО Московская Биржа"
+      "aliases": "Beurs van Moskou;Bourse de Moscou;Bursa din Moscova MICEX-RTS, societate publică pe acțiuni;MOEX;Moscow Exchange;Moskva Exchange;ПАО Московская Биржа"
     },
     {
       "name": "DALNEVOSTOCHNIY BANK",
@@ -20072,10 +20072,10 @@
       "aliases": "Федеральное государственное унитарное предприятие «Крымская железная дорога»"
     },
     {
-      "name": "Uralmashzavod JSC",
+      "name": "URALMASHPLAN T JSC",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "URALMASHPLAN T JSC;UZTM;ПАО УРАЛМАШЗАВО Д;УЗТМ"
+      "aliases": "UZTM;Uralmashzavod JSC;ПАО УРАЛМАШЗАВО Д;УЗТМ"
     },
     {
       "name": "José Rafael CURRUCHICHE CUCUL",
@@ -22040,10 +22040,10 @@
       "aliases": "Noor Barzan Ibrahim Hasan Al-Tikriti"
     },
     {
-      "name": "Areal International JSC (formerly “Hylende Gold” or “Highland Gold”)",
+      "name": "Areal International JSC",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": ""
+      "aliases": "Highland Gold;Hylende Gold"
     },
     {
       "name": "Mehdi GOGERDCHIAN",
@@ -36818,10 +36818,10 @@
       "aliases": "AO Банк “КУБ”;Joint Stock Company “Credit Ural Bank”;АO “Кредит Урал Банк”"
     },
     {
-      "name": "A7 Agent Limited Liability Company a.k.a. A7 AGENT LLC",
+      "name": "A7 Agent Limited Liability Company",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Общество с ограниченной ответственностью А7-Агент"
+      "aliases": "A7 AGENT LLC;А7-Агент;Общество с ограниченной ответственностью"
     },
     {
       "name": "Regional Branch of DOSAAF Russia in the City of Sevastopol",
