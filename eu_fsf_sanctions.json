@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:58:06.726961+00:00",
+  "generated_at": "2026-08-05T04:59:33.866296+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -420,12 +420,6 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2011-12-01",
       "aliases": "Khaleel ZGHRAYBIH;Khaleel Zaghrayba;Khaleel Zaghraybah;Khaleel Zaghraybe;Khaleel Zeghrayba;Khaleel Zeghraybah;Khaleel Zeghraybe;Khaleel Zeghraybeh;Khaleel Zghrayba;Khaleel Zghraybah;Khaleel Zghraybe;Khaleel Zghraybeh;Khaleel Zighrayba;Khaleel Zighraybah;Khaleel Zighraybe;Khaleel Zighraybeh;Khaleel Zughrayba;Khaleel Zughraybah;Khaleel Zughraybe;Khaleel Zughraybeh;Khalil ZGHRAYBIH;Khalil Zaghrayba;Khalil Zaghraybah;Khalil Zaghraybe;Khalil Zaghraybeh;Khalil Zeghrayba;Khalil Zeghraybah;Khalil Zeghraybe;Khalil Zeghraybeh;Khalil Zghrayba;Khalil Zghraybah;Khalil Zghraybe;Khalil Zghraybeh;Khalil Zighrayba;Khalil Zighraybah;Khalil Zighraybe;Khalil Zighraybeh;Khalil Zughrayba;Khalil Zughraybah;Khalil Zughraybe;Khalil Zughraybeh;خليل زغربية;خليل زغريبه"
-    },
-    {
-      "name": "“Beget” LLC",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": ""
     },
     {
       "name": "Limited Liability Company OZON Bank",
@@ -15594,6 +15588,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
       "aliases": "Nazarij Anatoljevitj DOMANIN;Nazarij Domanin;Nazariy Anatolyevich DOMANIN;Назарий Анатольевич ДОМАНИН"
+    },
+    {
+      "name": "“Beget” LLC",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": ""
     },
     {
       "name": "Alexey Valerievich SHADRIN",
