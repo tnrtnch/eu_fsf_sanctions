@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T04:21:45.879582+00:00",
+  "generated_at": "2026-08-08T03:18:38.814570+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1280,12 +1280,6 @@
       "aliases": "Konstantin Albertovitj FEDORENKO;Konstantin Aľbertovič FEDORENKO;Константин Альбертович ФЕДОРЕНКО"
     },
     {
-      "name": "Lidia Aleksandrovna BASOVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2023/1765 (OJ L226) - 2020-01-28",
-      "aliases": "Lidija Aleksandrovna BASOVA;Lidiya Oleksandrivna BASOVA;Lydyja Oleksandrivna BASOVA;Лiдiя Олександрiвна БАСОВА;Лидия Александровна БАСОВА"
-    },
-    {
       "name": "OKENIT JSC",
       "schema": "Organization",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
@@ -2022,6 +2016,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Maksim Anatoljevitj UVAROV;Максим Анатольевич УВАРОВ"
+    },
+    {
+      "name": "Lidia Aleksandrovna BASOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2023/1765 (OJ L226) - 2020-01-28",
+      "aliases": "Lidija Aleksandrovna BASOVA;Lidiya Oleksandrivna BASOVA;Lydyja Oleksandrivna BASOVA;Лiдiя Олександрiвна БАСОВА;Лидия Александровна БАСОВА"
     },
     {
       "name": "Elio Ramón ESTRADA PAREDES",
@@ -12584,12 +12584,6 @@
       "aliases": "Khaled Kaddour;Khaled Qaddour;Khaled Qaddur;Khaled Qadour;Khalid Kaddour;Khalid QADDUR;Khalid Qadour;خالد قدور"
     },
     {
-      "name": "Aria Sepehr Ayandehsazan",
-      "schema": "Organization",
-      "sanctions": "CYB - 2026/589 (OJ L202600589) - 2026-03-16",
-      "aliases": "Anzu Team;Emennet Pasargad;Haywire Kitten;Holy Souls"
-    },
-    {
       "name": "Rosmachin",
       "schema": "Organization",
       "sanctions": "IRN - 54/2012 (OJ L19) - 2012-01-24",
@@ -16868,6 +16862,12 @@
       "aliases": "Sergej Michajlovitj DIDENKO;Сергей Михайлович ДИДЕНКО"
     },
     {
+      "name": "Aria Sepehr Ayandehsazan",
+      "schema": "Organization",
+      "sanctions": "CYB - 2026/589 (OJ L202600589) - 2026-03-16",
+      "aliases": "Anzu Team;Emennet Pasargad;Haywire Kitten;Holy Souls"
+    },
+    {
       "name": "جورج شاوي",
       "schema": "Person",
       "sanctions": "SYR - 2021/848 (OJ L188) - 2011-11-14",
@@ -19994,12 +19994,6 @@
       "aliases": ""
     },
     {
-      "name": "JSC Bank Avers",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "АО Банк Аверс"
-    },
-    {
       "name": "Pak Chang-Ho",
       "schema": "Person",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2013-01-22",
@@ -20394,12 +20388,6 @@
       "schema": "Organization",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2021-06-21",
       "aliases": "Belaeronavigatsia Empresa estatal;Belaeronavigatsia Empresa pública;Belaeronavigatsia Entreprise d’État;Belaeronavigatsia Fiontar faoi úinéireacht stáit;Belaeronavigatsia Impresa di proprietà dello Stato;Belaeronavigatsia Intrapriża tal-istat;Belaeronavigatsia Poduzeće u državnom vlasništvu;Belaeronavigatsia Staatsbedrijf;Belaeronavigatsia State-owned enterprise;Belaeronavigatsia Valtion omistama yritys;Belaeronavigatsia podjetje v državni lasti;Belaeronavigatsia przedsiębiorstwo państwowe;Belaeronavigatsia riigile kuuluv ettevõte;Belaeronavigatsia staatseigenes Unternehmen;Belaeronavigatsia statsejet virksomhed;Belaeronavigatsia státní podnik;Belaeronavigatsia Întreprindere de stat;Belaeronavigatsia štátny podnik;Belaeronavigatsia Κρατική επιχείρηση;Belaeronavigatsia, valstybės valdoma įmonė;Белаэронавігация Дзяржаўнае прадпрыемства;Държавно предприятие Belaeronavigatsia"
-    },
-    {
-      "name": "Gasabo Gold Refinery",
-      "schema": "Organization",
-      "sanctions": "COD - 2025/509 (OJ L202500509) - 2025-03-17",
-      "aliases": "Gasabo aranyfinomító;Gasabo kullarafineerimistehas;Gasabská rafinéria zlata;La raffinerie d’or de Gasabo;Raffineria di oro Gasabo;Rafineria złota Gasabo;Rafinăria de aur Gasabo"
     },
     {
       "name": "Moonlight Shipmanagement L.L.C – FZ",
@@ -21986,6 +21974,12 @@
       "aliases": ""
     },
     {
+      "name": "JSC Bank Avers",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "АО Банк Аверс"
+    },
+    {
       "name": "Federal State Enterprise ANOSIT",
       "schema": "Organization",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2023-12-18",
@@ -23130,6 +23124,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
       "aliases": ""
+    },
+    {
+      "name": "Gasabo Gold Refinery",
+      "schema": "Organization",
+      "sanctions": "COD - 2025/509 (OJ L202500509) - 2025-03-17",
+      "aliases": "Gasabo aranyfinomító;Gasabo kullarafineerimistehas;Gasabská rafinéria zlata;La raffinerie d’or de Gasabo;Raffineria di oro Gasabo;Rafineria złota Gasabo;Rafinăria de aur Gasabo"
     },
     {
       "name": "JSC SPECIAL DESIGN BUREAU OF TRANSPORT MECHANICAL ENGINEERING",
