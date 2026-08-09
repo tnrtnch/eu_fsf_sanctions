@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:18:38.814570+00:00",
+  "generated_at": "2026-08-09T03:26:47.688299+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -5720,12 +5720,6 @@
       "aliases": "La sociedad de responsabilidad limitada Neftegazpromstroy;Neftegazpromstroy Kft;Neftegazpromstroy LLC;ООО НГПС;ООО Нефтегазпромстрой"
     },
     {
-      "name": "Ghaith DALLA",
-      "schema": "Person",
-      "sanctions": "HR - 2025/1256 (OJ L202501256) - 2025-06-23",
-      "aliases": "Ghayth DALLA;Ghiath Suleiman DALLA;Ghyath DALLA;غياث سليمان دلا;غياث سليمان دلّا"
-    },
-    {
       "name": "Alexey Anatolievich KHLYSHCHENKOV",
       "schema": "Person",
       "sanctions": "BLR - 2024/2113 (OJ L 202402113) - 2024-08-05",
@@ -10970,12 +10964,6 @@
       "aliases": "ASOCIACIÓN CIENTÍFICA Y DE PRODUCCIÓN ‘STRELA’”;ASOCIAȚIA ȘTIINȚIFICĂ ȘI DE PRODUCȚIE «STRELA»;\"ASSOCIATION SCIENTIFIQUE ET DE PRODUCTION \"\"STRELA\"\"\";\"ASSOCIAÇÃO CIENTÍFICA E DE PRODUÇÃO \"\"STRELA\"\"\";MOKSLO IR GAMYBOS ASOCIACIJA „STRELA“;\"NPO \"\"STRELA\"\"\";SCIENTIFIC AND PRODUCTION ASSOCIATION „STRELA“;ZRZESZENIE NAUKOWO-PRODUKCYJNE „STRELA”;»STRELA« TUDOMÁNYOS ÉS GYÁRTÁSI SZÖVETSÉG ÁLLAMI RÉSZVÉNYTÁRSAS"
     },
     {
-      "name": "Yinon LEVI",
-      "schema": "Person",
-      "sanctions": "HR - 2024//1172 (OJ L19042024) - 2024-04-19",
-      "aliases": "Jinon Levi"
-    },
-    {
       "name": "Leader (Hong Kong) International Trading Limited",
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2013-01-22",
@@ -13656,12 +13644,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "Beurs van Moskou;Bourse de Moscou;Bursa din Moscova MICEX-RTS, societate publică pe acțiuni;MOEX;Moscow Exchange;Moskva Exchange;ПАО Московская Биржа"
-    },
-    {
-      "name": "Abu Aqla Mohamed Ahmed KAIKAL",
-      "schema": "Person",
-      "sanctions": "SDNZ - 2025/1480 (OJ L202501480) - 2025-07-18",
-      "aliases": ""
     },
     {
       "name": "Islamic Peacekeeping International Brigade",
@@ -16992,12 +16974,6 @@
       "schema": "Person",
       "sanctions": "IRN - 2023/379 (OJ L51 I) - 2023-02-20",
       "aliases": "Mehdi SHAMSABAD;آباد شمس مهدی"
-    },
-    {
-      "name": "Muhammad Hussein AL-JASIM",
-      "schema": "Person",
-      "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
-      "aliases": "Abu AMSHA;Mohamed ALJASEM;Muhammad AL-JASSIM BIN HUSSEIN;Muhammad Husayn AL-JASIM;أبو عمشة;محمد الجاسم;محمد الجاسم بن حسين;محمد حسين الجاسم"
     },
     {
       "name": "JSC “NPO ECHELON”",
@@ -27614,6 +27590,12 @@
       "aliases": "Sitt Taing Aung"
     },
     {
+      "name": "Abu Aqla Mohamed Ahmed KAIKAL",
+      "schema": "Person",
+      "sanctions": "SDNZ - 2025/1480 (OJ L202501480) - 2025-07-18",
+      "aliases": ""
+    },
+    {
       "name": "Vahid Mohammad Naser MAJID",
       "schema": "Person",
       "sanctions": "IRN - 2022/2231 (OJ L293-I) - 2022-11-14",
@@ -27728,6 +27710,12 @@
       "aliases": ""
     },
     {
+      "name": "Muhammad Hussein AL-JASIM",
+      "schema": "Person",
+      "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
+      "aliases": "Abu AMSHA;Mohamed ALJASEM;Muhammad AL-JASSIM BIN HUSSEIN;Muhammad Husayn AL-JASIM;أبو عمشة;محمد الجاسم;محمد الجاسم بن حسين;محمد حسين الجاسم"
+    },
+    {
       "name": "Floribert Ngabu Ndjabu",
       "schema": "Person",
       "sanctions": "COD - 2017/396 (OJ L60) - 2005-11-01",
@@ -27774,6 +27762,12 @@
       "schema": "Person",
       "sanctions": "COD - 2024/1271 (OJ L30042024) - 2023-07-28",
       "aliases": "Makanika"
+    },
+    {
+      "name": "Ghaith DALLA",
+      "schema": "Person",
+      "sanctions": "HR - 2025/1256 (OJ L202501256) - 2025-06-23",
+      "aliases": "Ghayth DALLA;Ghiath Suleiman DALLA;Ghyath DALLA;غياث سليمان دلا;غياث سليمان دلّا"
     },
     {
       "name": "Alexander Sergeevich LUKYANOV",
@@ -28296,6 +28290,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
       "aliases": "Иван Иванович ОХЛОБЫСТИН"
+    },
+    {
+      "name": "Yinon LEVI",
+      "schema": "Person",
+      "sanctions": "HR - 2024//1172 (OJ L19042024) - 2024-04-19",
+      "aliases": "Jinon Levi"
     },
     {
       "name": "Аркадий Владимирович ДВОРКОВИЧ",
