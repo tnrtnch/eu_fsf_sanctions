@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:29:00.993804+00:00",
+  "generated_at": "2026-08-12T03:59:31.501298+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -2550,12 +2550,6 @@
       "schema": "Person",
       "sanctions": "TAQA - 2016/294 (OJ L55) - 2016-03-03",
       "aliases": "Fathi Hannachi;Mohamed Ben Belgacem Ben Abdallah Al-Aouadi"
-    },
-    {
-      "name": "Htoo Group of Companies",
-      "schema": "Organization",
-      "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
-      "aliases": "Groupe d'entreprises Htoo;grupo de empresas Htoo"
     },
     {
       "name": "Andrei Andreevich ZADACHIN",
@@ -7332,12 +7326,6 @@
       "schema": "Person",
       "sanctions": "NIC - 2023/2125 (OJ L10102023) - 2021-08-02",
       "aliases": ""
-    },
-    {
-      "name": "Allah Dad Matin",
-      "schema": "Person",
-      "sanctions": "AFG - 2017/404 (OJ L63) - 2001-01-31",
-      "aliases": "Akhund;Allahdad;Shahidwror"
     },
     {
       "name": "Wasim Badia AL-ASSAD",
@@ -12954,6 +12942,12 @@
       "schema": "Organization",
       "sanctions": "CHEM - 2025/959 (OJ L202500959) - 2025-05-20",
       "aliases": "33 Центральный научно-исследовательский испытательный институт Министерства обороны Российской Федерации;33-ти централен институт за научни изследвания и изпитвания на Министерство на отбраната на Руската федерация;33. Centralny Instytut Badań Naukowych i Testów przy Ministerstwie Obrony Federacji Rosyjskiej;33. centrale institut for videnskabelig forskning og afprøvning under Den Russiske Føderations forsvarsministerium;33. središnji institut za znanstvena istraživanja i ispitivanje Ministarstva obrane Ruske Federacije;33. zentrales wissenschaftliches Forschungs- und Versuchsinstitut des russischen Verteidigungsministeriums;33e centraal wetenschappelijk instituut voor onderzoek en tests van het Ministerie van Defensie van de Russische Federatie;33e institut central de recherche scientifique et d’essais du ministère russe de la défense;33o istituto centrale di ricerca e sperimentazione scientifica del ministero della Difesa russo;33ú Institiúid Lárnach don Taighde Eolaíoch agus don Tástáil de chuid Aireacht Cosanta Chónaidhm na Rúise;33ο Κεντρικό Ινστιτούτο Επιστημονικής Έρευνας και Δοκιμών του υπουργείου Άμυνας της Ρωσικής Ομοσπονδίας;Al 33-lea Institut Central de Cercetare Științifică și Testare al Ministerului Apărării din Federația Rusă;It-33 Istitut Ċentrali tar-Riċerka u l-Ittestjar Xjentifiċi tal-Ministeru għad-Difiża tal-Federazzjoni Russa;Rusijos Federacijos Gynybos ministerijos 33-iasis centrinis mokslinių tyrimų ir bandymų institutas;Ryska försvarsministeriets 33:e centrala institut för vetenskaplig forskning och testning;Venemaa Föderatsiooni kaitseministeeriumi 33. keskne teadusuuringute ja katsete instituut"
+    },
+    {
+      "name": "Htoo Group of Companies",
+      "schema": "Organization",
+      "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
+      "aliases": "Groupe d'entreprises Htoo;grupo de empresas Htoo"
     },
     {
       "name": "Sayd Ali SAFARI",
@@ -31524,6 +31518,12 @@
       "schema": "Person",
       "sanctions": "COD - 2017/396 (OJ L60) - 2005-11-01",
       "aliases": ""
+    },
+    {
+      "name": "Allah Dad Matin",
+      "schema": "Person",
+      "sanctions": "AFG - 2017/404 (OJ L63) - 2001-01-31",
+      "aliases": "Akhund;Allahdad;Shahidwror"
     },
     {
       "name": "Leonid Mikhailovich ROMANOV",
