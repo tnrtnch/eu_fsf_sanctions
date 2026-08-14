@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:03:46.844807+00:00",
+  "generated_at": "2026-08-14T04:00:09.839364+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -4692,12 +4692,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "JSC Gold Mining Company Pavlik;Pavlik;АКЦИОНЕРНОЕ ОБЩЕСТВО ЗОЛОТОРУДНА Я КОМПАНИЯ ПАВЛИК;АО ‘ПАВЛИК"
-    },
-    {
-      "name": "Neda Mohammad NADEEM",
-      "schema": "Person",
-      "sanctions": "HR - 2024/2999 (OJ L03122024) - 2023-03-07",
-      "aliases": "Nadá Muhammad NADÍM;Neda Muhammad NADÍM;نداء محمد ندیم"
     },
     {
       "name": "Design Bureau “Mikrob”",
@@ -10664,12 +10658,6 @@
       "aliases": "BRC;Bonab kutatóközpont"
     },
     {
-      "name": "Ali SHADMANI",
-      "schema": "Person",
-      "sanctions": "IRN - 2024/2697 (OJL14102024) - 2024-10-14",
-      "aliases": "Alí Šadmání;علی شادمانی"
-    },
-    {
       "name": "Haji Khairullah Haji Sattar money exhange",
       "schema": "Organization",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2012-06-29",
@@ -11582,12 +11570,6 @@
       "aliases": "Avangard Military-Patriotic Training Centre;Военно-патриотический центр “Авангард”"
     },
     {
-      "name": "Egor Andreevich LOGUNOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Егор Андреевич ЛОГУНОВ"
-    },
-    {
       "name": "OOO Липецкий механический завод",
       "schema": "Organization",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -12338,12 +12320,6 @@
       "aliases": "Limited Liability Company “Sky Vortex“;Sky Vortex;ООО “СКАЙ ВОРТЕКС”;Общество с ограниченной ответственностью “СКАЙ ВОРТЕКС”"
     },
     {
-      "name": "Ali YAZDIKHAH",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/846 (OJ L109 I) - 2023-04-24",
-      "aliases": "علی یزدی خواه"
-    },
-    {
       "name": "BelOil",
       "schema": "Organization",
       "sanctions": "BLR - 2026/505 (OJ L202600505) - 2026-04-23",
@@ -12642,12 +12618,6 @@
       "schema": "Person",
       "sanctions": "RUSDA - 2025/1444 (OJ L202501444) - 2025-07-15",
       "aliases": "Андрей Юрьевич РОМАНЧЕНКО"
-    },
-    {
-      "name": "Elena Vasilievna ROMANOVSKAYA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Елена Васильевна РОМАНОВСКАЯ"
     },
     {
       "name": "Valentina Emmanuiovna SCHNEIDER",
@@ -14444,12 +14414,6 @@
       "aliases": "NBD-Bank, societate publică pe acțiuni;ПAO “НБД Банк”"
     },
     {
-      "name": "Валентина Васильевна ЛАВРИК",
-      "schema": "Person",
-      "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
-      "aliases": "Valentina Lavriková;Valentina Vasilyevna LAVRIK;Валентина Василівна ЛАВРИК"
-    },
-    {
       "name": "PJSC NPO Iskra",
       "schema": "Organization",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
@@ -14706,12 +14670,6 @@
       "schema": "Organization",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
       "aliases": ""
-    },
-    {
-      "name": "Ivan Sergeevich KUSOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
-      "aliases": "Іван Сергійович КУСОВ;Иван Сергеевич КУСОВ"
     },
     {
       "name": "Limited Liability Company “Center for Integrated Unmanned Solutions”",
@@ -15306,12 +15264,6 @@
       "schema": "Person",
       "sanctions": "IRN - 2026/267 (OJ L202600267) - 2026-01-29",
       "aliases": "Heydar OLFATI"
-    },
-    {
-      "name": "Evgeny Vladimirovich MANUYLOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2023/1765 (OJ L226) - 2015-02-16",
-      "aliases": "Evgeny Vladimirovich MANUILOV;Jevgenij Vladimirovitj MANUJLOV;Jevhen Volodymyrovytj MANUJLOV;Yevhen Volodymyrovych MANUYLOV;Євген Володимирович МАНУЙЛОВ;Евгений Владимирович МАНУЙЛОВ"
     },
     {
       "name": "Mohammad Ahmadi",
@@ -18330,12 +18282,6 @@
       "schema": "Person",
       "sanctions": "IRN - 2022/2231 (OJ L293-I) - 2022-11-14",
       "aliases": "Rahim JAHANBAKHSH"
-    },
-    {
-      "name": "James Mark NANDO",
-      "schema": "Person",
-      "sanctions": "HR - 2023/1499 (OJ L183 I) - 2023-07-20",
-      "aliases": ""
     },
     {
       "name": "Mohammad Eshaq Akhunzada",
@@ -25376,6 +25322,12 @@
       "aliases": "Stanislav Aleksandrovich NAUMOV;Stanislav Aleksandrovitj NAUMOV"
     },
     {
+      "name": "Neda Mohammad NADEEM",
+      "schema": "Person",
+      "sanctions": "HR - 2024/2999 (OJ L03122024) - 2023-03-07",
+      "aliases": "Nadá Muhammad NADÍM;Neda Muhammad NADÍM;نداء محمد ندیم"
+    },
+    {
       "name": "Andrey Alexandrovich BAZILEVSKY",
       "schema": "Person",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-03-09",
@@ -28016,6 +27968,24 @@
       "aliases": "Yusuf Al-Madani"
     },
     {
+      "name": "Egor Andreevich LOGUNOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Егор Андреевич ЛОГУНОВ"
+    },
+    {
+      "name": "Elena Vasilievna ROMANOVSKAYA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Елена Васильевна РОМАНОВСКАЯ"
+    },
+    {
+      "name": "Валентина Васильевна ЛАВРИК",
+      "schema": "Person",
+      "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
+      "aliases": "Valentina Lavriková;Valentina Vasilyevna LAVRIK;Валентина Василівна ЛАВРИК"
+    },
+    {
       "name": "Artem Alexandrovich KRAMARENKO",
       "schema": "Person",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-04-08",
@@ -28044,6 +28014,18 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/849 (OJ L13032024) - 2022-04-08",
       "aliases": "Kirill Borisovitj MAKAROV;Кирилл Борисович МАКАРОВ;Кирило Борисович МАКАРОВ"
+    },
+    {
+      "name": "Ivan Sergeevich KUSOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
+      "aliases": "Іван Сергійович КУСОВ;Иван Сергеевич КУСОВ"
+    },
+    {
+      "name": "Evgeny Vladimirovich MANUYLOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2023/1765 (OJ L226) - 2015-02-16",
+      "aliases": "Evgeny Vladimirovich MANUILOV;Jevgenij Vladimirovitj MANUJLOV;Jevhen Volodymyrovytj MANUJLOV;Yevhen Volodymyrovych MANUYLOV;Євген Володимирович МАНУЙЛОВ;Евгений Владимирович МАНУЙЛОВ"
     },
     {
       "name": "Mikhail Artemovich GOLUBOVICH",
@@ -28284,6 +28266,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
       "aliases": "Иван Иванович ОХЛОБЫСТИН"
+    },
+    {
+      "name": "James Mark NANDO",
+      "schema": "Person",
+      "sanctions": "HR - 2023/1499 (OJ L183 I) - 2023-07-20",
+      "aliases": ""
     },
     {
       "name": "Yinon LEVI",
@@ -30288,6 +30276,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2024/1033 (OJ L05042024) - 2013-03-12",
       "aliases": "اسدالله جعفری"
+    },
+    {
+      "name": "Ali SHADMANI",
+      "schema": "Person",
+      "sanctions": "IRN - 2024/2697 (OJL14102024) - 2024-10-14",
+      "aliases": "Alí Šadmání;علی شادمانی"
     },
     {
       "name": "Salman Bulgarskiy",
@@ -36114,6 +36108,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2020/1267 (OJ L298) - 2020-09-12",
       "aliases": "Алексей Владимирович ШАТОХИН"
+    },
+    {
+      "name": "Ali YAZDIKHAH",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/846 (OJ L109 I) - 2023-04-24",
+      "aliases": "علی یزدی خواه"
     },
     {
       "name": "Nezam MOUSAVI",
