@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:53:45.408901+00:00",
+  "generated_at": "2026-08-17T02:53:50.832575+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -54,12 +54,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "Vitalij Kuzmenko;Виталий Юрьевич КУЗЬМЕНКО"
-    },
-    {
-      "name": "Tatyana Vladimirovna ZHURAVLEVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
-      "aliases": "Tatiana Vladimirovna ZJURAVLEVA;Tetiana Volodymyrivna ZJURAVLEVA;Татьяна Владимировна ЖУРАВЛЕВА;Тетяна Володимирівна ЖУРАВЛЕВА"
     },
     {
       "name": "Victor Vladimirovich SOYKO",
@@ -13730,12 +13724,6 @@
       "aliases": "Anastasija Taršinova;Anastasija Taršinovová"
     },
     {
-      "name": "Zamid Aliyevich CHALAYEV",
-      "schema": "Person",
-      "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
-      "aliases": "Zamid Alijevitj TJALAJEV;Zamid Alijevič ČALAJEV;Замид Алиевич ЧАЛАЕВ"
-    },
-    {
       "name": "شهسواری حبیب",
       "schema": "Person",
       "sanctions": "IRN - 2022/2428 (OJ L318I) - 2022-12-12",
@@ -25880,6 +25868,12 @@
       "aliases": "Michail Igorevitj POLUBOJARINOV;Michail Igorevič Polubojarinov;Михаил Игоревич ПОЛУБОЯРИНОВ"
     },
     {
+      "name": "Zamid Aliyevich CHALAYEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
+      "aliases": "Zamid Alijevitj TJALAJEV;Zamid Alijevič ČALAJEV;Замид Алиевич ЧАЛАЕВ"
+    },
+    {
       "name": "Nikolay Timofeevich VELIKDAN",
       "schema": "Person",
       "sanctions": "UKR - 2024/849 (OJ L13032024) - 2022-07-21",
@@ -35856,6 +35850,12 @@
       "schema": "Person",
       "sanctions": "IRQ - 1210/2003 (OJ L169) - 2003-07-07",
       "aliases": "Tahir Jalil Habbouch Al-Tikriti"
+    },
+    {
+      "name": "Tatyana Vladimirovna ZHURAVLEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
+      "aliases": "Tatiana Vladimirovna ZJURAVLEVA;Tetiana Volodymyrivna ZJURAVLEVA;Татьяна Владимировна ЖУРАВЛЕВА;Тетяна Володимирівна ЖУРАВЛЕВА"
     },
     {
       "name": "تيسير قلا عواد",
