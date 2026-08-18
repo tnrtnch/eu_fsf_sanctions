@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T02:53:50.832575+00:00",
+  "generated_at": "2026-08-18T02:49:47.618152+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -10862,12 +10862,6 @@
       "aliases": "Anna Michajlovna SOKOLOVSKAJA;Anna Mikhaylovna SOKOLOVSKAYA;Hanna Michajlauna SAKALOUSKAJA;Hanna Mikhailauna SAKALOUSKAYA;Ганна Міхайлаўна САКАЛОЎСКАЯ"
     },
     {
-      "name": "RSB GRUPP",
-      "schema": "Organization",
-      "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
-      "aliases": "Grupo RSB;OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOST’YU “RSB-GRUPP”;OOO “RSB-GRUPP”;Orosz Biztonsági Rendszerek;RSB Group;RSB csoport;RSB-GRUPP;Rossiyskiye Sistemy Bezopasnosti;Russian Security Systems;groupe RSB;ООО “РСБ-ГРУПП”;Российские Системы Безопасности"
-    },
-    {
       "name": "Oleksandr Arkadiyovych KALYUSSKIY",
       "schema": "Person",
       "sanctions": "UKR - 2020/398 (OJ L78) - 2014-07-12",
@@ -12432,6 +12426,12 @@
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2011-10-04",
       "aliases": "Allah Muhammad;Haji Aminullah;Haji Malek Noorzai;Haji Maluk;Hajji Malak Noorzai;Malik Noorzai"
+    },
+    {
+      "name": "RSB GRUPP",
+      "schema": "Organization",
+      "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
+      "aliases": "Grupo RSB;OBSHCHESTVO S OGRANICHENNOY OTVETSTVENNOST’YU “RSB-GRUPP”;OOO “RSB-GRUPP”;Orosz Biztonsági Rendszerek;RSB Group;RSB csoport;RSB-GRUPP;Rossiyskiye Sistemy Bezopasnosti;Russian Security Systems;groupe RSB;ООО “РСБ-ГРУПП”;Российские Системы Безопасности"
     },
     {
       "name": "Joint Stock Company Ryazan Radio-Plant",
