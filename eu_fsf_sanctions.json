@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:56:37.151495+00:00",
+  "generated_at": "2026-08-22T02:48:23.753063+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -11574,12 +11574,6 @@
       "schema": "Organization",
       "sanctions": "BLR - 2025/631 (OJ L202500631) - 2025-03-27",
       "aliases": "Precíziós Elektromechanikai Üzem;Завод за точна електромеханика;РВУП “Завод дакладнай электрамеханікі”;РПУП “Завод точной электромеханики”"
-    },
-    {
-      "name": "کشا یسمیل",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/152 (OJ L20 I) - 2023-01-23",
-      "aliases": "Esmaeil Zarei KOUSHA;Ismail KOSHA;کوشا اسماعیل زارعی"
     },
     {
       "name": "Natalya Alekseevna BUDARYNA",
@@ -27546,6 +27540,12 @@
       "schema": "Person",
       "sanctions": "RUSDA - 2025/1444 (OJ L202501444) - 2025-07-15",
       "aliases": ""
+    },
+    {
+      "name": "کشا یسمیل",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/152 (OJ L20 I) - 2023-01-23",
+      "aliases": "Esmaeil Zarei KOUSHA;Ismail KOSHA;کوشا اسماعیل زارعی"
     },
     {
       "name": "Abdel Karim Mahmood IBRAHIM",
