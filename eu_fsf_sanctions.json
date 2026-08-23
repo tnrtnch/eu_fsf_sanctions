@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:48:23.753063+00:00",
+  "generated_at": "2026-08-23T02:56:05.317990+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -8180,12 +8180,6 @@
       "aliases": "Игорь Васильевич ТОНКОВИДОВ"
     },
     {
-      "name": "Sheikh Shafi al-Ajmi",
-      "schema": "Person",
-      "sanctions": "TAQA - 1058/2014 (OJ L293) - 2014-09-23",
-      "aliases": "Shafi Sultan Mohammed Al-Ajmi;Shafi al-Ajmi;Shaykh Abu-Sultan"
-    },
-    {
       "name": "Sadid Sazeh Parvaz Sharif",
       "schema": "Organization",
       "sanctions": "IRN - 2023/2793 (OJ L11122023) - 2023-12-11",
@@ -11154,6 +11148,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/427 (OJ L87I) - 2022-03-15",
       "aliases": "Marina Vladimirovna SECHINA;Marina Vladimirovna SETJINA"
+    },
+    {
+      "name": "Sheikh Shafi al-Ajmi",
+      "schema": "Person",
+      "sanctions": "TAQA - 1058/2014 (OJ L293) - 2014-09-23",
+      "aliases": "Shafi Sultan Mohammed Al-Ajmi;Shafi al-Ajmi;Shaykh Abu-Sultan"
     },
     {
       "name": "Ehsan Monajemi",
