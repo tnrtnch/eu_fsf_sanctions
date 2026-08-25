@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:57:01.112824+00:00",
+  "generated_at": "2026-08-25T02:52:40.935179+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -19664,12 +19664,6 @@
       "aliases": "CHONMYONG SHIPPING CO"
     },
     {
-      "name": "Shemal Cement Company",
-      "schema": "Organization",
-      "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
-      "aliases": "Shomal Cement Company;Siman Shomal"
-    },
-    {
       "name": "Ahmad DERAKHSHANDEH",
       "schema": "Person",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2023-10-17",
@@ -20790,6 +20784,12 @@
       "schema": "Organization",
       "sanctions": "NIC - 2022/22 (OJ L5I) - 2022-01-10",
       "aliases": "Den nationella polisen i Nicaragua;Nacionalna policija Nikaragve;National Police of Nicaragua;Nationale politie van Nicaragua;Nationalpolizei Nicaraguas;Nicaragua riiklik politsei;Nicaraguai Nemzeti Rendőrség;Nicaraguan kansallinen poliisi;Nicaraguas nationale politi;Nikaraguańska Policja Państwowa;Nikaragujská státní policie;Nikaragujská štátna polícia;Nikaragvas Valsts policija;Nikaragvos nacionalinė policija;Police nationale du Nicaragua;Policía Nacional de Nicaragua;Polizia nazionale del Nicaragua;Poliția Națională din Nicaragua;Polícia Nacional da Nicarágua;Pulizija Nazzjonali tan-Nikaragwa;Εθνική Αστυνομία της Νικαράγουας;Национална полиция на Никарагуа"
+    },
+    {
+      "name": "Shemal Cement Company",
+      "schema": "Organization",
+      "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
+      "aliases": "Shomal Cement Company;Siman Shomal"
     },
     {
       "name": "Saifi Ammari",
