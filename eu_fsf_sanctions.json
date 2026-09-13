@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:22:10.621882+00:00",
+  "generated_at": "2026-09-13T07:02:54.476021+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -504,12 +504,6 @@
       "schema": "Organization",
       "sanctions": "IRN - 2023/152 (OJ L20 I) - 2023-01-23",
       "aliases": "Az Iszlám Forradalmi Gárda Najaf-e-Ashraf műveleti bázisa;Base de operaciones de Najaf-e-Ashraf del Cuerpo de los Guardianes de la Revolución Islámica;Base operativa Najaf-e-Ashraf del Corpo delle guardie rivoluzionarie islamiche (IRGC);\"Base opérationnelle \"\"Najaf-e-Ashraf\"\" du Corps des gardiens de la révolution islamique (IRGC)\";Baza operațională «Najaf-e-Ashraf» a Corpului Gardienilor Revoluției Iraniene (IRGC);Bażi Operattiva Najaf-e-Ashraf tal-Korp tal-Gwardjani tar-Rivoluzzjoni Iżlamika (IRGC);Bunáit Oibriúcháin Najaf-e-Ashraf an Islamic Revolutionary Guard Corps (IRGC);Den Islamiske Revolutionsgardes (IRGC's) operationelle base Najaf-e-Ashraf;Islamic Revolutionary Guard Corps (IRGC) Operational Base Najaf-e-Ashraf;Islamilaisen vallankumous-kaartin (IRGC) operatiivinen keskus Najaf-e-Ashraf;Islamiska revolutionsgardets operativa bas Najaf-e-Ashraf;Islamo revoliucijos gvardijos (IRGC) Najaf-e-Ashraf operacijų bazė;Islāma revolucionāro gvardu korpusa (IRGC) operacionālā bāze Najaf-e-Ashraf;Należąca do Korpusu Strażników Rewolucji Islamskiej (IRGC) baza operacyjna An-Nadżaf;Operationele basis “Najaf-e-Ashraf” van de Islamitische Revolutionaire Garde (IRG);Operationsbasis Najaf-e-Ashraf des Korps der Islamischen Revolutionsgarde (IRGC);Operativna baza Najaf-e-Ashraf Islamske revolucionarne garde (IRGC);Operačná základňa Zboru islamských revolučných gárd (IRGC) Najaf-e-Ashraf;Operační základna Islámských revolučních gard (IRGC) Najaf-e- Ashraf;islami revolutsioonilise kaardiväe (IRGC) operatsioonide baas s Najaf-e-Ashraf;operativna baza Islamske revolucionarne garde Najaf-e-Ashraf;Επιχειρησιακή βάση Najaf-e-Ashraf του Στρατού των Φρουρών της Ισλαμικής Επανάστασης (IRGC);Оперативна база Najaf-e-Ashraf на Корпуса на гвардейците на ислямската революция (IRGC)"
-    },
-    {
-      "name": "Jama`at al-Tawhid wal-Jihad",
-      "schema": "Organization",
-      "sanctions": "TAQA - 2022/413 (OJ L85) - 2022-03-07",
-      "aliases": "JANNAT OSHIKLARI;KHATIBA AL-TAWHID WAL-JIHAD (KTJ);Катиба ат-Таухид валь-Джихад"
     },
     {
       "name": "Schiller Novin Co.",
@@ -22290,6 +22284,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Павел Владимирович БУРДАКОВ"
+    },
+    {
+      "name": "Jama`at al-Tawhid wal-Jihad",
+      "schema": "Organization",
+      "sanctions": "TAQA - 2022/413 (OJ L85) - 2022-03-07",
+      "aliases": "JANNAT OSHIKLARI;KHATIBA AL-TAWHID WAL-JIHAD (KTJ);Катиба ат-Таухид валь-Джихад"
     },
     {
       "name": "SAD Import Export Company",
