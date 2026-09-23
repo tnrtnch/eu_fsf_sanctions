@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:31:23.407387+00:00",
+  "generated_at": "2026-09-23T07:06:55.146278+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1032,6 +1032,12 @@
       "schema": "Person",
       "sanctions": "RUS - 2025/958 (OJ L202500958) - 2025-05-20",
       "aliases": "Ольга Владимировна БАЛАНДИНА"
+    },
+    {
+      "name": "Regavim",
+      "schema": "Organization",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "Regavim Movement;רגבים"
     },
     {
       "name": "Aleksandr Valerievich POTAPOV",
@@ -3116,6 +3122,12 @@
       "aliases": "Andrei Giba;Andrej Giba;Андрей Анатольевич ГИБА"
     },
     {
+      "name": "Avichai SUISSA",
+      "schema": "Person",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "אביחי סויסה"
+    },
+    {
       "name": "Dmitry Alexandrovich VINNIKOV",
       "schema": "Person",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-02-25",
@@ -3228,6 +3240,12 @@
       "schema": "Person",
       "sanctions": "YEM - 2022/2034 (OJ L274I) - 2022-10-04",
       "aliases": "Ahmad 'Ali Ahsan al-Hamzi;Ahmad 'Ali al-Hamzi;Ahmed Ali al-Hamzi;Muti al-Hamzi;أحمد الحمزي"
+    },
+    {
+      "name": "Meir DEUTSCH",
+      "schema": "Person",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "מאיר דויטש"
     },
     {
       "name": "Igor Anatolyevich ILYASH",
@@ -18068,6 +18086,12 @@
       "aliases": "\"Aкционерное общество \"\"41 Центральный Завод Железнодорожной Техники\"\"\";Fábrica Central de Equipamento Ferroviário 41;\"Joint Stock Company \"\"41 Central Plant of Railway Equipment\"\"\";»41. Központi Üzem« Rt.;»Vasúti Berendezéseket Gyártó 41. Központi Üzem« Részvénytársaság;\"АО \"\"41 Центральный Завод Железнодорожной Техники\"\"\";\"АО \"\"41 Центральный Завод\"\"\";Акционерно дружество „41-ви централен завод за железопътно оборудване“"
     },
     {
+      "name": "Nachala Movement",
+      "schema": "Organization",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "נחלה"
+    },
+    {
       "name": "Abu Jihad",
       "schema": "Person",
       "sanctions": "TAQA - 2015/1815 (OJ L264) - 2015-10-02",
@@ -19722,6 +19746,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Cофья ЛИ;Sofya Li;Sophia Lee;Xiaocui LI;李晓翠"
+    },
+    {
+      "name": "Amana",
+      "schema": "Organization",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "Amana – Cooperative Society for Community Settlement Ltd;אמנה"
     },
     {
       "name": "ABDUL MOHSEN ABDALLAH IBRAHIM AL CHAREKH",
@@ -22566,6 +22596,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
       "aliases": "Vadim Alekseevich SUBOTIN;Vadim Aleksejevitj SUBBOTIN;Вадим Алексеевич СУББОТИН"
+    },
+    {
+      "name": "Hashomer Judea and Samaria",
+      "schema": "Organization",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "Guardians of Judea and Samaria;Guardians of Yehuda and the Shomron;Hashomer Yehudah V’Shomron;Hashomer Yosh;השומר יו״ש"
     },
     {
       "name": "JSC OBORONENERGO",
@@ -34080,6 +34116,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-03-09",
       "aliases": "Sergej Nikolajevitj RJABUCHIN;Sergey Nikolayevich RYABUKHIN"
+    },
+    {
+      "name": "Daniella WEISS",
+      "schema": "Person",
+      "sanctions": "HR - 2026/1177 (OJ L202601177) - 2026-05-28",
+      "aliases": "דניאלה וייס"
     },
     {
       "name": "Igor Ivanovich SECHIN",
