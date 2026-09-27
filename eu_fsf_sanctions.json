@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:19:37.893068+00:00",
+  "generated_at": "2026-09-27T07:26:07.528033+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -246,12 +246,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-04-08",
       "aliases": "AO Омский завод транспортного машиностроения “ОМСКТРАНСМАШ”;Fabryka Maszyn Transportowych „Omsk” SA;Omsktransmasj"
-    },
-    {
-      "name": "Alexandr Valerievich BYKOV",
-      "schema": "Person",
-      "sanctions": "BLR - 2024/768 (OJ L27022024) - 2020-10-02",
-      "aliases": "Alexander Valerievich BYKOV;Alexandr Valerjevitj BYKOV;Aliaksandr Valerievich BYKAU;Aljaksandr Valerjevitj BYKAU;Александр Валерьевич БЫКОВ;Аляксандр Валер’евiч БЫКАЎ"
     },
     {
       "name": "Svetlana Nikolaevna PODLIPAEVA",
@@ -14270,12 +14264,6 @@
       "aliases": "Gruppo di società JSC KRONSHTADT TEKHNOLOGII;Vennootschap op aandelen KRONSHTADT TEKHNOLOGII (concern);Όμιλος Εταιρειών JSC KRONSHTADT TEKHNOLOGII;Кронштадт-технологии группа компаний АО"
     },
     {
-      "name": "Denis Vladimirovich KOLESNIKOV",
-      "schema": "Person",
-      "sanctions": "HR - 2023/1098 (OJ L145) - 2023-06-05",
-      "aliases": "Denis Vladimirovitj KOLESNIKOV;Denis Vladimirovič KOLESNIKOV;Денис Владимирович КОЛЕСНИКОВ"
-    },
-    {
       "name": "JSC \"Zavolzhsky plant of caterpillar tractors\"",
       "schema": "Organization",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2022-12-16",
@@ -27704,6 +27692,12 @@
       "aliases": "Aleksej Vladimirovitj DENISENKO;Alexej Děnisenko;Алексей Владимирович ДЕНИСЕНКО"
     },
     {
+      "name": "Denis Vladimirovich KOLESNIKOV",
+      "schema": "Person",
+      "sanctions": "HR - 2023/1098 (OJ L145) - 2023-06-05",
+      "aliases": "Denis Vladimirovitj KOLESNIKOV;Denis Vladimirovič KOLESNIKOV;Денис Владимирович КОЛЕСНИКОВ"
+    },
+    {
       "name": "Elías José JAUA MILANO",
       "schema": "Person",
       "sanctions": "VEN - 2020/1696 (OJ L381) - 2018-06-25",
@@ -36360,6 +36354,12 @@
       "schema": "Person",
       "sanctions": "IRQ - 1210/2003 (OJ L169) - 2003-07-07",
       "aliases": "Khamis Sirhan Al-Muhammad"
+    },
+    {
+      "name": "Alexandr Valerievich BYKOV",
+      "schema": "Person",
+      "sanctions": "BLR - 2024/768 (OJ L27022024) - 2020-10-02",
+      "aliases": "Alexander Valerievich BYKOV;Alexandr Valerjevitj BYKOV;Aliaksandr Valerievich BYKAU;Aljaksandr Valerjevitj BYKAU;Александр Валерьевич БЫКОВ;Аляксандр Валер’евiч БЫКАЎ"
     },
     {
       "name": "Muhammad Hamza Zubaidi",
