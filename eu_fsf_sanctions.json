@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:51:13.600861+00:00",
+  "generated_at": "2026-09-28T08:04:28.106985+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -132,12 +132,6 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
       "aliases": "Sergei Yevgenevich ZUBKOV;Sergej Jevgenjevitj ZUBKOV;Siarhei Yaugenavich ZUBKOU;Siarhej Jauhenavitj ZUBKOU;Сяргей Яўгенавіч ЗУБКОЎ"
-    },
-    {
-      "name": "Than Swe",
-      "schema": "Person",
-      "sanctions": "MMR - 2024/1249 (OJ L29042024) - 2022-11-08",
-      "aliases": "U Than Swe"
     },
     {
       "name": "Hassan HIJAZI",
@@ -948,12 +942,6 @@
       "schema": "Organization",
       "sanctions": "COD - 2017/396 (OJ L60) - 2005-11-01",
       "aliases": "TPD;Tous Pour la Paix et le développement"
-    },
-    {
-      "name": "Елена Михайловна ДЕМИДОВА",
-      "schema": "Person",
-      "sanctions": "UKR - 2024/753 (OJ L23022024) (2) - 2024-02-23",
-      "aliases": "Elena Demidovová;Elena Mikhailovna DEMIDOVA;Jelena Děmidova;Алена Міхайлаўна ДЗЯМІДАВА"
     },
     {
       "name": "185th Center for Combat Use and Combat Purpose of the Aerospace Forces “Ashuluk”",
@@ -2052,12 +2040,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
       "aliases": "Akcinė bendrovė BTK Group;BTL Csoport Rt.;Dioničko društvo BTK Group;Joint Stock Company BTK Group;»BTK Csoport« Részvénytársaság;Акционерное общество “БТК Групп”"
-    },
-    {
-      "name": "Celestin Cishiku Antoine Kanyama",
-      "schema": "Person",
-      "sanctions": "COD - 2023/2771 (OJ L11122013) - 2016-12-12",
-      "aliases": "Celestin Kanyama Tshisiku;Célestin Cishiku Bilolo Kanyama;Célestin KANYAMA;‘Esprit de mort’"
     },
     {
       "name": "Viktor Sergeevich SINEOK",
@@ -14016,12 +13998,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "Vladimir Alexandrovich BOBROV"
-    },
-    {
-      "name": "Khin Maung Yi",
-      "schema": "Person",
-      "sanctions": "MMR - 2021/998 (OJ L219I) - 2021-06-21",
-      "aliases": "Khin Maung Yee;U Khin Maung Yi"
     },
     {
       "name": "Waseem Omar AL-MASALMA",
@@ -26360,6 +26336,12 @@
       "aliases": ""
     },
     {
+      "name": "Khin Maung Yi",
+      "schema": "Person",
+      "sanctions": "MMR - 2021/998 (OJ L219I) - 2021-06-21",
+      "aliases": "Khin Maung Yee;U Khin Maung Yi"
+    },
+    {
       "name": "Thet Thet Khine",
       "schema": "Person",
       "sanctions": "MMR - 2024/1249 (OJ L29042024) - 2022-02-21",
@@ -26634,6 +26616,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/339 (OJ L68) - 2020-10-02",
       "aliases": "Alexander Mikhailovich LOSYAKIN;Alexandr Michajlovitj LOSIAKIN;Alexandr Mikhailovich LOSYAKIN;Aliaksandr Mikhailavich LASYAKIN;Aljaksandr Michajlavitj LASIAKIN;Аляксандр Міхайлавіч ЛАСЯКІН"
+    },
+    {
+      "name": "Than Swe",
+      "schema": "Person",
+      "sanctions": "MMR - 2024/1249 (OJ L29042024) - 2022-11-08",
+      "aliases": "U Than Swe"
     },
     {
       "name": "Dmitrii Aleksandrovich ZHUK",
@@ -27392,6 +27380,12 @@
       "aliases": "Sergej Vladimirovitj SAVOSTIANOV;Sergey Vladimirovich SAVOSTYANOV"
     },
     {
+      "name": "Celestin Cishiku Antoine Kanyama",
+      "schema": "Person",
+      "sanctions": "COD - 2023/2771 (OJ L11122013) - 2016-12-12",
+      "aliases": "Celestin Kanyama Tshisiku;Célestin Cishiku Bilolo Kanyama;Célestin KANYAMA;‘Esprit de mort’"
+    },
+    {
       "name": "José Gregorio NORIEGA FIGUEROA",
       "schema": "Person",
       "sanctions": "VEN - 2021/1959 (OJ L400) - 2020-06-29",
@@ -27834,6 +27828,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
       "aliases": "Shmat"
+    },
+    {
+      "name": "Елена Михайловна ДЕМИДОВА",
+      "schema": "Person",
+      "sanctions": "UKR - 2024/753 (OJ L23022024) (2) - 2024-02-23",
+      "aliases": "Elena Demidovová;Elena Mikhailovna DEMIDOVA;Jelena Děmidova;Алена Міхайлаўна ДЗЯМІДАВА"
     },
     {
       "name": "Konstantin Alexandrovich KUZMIN",
