@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:27:49.680555+00:00",
+  "generated_at": "2026-09-29T07:44:34.412028+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1410,12 +1410,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
       "aliases": "Dmitrij Stepanenko;Дмитри Степаненко;Дмитрий Викторович СТЕПАНЕНКО"
-    },
-    {
-      "name": "Maulvi Habibullah AGHA",
-      "schema": "Person",
-      "sanctions": "HR - 2023/1499 (OJ L183 I) - 2023-07-20",
-      "aliases": "Habibullah AGHA;Hadith Habibullah AGHA;Mawlawi Habibullah AGHA;Sheikh Habibullah AGHA;حبیب الله اغا"
     },
     {
       "name": "Yekaterinburg Machine-Building Plant",
@@ -2850,6 +2844,12 @@
       "schema": "Person",
       "sanctions": "RUSDA - 2025/965 (OJ L202500965) - 2025-05-20",
       "aliases": "Анатолий Юрьевич АБРАМОВ"
+    },
+    {
+      "name": "Ali Zare NOURI",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/1298 (OJ L160 I) - 2023-06-26",
+      "aliases": "سید علی زارع نوری"
     },
     {
       "name": "Hojatollah KHODAEI SOURI",
@@ -5984,12 +5984,6 @@
       "aliases": "Роберт Ришатович ГАЛИМОB"
     },
     {
-      "name": "Saw Chit Thu",
-      "schema": "Person",
-      "sanctions": "MMR - 2024/2784 (OJ L29102024) - 2024-10-29",
-      "aliases": "Chit Thu;Maung Chit Thu;Saw San Myint"
-    },
-    {
       "name": "Инна Владимировна МИЩЕНКО",
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) (2) - 2024-02-23",
@@ -6258,12 +6252,6 @@
       "schema": "Person",
       "sanctions": "BLR - 2024/768 (OJ L27022024) - 2021-12-02",
       "aliases": "Igor Nikolajevitj GUTNIK;Ihar Hutnik;Ihar Mikalaevich GUTNIK;Ihar Mikalajevitj HUTNIK;Игор Гутник;Игорь Николаевич ГУТНИК;гар Мiкалаевiч ГУТНIК"
-    },
-    {
-      "name": "Ismail Ismail",
-      "schema": "Person",
-      "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
-      "aliases": "Isma'Il Isma'il;Ismael ISMAEL"
     },
     {
       "name": "Hmu Htan",
@@ -8400,12 +8388,6 @@
       "schema": "Organization",
       "sanctions": "TAQA - 1058/2014 (OJ L293) - 2014-09-23",
       "aliases": "AAB;Abdallah Azzam Brigades (AAB);Yusuf al-'Uyayri Battalions of the Abdallah Azzam Brigades;Ziyad al-Jarrah Battalions of the Abdallah Azzam Brigades"
-    },
-    {
-      "name": "Ali Zare NOURI",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/1298 (OJ L160 I) - 2023-06-26",
-      "aliases": "سید علی زارع نوری"
     },
     {
       "name": "Bashar Sabawi Ibrahim Hasan Al-Tikriti",
@@ -17588,12 +17570,6 @@
       "aliases": "Atviroji akcinė bendrovė „BELAZ“ – holdingo „BELAZ-HOLDING“ valdymo bendrovė;Avatud aktsiaselts „BELAZ“ - valdusühingu „BELAZ HOLDING“ haldajafirma;Avoin osakeyhtiö ”BELAZ” – holdingyhtiön ”BELAZ-HOLDING” hallintoyhtiö;Belarusski Avtomobilni Zavod (BelAZ);Belarusski Avtomobilnyi Zavod (BelAZ);\"OJSC \"\"BELAZ\"\"\";Odprta delniška družba „BELAZ“ – družba za upravljanje „BELAZ-HOLDING“;Offene Aktiengesellschaft ‚BELAZ‘ – Verwaltungsgesellschaft der Holding ‚BELAZ-HOLDING‘;Open Joint Stock Company “BELAZ” - Management Company of Holding “BELAZ-HOLDING”;Open Joint Stock Company „BELAZ” – spółka zarządzająca holdingu „BELAZ-HOLDING”;Open vennootschap op aandelen “BELAZ”;Open vennootschap op aandelen “BELAZ” - Beheermaatschappij van “BELAZ-HOLDING” Holding;Otvoreno dioničko društvo „BELAZ” - upravljačko društvo holdinga „BELAZ-HOLDING”;Sociedad limitada por acciones abierta “BELAZ” – Sociedad gestora de participación “BELAZ HOLDING”;Societatea deschisă pe acțiuni «BELAZ» – Societate de administrare a holdingului «BELAZ-HOLDING»;Société par actions ouverte “BELAZ” – Société de gestion du holding “BELAZ-HOLDING”;Veřejná akciová společnost „BELAZ“- správcovská společnost holdingu „BELAZ-HOLDING“;ААТ «БЕЛАЗ»;Отворено акционерно дружество “BELAZ” управително дружество на холдинга “BELAZ-ХОЛДИНГ”"
     },
     {
-      "name": "Subhi Ahmad AL ABDALLAH",
-      "schema": "Person",
-      "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2012-10-16",
-      "aliases": "Subhi Ahmad al-Abdullah;صبحي احمد العبدالله"
-    },
-    {
       "name": "Sergey MAKHNIOV",
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
@@ -20550,12 +20526,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/2035 (OJ L202502035) - 2025-10-23",
       "aliases": "Limited Liability Company - Yadran-Group;Sociedade de responsabilidade limitada Yadran-Group;Yadran Group;Yadran-Group - Korlátolt Felelősségű Társaság;Общество с ограниченной;Ответственность - Ядран-Групп"
-    },
-    {
-      "name": "Abdel Ilah Sabri",
-      "schema": "Person",
-      "sanctions": "TAQA - 2015/1390 (OJ L215) - 2002-01-11",
-      "aliases": "Abd al-Muhsi;Abd al-Muhsin;Abd al-Rahman;Abdul Rahman;Abu Anas;Al-Libi;Ibrahim Abubaker Tantouche;Ibrahim Abubaker Tantoush;Ibrahim Ali Abu Bakr Tantoush;Ibrahim Ali Muhammad Abu Bakr"
     },
     {
       "name": "INDEPENDENT INSURANCE GROUP",
@@ -26276,6 +26246,12 @@
       "aliases": "Timur Ilgizovitj SAMATOV;Тимур Ильгизович САМАТОВ"
     },
     {
+      "name": "Ismail Ismail",
+      "schema": "Person",
+      "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
+      "aliases": "Isma'Il Isma'il;Ismael ISMAEL"
+    },
+    {
       "name": "Maamoun HAMDAN",
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2016-11-14",
@@ -26382,6 +26358,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
       "aliases": "Alexander Vladimirovich SHENDERYUK-ZHIDKOV"
+    },
+    {
+      "name": "Saw Chit Thu",
+      "schema": "Person",
+      "sanctions": "MMR - 2024/2784 (OJ L29102024) - 2024-10-29",
+      "aliases": "Chit Thu;Maung Chit Thu;Saw San Myint"
     },
     {
       "name": "Ibrahim Ikassa MAÏGA",
@@ -26544,6 +26526,12 @@
       "schema": "Person",
       "sanctions": "HR - 2024/2999 (OJ L03122024) - 2023-03-07",
       "aliases": "Toe YI"
+    },
+    {
+      "name": "Maulvi Habibullah AGHA",
+      "schema": "Person",
+      "sanctions": "HR - 2023/1499 (OJ L183 I) - 2023-07-20",
+      "aliases": "Habibullah AGHA;Hadith Habibullah AGHA;Mawlawi Habibullah AGHA;Sheikh Habibullah AGHA;حبیب الله اغا"
     },
     {
       "name": "Aung Hlaing Oo",
@@ -28142,6 +28130,12 @@
       "aliases": ""
     },
     {
+      "name": "Subhi Ahmad AL ABDALLAH",
+      "schema": "Person",
+      "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2012-10-16",
+      "aliases": "Subhi Ahmad al-Abdullah;صبحي احمد العبدالله"
+    },
+    {
       "name": "محمد معروف",
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
@@ -29004,6 +28998,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-03-09",
       "aliases": "Anatolij Dmitrijevitj ARTAMONOV;Anatoly Dmitrievich ARTAMONOV"
+    },
+    {
+      "name": "Abdel Ilah Sabri",
+      "schema": "Person",
+      "sanctions": "TAQA - 2015/1390 (OJ L215) - 2002-01-11",
+      "aliases": "Abd al-Muhsi;Abd al-Muhsin;Abd al-Rahman;Abdul Rahman;Abu Anas;Al-Libi;Ibrahim Abubaker Tantouche;Ibrahim Abubaker Tantoush;Ibrahim Ali Abu Bakr Tantoush;Ibrahim Ali Muhammad Abu Bakr"
     },
     {
       "name": "Alexandr Igorevich KOTS",
