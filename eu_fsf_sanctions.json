@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:13:24.128788+00:00",
+  "generated_at": "2026-10-01T08:07:16.666664+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -2256,12 +2256,6 @@
       "schema": "Person",
       "sanctions": "TUN - 2026/238 (OJ L202600238) - 2026-01-30",
       "aliases": ""
-    },
-    {
-      "name": "محمد عبدالكریم الغماري",
-      "schema": "Person",
-      "sanctions": "YEM - 2021/2015 (OJ L410I) - 2021-11-09",
-      "aliases": "Mohammad Al-Ghamari;Muhammad Abd Al-Karim Al-Ghamari"
     },
     {
       "name": "کربلای سپاه پاسداران انقلاب اسلامی",
@@ -7752,12 +7746,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
       "aliases": "AO “Electrotyaga”;AO “Электротяга”;Aкционерное общество “Электротяга”;Joint Stock Company “Elektrotyaga”;»Electrotyaga« Rt.;»Elektrotyaga« Részvénytársaság"
-    },
-    {
-      "name": "Abdukadir Mohamed Abdukadir",
-      "schema": "Person",
-      "sanctions": "SOM - 2024/1724 (OJ L20240617) - 2024-05-21",
-      "aliases": "Abdikadir Mohamed Abdikadir;Abdukadir;Abdulkadir;Abdulkadir Mohamed Abdulkadir;Ikrima"
     },
     {
       "name": "Arcadio DELGADO ROSALES",
@@ -14324,12 +14312,6 @@
       "aliases": "Ferma lui Zvi;Zvi farm;Zvi gazdasága;Zviho farma;gospodarstwo Zviego;החווה של צב"
     },
     {
-      "name": "Alfred YEKATOM",
-      "schema": "Person",
-      "sanctions": "CAF - 2020/1171 (OJ L260) - 2015-08-20",
-      "aliases": "Alfred Ekatom;Alfred Saragba;Alfred Yekatom Saragba;Colonel Rambo;Colonel Rambot;Colonel Rombhot;Colonel Romboh;Colonel Rombot"
-    },
-    {
       "name": "Beltechexport",
       "schema": "Organization",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2020-12-17",
@@ -20544,12 +20526,6 @@
       "schema": "Organization",
       "sanctions": "IRN - 2025/1980 (OJ L202501980) - 2025-09-29",
       "aliases": "Shomal Cement Company;Siman Shomal"
-    },
-    {
-      "name": "Saifi Ammari",
-      "schema": "Person",
-      "sanctions": "TAQA - 2024/372 (OJ L18012024) - 2003-12-04",
-      "aliases": "Abdalarak;Abderrezak Le Para;Abderrezak Zaimeche;Abdul Rasak Ammane Abu Haidra;Abou Haidara;El Ourassi;El Para;عماري س"
     },
     {
       "name": "Sameer JOUMAA",
@@ -27746,6 +27722,12 @@
       "aliases": "Taha Mouhi-al-Din Marouf"
     },
     {
+      "name": "محمد عبدالكریم الغماري",
+      "schema": "Person",
+      "sanctions": "YEM - 2021/2015 (OJ L410I) - 2021-11-09",
+      "aliases": "Mohammad Al-Ghamari;Muhammad Abd Al-Karim Al-Ghamari"
+    },
+    {
       "name": "Дмитрий Володимирович ДЕМИДОВ",
       "schema": "Person",
       "sanctions": "UKR - 2024/753 (OJ L23022024) (2) - 2024-02-23",
@@ -28278,6 +28260,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": "Илья Викторович ЩЕРБОВИЧ"
+    },
+    {
+      "name": "Abdukadir Mohamed Abdukadir",
+      "schema": "Person",
+      "sanctions": "SOM - 2024/1724 (OJ L20240617) - 2024-05-21",
+      "aliases": "Abdikadir Mohamed Abdikadir;Abdukadir;Abdulkadir;Abdulkadir Mohamed Abdulkadir;Ikrima"
     },
     {
       "name": "Aleksandr Viktorovich VITKO",
@@ -30624,6 +30612,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 2023/329 (OJ L43I) - 2007-07-03",
       "aliases": "Abou Mossaab Abdelouadoud;عبد المالك دروكدال"
+    },
+    {
+      "name": "Saifi Ammari",
+      "schema": "Person",
+      "sanctions": "TAQA - 2024/372 (OJ L18012024) - 2003-12-04",
+      "aliases": "Abdalarak;Abderrezak Le Para;Abderrezak Zaimeche;Abdul Rasak Ammane Abu Haidra;Abou Haidara;El Ourassi;El Para;عماري س"
     },
     {
       "name": "Maimaitiming Maimaiti",
@@ -34728,6 +34722,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-03-09",
       "aliases": "Nikolaj Andrejevitj ZJURAVLJOV;Николай Андреевич ЖУРАВЛЁВ"
+    },
+    {
+      "name": "Alfred YEKATOM",
+      "schema": "Person",
+      "sanctions": "CAF - 2020/1171 (OJ L260) - 2015-08-20",
+      "aliases": "Alfred Ekatom;Alfred Saragba;Alfred Yekatom Saragba;Colonel Rambo;Colonel Rambot;Colonel Rombhot;Colonel Romboh;Colonel Rombot"
     },
     {
       "name": "Igor Olegovich KOSTYUKOV",
