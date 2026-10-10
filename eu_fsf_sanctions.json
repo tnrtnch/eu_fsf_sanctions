@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:42:56.998245+00:00",
+  "generated_at": "2026-10-10T07:58:08.159095+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -24,12 +24,6 @@
       "schema": "Organization",
       "sanctions": "IRN - 2023/853 (OJ L110) - 2010-07-26",
       "aliases": "Družba Fajr Aviation Composite Industries;Spoločnosť Fajr Aviation Composite Industries"
-    },
-    {
-      "name": "Anatoly Anatolyevich BULAVKO",
-      "schema": "Person",
-      "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2022-03-02",
-      "aliases": "Anatol Anatoljevitj Bulauka;Anatolij Bulavko;Anatoliy Bulavko;Anatolj Anatoljevitj Bulavko;Анатолий Анатольевич БУЛАВКО;Анатоль Анатольевiч БУЛАЎКА"
     },
     {
       "name": "JSC VOMZ",
@@ -21884,12 +21878,6 @@
       "aliases": "Hassan MOFAKHAMISHAHRESRANI;Hassan Mofakhami SHAHRESTANI;شهرستانی مفخمی حسن"
     },
     {
-      "name": "Yan Vitalyevich LESHCHENKO",
-      "schema": "Person",
-      "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
-      "aliases": "Ян Витальевич ЛЕЩЕНКО"
-    },
-    {
       "name": "Joint Stock Company Bank DOM.RF",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
@@ -27158,6 +27146,12 @@
       "aliases": "김성수"
     },
     {
+      "name": "Anatoly Anatolyevich BULAVKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2022-03-02",
+      "aliases": "Anatol Anatoljevitj Bulauka;Anatolij Bulavko;Anatoliy Bulavko;Anatolj Anatoljevitj Bulavko;Анатолий Анатольевич БУЛАВКО;Анатоль Анатольевiч БУЛАЎКА"
+    },
+    {
       "name": "KIM Chun-sam",
       "schema": "Person",
       "sanctions": "PRK - 2022/1331 (OJ L201) - 2016-05-20",
@@ -27486,6 +27480,12 @@
       "schema": "Person",
       "sanctions": "TAQA - 2016/1063 (OJ L177) - 2015-09-29",
       "aliases": "Maxime Hauchard"
+    },
+    {
+      "name": "Yan Vitalyevich LESHCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
+      "aliases": "Ян Витальевич ЛЕЩЕНКО"
     },
     {
       "name": "Grigore Ivanovich CARAMALAC",
