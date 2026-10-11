@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:16:19.990554+00:00",
+  "generated_at": "2026-10-11T08:06:25.981753+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -1452,12 +1452,6 @@
       "schema": "Person",
       "sanctions": "IRN - 2020/510 (OJ L113) - 2011-04-12",
       "aliases": "Malek Ajdar SHARIFI"
-    },
-    {
-      "name": "Андрей Юрьевич ПАВЛЮЧЕНКО",
-      "schema": "Person",
-      "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
-      "aliases": "Andrei Yurevich PAULIUCHENKA;Andrei Yurevich PAVLYUCHENKO;Andrej Jurjevitj PAULJUTJENKA;Andrej Jurjevitj PAVLJUTJENKO;Андрэй Юр'евіч ПАЎЛЮЧНКА"
     },
     {
       "name": "Ekaterina Sergeevna FROLOVA",
@@ -18842,12 +18836,6 @@
       "aliases": "A GRU 29155-ös számú egysége;Enota GRU 29155;GRU padalinys Nr. 29155;GRU vienība Nr. 29155;GRU-Einheit 29155;GRU-eenheid 29155;GRU-enhed 29155;GRU-enhet 29155;GRU-yksikkö 29155;Jedinica 29155 GRU-a;Jednostka GRU nr 29155;Jednotka GRU 29155;Unidade 29155 da GRU;Unitatea 29155 a GRU;Unità 29155 del GRU;Unità 29155 tal-GRU;Unité 29155 de la GRU;Отдел 29155 на ГРУ;ФКУ “Войсковая Часть 29155”"
     },
     {
-      "name": "Pak Chun Il",
-      "schema": "Person",
-      "sanctions": "PRK - 2022/1331 (OJ L201) - 2016-11-30",
-      "aliases": ""
-    },
-    {
       "name": "Aleksey Igorevich KHERSONTSEV",
       "schema": "Person",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -27782,6 +27770,12 @@
       "aliases": ""
     },
     {
+      "name": "Андрей Юрьевич ПАВЛЮЧЕНКО",
+      "schema": "Person",
+      "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
+      "aliases": "Andrei Yurevich PAULIUCHENKA;Andrei Yurevich PAVLYUCHENKO;Andrej Jurjevitj PAULJUTJENKA;Andrej Jurjevitj PAVLJUTJENKO;Андрэй Юр'евіч ПАЎЛЮЧНКА"
+    },
+    {
       "name": "وفيق ناصر",
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
@@ -36324,6 +36318,12 @@
       "schema": "Person",
       "sanctions": "CYB - 2025/886 (OJ L202500886) - 2020-07-30",
       "aliases": "Alexej Morenec;Alexej Moreněc;Alexej Sergejevič Moreněc;Алексей Сергеевич МОРЕНЕЦ"
+    },
+    {
+      "name": "Pak Chun Il",
+      "schema": "Person",
+      "sanctions": "PRK - 2022/1331 (OJ L201) - 2016-11-30",
+      "aliases": ""
     },
     {
       "name": "Saif-al-Din Al-Mashhadani",
