@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:10:30.548980+00:00",
+  "generated_at": "2026-10-16T06:37:35.952720+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -7164,6 +7164,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2025/1559 (OJ L202501559) - 2025-07-29",
       "aliases": ""
+    },
+    {
+      "name": "LLC ARMORGRUPP",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "ARMORGRUPP, societate cu răspundere limitată;Cuideachta faoi Dhliteanas Teoranta ARMORGRUPP;Gesellschaft mit beschränkter Haftung (Limited Liability Company) ARMORGRUPP;Kumpanija b'Responsabbiltà Limitata ARMORGRUPP;Limited Liability Company ARMORGRUPP;ООО АРМОРГРУПП"
     },
     {
       "name": "Juhang Aviation",
