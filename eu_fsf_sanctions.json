@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:53:42.422051+00:00",
+  "generated_at": "2026-10-17T06:26:23.971294+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -3564,12 +3564,6 @@
       "schema": "Person",
       "sanctions": "SOM - 2018/413 (OJ L75) - 2018-03-08",
       "aliases": "Musa Muhajir"
-    },
-    {
-      "name": "Ilya Valerievich IKAN",
-      "schema": "Person",
-      "sanctions": "BLR - 2025/2039 (OJ L202502039) - 2025-10-23",
-      "aliases": "Iлля Валер’евіч IКАН;Илья Валерьевич ИКАН"
     },
     {
       "name": "Zvi BAR YOSEF",
@@ -27780,6 +27774,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2014-05-12",
       "aliases": "Vladimir Anatoljevitj SJAMANOV;Владимир Анатольевич ШАМАНОВ"
+    },
+    {
+      "name": "Ilya Valerievich IKAN",
+      "schema": "Person",
+      "sanctions": "BLR - 2025/2039 (OJ L202502039) - 2025-10-23",
+      "aliases": "Iлля Валер’евіч IКАН;Илья Валерьевич ИКАН"
     },
     {
       "name": "Khairullah Khairkhwah",
