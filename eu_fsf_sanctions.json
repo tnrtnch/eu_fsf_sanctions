@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:13:43.849528+00:00",
+  "generated_at": "2026-10-24T06:45:03.458337+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -432,6 +432,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2015-03-07",
       "aliases": "Emad HAMSHO;Emad Hamcho;Emad Hamchu;Emad Hemasho;Emad Hmeisho;Emad Hmisho;Imad HAMSHO;Imad Hamcho;Imad Hamchu;Imad Hamisho;Imad Hemasho;Imad Hmeisho;Imad Hmisho;عماد حمشو"
+    },
+    {
+      "name": "Mikhail Mikhailovich FOMIN",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Михаил Михайлович ФОМИН"
     },
     {
       "name": "Hunan Haotyanyi",
@@ -1772,6 +1778,12 @@
       "aliases": "Viktor Vladimirovitj FILIPPOV;Виктор Владимирович ФИЛИППОВ"
     },
     {
+      "name": "Egor Viktorovich AVERKIN",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Егор Викторович АВЕРКИН"
+    },
+    {
       "name": "Oksana Aleksandrovna CHIGRINA",
       "schema": "Person",
       "sanctions": "UKR - 2020/398 (OJ L78) - 2014-07-30",
@@ -2306,6 +2318,12 @@
       "aliases": ""
     },
     {
+      "name": "Denis Aleksandrovich SUVOROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Денис Александрович СУВОРОВ"
+    },
+    {
       "name": "Anastasia Sergeevna KIRILLOVA",
       "schema": "Person",
       "sanctions": "UKR - 2023/1563 (OJ L 190 I) - 2023-07-28",
@@ -2778,6 +2796,12 @@
       "schema": "Person",
       "sanctions": "COD - 2017/396 (OJ L60) - 2005-11-01",
       "aliases": "Chief Kahwa;Kawa;Kawa Mandro;Kawa Panga;Kawa Panga Mandro;Mandro Panga Kahwa;Yves Andoul Karim;Yves Khawa Panga Mandro"
+    },
+    {
+      "name": "Alexander Vladimirovich GNUTOV",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Александр Владимирович ГНУТОВ"
     },
     {
       "name": "PJSC UEC-Kuznetsov",
@@ -3340,7 +3364,7 @@
     {
       "name": "Lashkar i Jhangvi",
       "schema": "Organization",
-      "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2003-02-03",
       "aliases": ""
     },
     {
@@ -3840,6 +3864,12 @@
       "schema": "Organization",
       "sanctions": "RUSDA - 2025/965 (OJ L202500965) - 2025-05-20;UKR - 2024/1493 (OJ L27052024) - 2024-05-27",
       "aliases": "Hlas Evropy;Voice of Europe;Гласът на Европа;Голос Европы"
+    },
+    {
+      "name": "Maria Vladimirovna DUDKO",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Мария Владимировна ДУДКО"
     },
     {
       "name": "Stanislav Valentinovich MAKSHAKOV",
@@ -4796,6 +4826,12 @@
       "aliases": "Galina Wladimirowna REDKO;Galina Władimirowna Redko;Redko Galina Vladimirovna;Галина Владимировна РЕДЬКО"
     },
     {
+      "name": "Elena Gennadyevna BAGUDINA",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Елена Геннадьевна БАГУДИНА"
+    },
+    {
       "name": "Limited Liability Company “Moscow Arms Company”",
       "schema": "Organization",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
@@ -4976,10 +5012,10 @@
       "aliases": "Igor Viktorovitj MATRUS;Ihor Viktorovytj MATRUS;Ігор Вікторович МАТРУС;Игорь Викторович МАТРУС"
     },
     {
-      "name": "Jamiat al-Jihad al-Islami",
+      "name": "Islamic Jihad Group",
       "schema": "Organization",
-      "sanctions": "TAQA - 1102/2009 (OJ L303) - 2009-11-16",
-      "aliases": "Dzhamaat Modzhakhedov;Gruparea islamică Jihad;Gruparea islamică Jihad din Uzbekistan;Grupo Islámico Jihad;Grupo Islámico Jihad de Uzbekistan;Grupo Islâmico Jihad;Gruppo Jihad islamica;Gruppo Jihad islamica dell’Uzbekistan;Il-Grupp tal-Ġiħad Iżlamiku;Islami rühmitus Jihad;Islamic Jihad Group;Islamic Jihad Group of Uzbekistan;Islamic Jihad Union;Islamska Grupa Dżihad;Jamaat Mojahedin;Jama’at al-Jihad;Jamiyat;Kazakh Jama’at;Libijsko združenje;Libyan Society;Liibüa ühendus;Líbyjská organizácia;Skupina Islamski džihad;Skupina Islamski džihad v Uzbekistanu;Skupina Islamský džihád;Skupina islamského džihádu Uzbekistanu;Sociedad Libia;Societatea libaneză;Società libica;Unia Islamska Dżihad;Unione della Jihad islamica;Uniunea Jihadului Islamic;Unión de la Jihad Islámica;Usbekistani islami rühmitus Jihad;Zamaat Modzhakhedov Tsentralnoy Asii;Zveza islamskega džihada;al-Djihad al-Islami;il-Grupp tal-Ġiħad Iżlamiku ta’ l-Użbekistan;is-Soċjetà Libjana;l-Unjoni tal-Jihad Iżlamika;skupina islámský džihád;Únia islamského džihádu"
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2005-06-01",
+      "aliases": "Dzhamaat Modzhakhedov;Gruparea islamică Jihad;Gruparea islamică Jihad din Uzbekistan;Grupo Islámico Jihad;Grupo Islámico Jihad de Uzbekistan;Grupo Islâmico Jihad;Gruppo Jihad islamica;Gruppo Jihad islamica dell’Uzbekistan;Il-Grupp tal-Ġiħad Iżlamiku;Islami rühmitus Jihad;Islamic Jihad Group of Uzbekistan;Islamic Jihad Union;Islamska Grupa Dżihad;Jamaat Mojahedin;Jama’at al-Jihad;Jamiat al-Jihad al-Islami;Jamiyat;Kazakh Jama’at;Libijsko združenje;Libyan Society;Liibüa ühendus;Líbyjská organizácia;Skupina Islamski džihad;Skupina Islamski džihad v Uzbekistanu;Skupina Islamský džihád;Skupina islamského džihádu Uzbekistanu;Sociedad Libia;Societatea libaneză;Società libica;Unia Islamska Dżihad;Unione della Jihad islamica;Uniunea Jihadului Islamic;Unión de la Jihad Islámica;Usbekistani islami rühmitus Jihad;Zamaat Modzhakhedov Tsentralnoy Asii;Zveza islamskega džihada;al-Djihad al-Islami;il-Grupp tal-Ġiħad Iżlamiku ta’ l-Użbekistan;is-Soċjetà Libjana;l-Unjoni tal-Jihad Iżlamika;skupina islámský džihád;Únia islamského džihádu"
     },
     {
       "name": "VIP Grub",
@@ -5188,7 +5224,7 @@
     {
       "name": "Adem Yilmaz",
       "schema": "Person",
-      "sanctions": "TAQA - 2024/372 (OJ L18012024) - 2008-10-27",
+      "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2008-10-27",
       "aliases": "Talha"
     },
     {
@@ -7340,6 +7376,12 @@
       "aliases": "جودت ابراهيم صافي"
     },
     {
+      "name": "Communication Platform LLC",
+      "schema": "Organization",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Акционерное Общество Инвестиционная Компания Коммуникационная Платформа"
+    },
+    {
       "name": "Mohammad Yousef Hasouri",
       "schema": "Person",
       "sanctions": "SYR - 2022/840 (OJ L148) - 2017-07-18",
@@ -7506,6 +7548,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2017/1509 (OJ L224) - 2016-03-02",
       "aliases": "Chongch’al Ch’ongguk;KPA Unit 586;RGB"
+    },
+    {
+      "name": "Sergey Anatolevich OVCHINNIKOV",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Сергей Анатольевич ОВЧИННИКОВ"
     },
     {
       "name": "White Agate Marine SPC",
@@ -7862,6 +7910,12 @@
       "aliases": "Prominent Shipmanagement Zrt."
     },
     {
+      "name": "VK",
+      "schema": "Organization",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": ""
+    },
+    {
       "name": "Aleksandr Borisovich DAVIDIUK",
       "schema": "Person",
       "sanctions": "BLR - 2021/2124 (OJ L430I) - 2021-12-02",
@@ -7982,6 +8036,12 @@
       "aliases": "Abu Hani SHAMOUT;Abu SHAMMOUT;Hani SHAMMOUT;أبو شموط;أبو هاني شموط;هاني شموط"
     },
     {
+      "name": "Presidential Foundation for Cultural Initiatives/ PFKI",
+      "schema": "Organization",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Президентский Фонд Культурных Инициатив / ПФКИ"
+    },
+    {
       "name": "FKP \"Avangard\"",
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -8024,10 +8084,22 @@
       "aliases": "Valentína Kamyninová;Валентина Францевна КАМЫНИНА;Валентина Францівна КАМИНІНА"
     },
     {
+      "name": "Ivan Vasilyevich VESHKIN",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Иван Васильевич ВЕШКИН"
+    },
+    {
       "name": "Igor Vasilyevich TONKOVIDOV",
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
       "aliases": "Игорь Васильевич ТОНКОВИДОВ"
+    },
+    {
+      "name": "Vadim Ivanovych PANKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Вадим Иванович ПАНКОВ"
     },
     {
       "name": "Sadid Sazeh Parvaz Sharif",
@@ -8268,6 +8340,12 @@
       "schema": "Person",
       "sanctions": "SOM - 2017/395 (OJ L60) - 2012-08-23",
       "aliases": "Abu Makaburi Shariff;Abubakar Ahmed;Abubaker Shariff Ahmed;Makaburi;Sheikh Abubakar Ahmed"
+    },
+    {
+      "name": "Semyon Viktorovich KUZNETSOV",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Семен Викторович КУЗНЕЦОВ"
     },
     {
       "name": "Jamal ISMAIL",
@@ -8948,6 +9026,12 @@
       "aliases": "Ayman Jabir;أيمن جابر"
     },
     {
+      "name": "Aleksey Nikolaevich TOLMACHEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Алексей Николаевич ТОЛМАЧЕВ"
+    },
+    {
       "name": "Central Public Prosecutor’s Office",
       "schema": "Organization",
       "sanctions": "HR - 2021/478 (OJ L99I) - 2021-03-22",
@@ -9284,6 +9368,12 @@
       "aliases": "Farhad Kanabi Ahmad;Kaua Omar Achmed;Kawa Hamawandi"
     },
     {
+      "name": "Dmitry Valerianovich GACHKO",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Дмитрий Валерьянович ГАЧКО"
+    },
+    {
       "name": "Khaled AL-TAWEEL",
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
@@ -9314,10 +9404,10 @@
       "aliases": "Александр Алексеевич БАЛАШОВ"
     },
     {
-      "name": "Beijing Integrity Technology Company Limited,",
+      "name": "Beijing Integrity Technology Company Limited",
       "schema": "Organization",
       "sanctions": "CYB - 2026/589 (OJ L202600589) - 2026-03-16",
-      "aliases": "Integrity Technology Group;ongxin Zhicheng Technology Group Company Limited;永信至诚科技集团股份有限公司"
+      "aliases": "Integrity Technology Group;Yongxin Zhicheng Technology Group Company Limited;永信至诚科技集团股份有限公司"
     },
     {
       "name": "PMC “Stream”",
@@ -9774,6 +9864,12 @@
       "schema": "Organization",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
       "aliases": "Aizsardzības ministrija;Forsvarsministeriet;Försvarsministeriet;Gynybos ministerija;Kaitseministeerium;Ministerie van Defensie;Ministero della difesa;Ministerstvo obrany;Ministerstwo Obrony;Ministeru tad-Difiża;Ministerul Apărării;Ministrerio de Defensa;Ministrstvo za obrambo;Ministère de la défense;Ministério da Defesa;Puolustusministeriö;Syrský národní bezpečnostní úřad;Verteidigungs-ministerium;Védelmi Minisztérium;Υπουργείο Άμυνας;Министерство на отбраната"
+    },
+    {
+      "name": "Vladimir Viatcheslavovitch SELIVERSTOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Владимир Вячеславович СЕЛИВЁРСТОВ"
     },
     {
       "name": "Luís PÉREZ OLIVAS",
@@ -10964,10 +11060,10 @@
       "aliases": "Marina Vladimirovna SETJINA;Марина Владимировна СЕЧИНА"
     },
     {
-      "name": "Sheikh Shafi al-Ajmi",
+      "name": "Shafi S. M. S. Alajmi",
       "schema": "Person",
-      "sanctions": "TAQA - 1058/2014 (OJ L293) - 2014-09-23",
-      "aliases": "Shafi Sultan Mohammed Al-Ajmi;Shafi al-Ajmi;Shaykh Abu-Sultan"
+      "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2014-09-23",
+      "aliases": "Shafi Sultan Mohammed Al-Ajmi;Shafi al-Ajmi;Shaykh Abu-Sultan;Sheikh Shafi al-Ajmi;شافي سلطان محمد سلطان العجمي"
     },
     {
       "name": "Ehsan Monajemi",
@@ -11022,6 +11118,12 @@
       "schema": "Organization",
       "sanctions": "RUSDA - 2024/3188 (OJ L16122024) - 2024-12-16",
       "aliases": "Afrikai Kezdeményezés;Iniciativa Africana"
+    },
+    {
+      "name": "Sergey Viktorovich CHUBARYKIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Сергей Викторович ЧУБАРЫКИН"
     },
     {
       "name": "IRGC SSJO",
@@ -11152,7 +11254,7 @@
     {
       "name": "Muhammad Jibriel Abdul Rahman",
       "schema": "Person",
-      "sanctions": "TAQA - 853/2011 (OJ L219) - 2011-08-12",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2011-08-12",
       "aliases": "Heris Syah;Mohammad Jibriel Abdurrahman;Mohammad Jibril Abdurrahman;Muhamad Ricky Ardhan;Muhammad Jibril Abdul Rahmam;Muhammad Ricky Ardhan bin Abu Jibril;Muhammad Ricky Ardhan bin Muhammad Iqbal;Muhammad Yunus"
     },
     {
@@ -11672,6 +11774,12 @@
       "aliases": "Леонид Владимирович ШУМАКОВ"
     },
     {
+      "name": "Andrey Viktorovich KONDROV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Андрей Викторович КОНДРОВ"
+    },
+    {
       "name": "Alexey Sergeevich VOLKOV",
       "schema": "Person",
       "sanctions": "UKR - 2023/806 (OJ L101) - 2022-12-16",
@@ -12034,7 +12142,7 @@
     {
       "name": "Ummah Tameer E-Nau",
       "schema": "Organization",
-      "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
+      "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2001-12-24",
       "aliases": "Utn"
     },
     {
@@ -12452,6 +12560,12 @@
       "aliases": "Vadim Anatolievič LUKAŠEVIČ;Vadim Anatoljevitj Lukasjevitj;Vadim Lukaševič;Вадим Анатольевич ЛУКАШЕВИЧ"
     },
     {
+      "name": "Viktor Viktorovich FILONOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Виктор Викторович ФИЛОНОВ;Віктор Вікторович ФIЛОНОВ"
+    },
+    {
       "name": "Harakat-ul Jihad Islami",
       "schema": "Organization",
       "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
@@ -12618,6 +12732,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2022/1503 (OJ L235) - 2018-03-30",
       "aliases": ""
+    },
+    {
+      "name": "Alexei Vladimirovich ANASHKIN",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Алексей Владимирович АНАШКИН"
     },
     {
       "name": "Oleg Igorevich OVCHARENKO",
@@ -14330,6 +14450,12 @@
       "aliases": "Joint Stock Company “Avangard”;\"Société par actions \"\"Avangard\"\"\";sociedad anónima Avangard;АО “Авангард”;Акционерное Общество “Авангард”;“АВАНГАРД” Сафоново;„Avangard” Részvénytársaság;„Avangard” Safonovo Rt."
     },
     {
+      "name": "Artem Igorevich GORODILOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Артем Игоревич ГОРОДИЛОВ"
+    },
+    {
       "name": "Mikhail Alexandrovich TUKMACHOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
@@ -14858,6 +14984,12 @@
       "aliases": ""
     },
     {
+      "name": "Galina Vasilievna MOKSHANOVA",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Галина Васильевна МОКШАНОВА"
+    },
+    {
       "name": "Jelvesazan Company",
       "schema": "Organization",
       "sanctions": "IRN - 2024/2074 (OJ L29072024) - 2012-12-22",
@@ -15118,7 +15250,7 @@
     {
       "name": "Julkipli Salim",
       "schema": "Person",
-      "sanctions": "TAQA - 34/2012 (OJ L15) - 2012-01-17",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2003-09-09",
       "aliases": "Kipli Sali;Salim Y Salamuddin JULKIPLI"
     },
     {
@@ -16246,8 +16378,8 @@
     {
       "name": "Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest",
       "schema": "Organization",
-      "sanctions": "TAQA - 1187/2012 (OJ L338) - 2012-12-05",
-      "aliases": "MUJAO"
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2012-12-05",
+      "aliases": "MUJAO;حركة التوحيد والجهاد في غرب إفريقيا"
     },
     {
       "name": "Rukan Razuki Abd-al-Ghafur Sulaiman Al-Tikriti",
@@ -16934,10 +17066,10 @@
       "aliases": "AHK Szövetségi Állami Vállalat;Alekszini Vegyi Üzem Szövetségi Állami Vállalat;FKP AHK;Federal State Enterprise Aleksinsky Chemical Plant;empresa estatal federal Aleksin Chemical Plant;ФКП АХК;Федеральное Казенное Предприятие “Алексинский Химический Комбинат”"
     },
     {
-      "name": "Abd El Illah",
+      "name": "Abd El Ilah",
       "schema": "Person",
-      "sanctions": "TAQA - 1142/2012 (OJ L332) - 2012-12-03",
-      "aliases": "Abdellah Ahmed;Abdellillah;Ahmed Deghdegh;Said"
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2008-07-03",
+      "aliases": "Abd El Illah;Abdellillah dit Abdellah Ahmed dit Said;Abou Abdellah Ahmed;Ahmed Deghdegh;Said Dit Merrikh;أحمد دغداغ"
     },
     {
       "name": "Denis Aleksandrovich MERZLIKIN",
@@ -17870,10 +18002,10 @@
       "aliases": "山东奥德斯工业股份有限公司"
     },
     {
-      "name": "Islamic State in Iraq and the Levant – Khorasan",
+      "name": "ISIL - K",
       "schema": "Organization",
-      "sanctions": "TAQA - 2023/908 (OJ L116) - 2019-05-14",
-      "aliases": "An Stáit Ioslamach san Iaráic agus sa Leiveaint — Khorasan;Brainse na hÁise Theas;Caibidil na hÁise Theas de ISIL;Capítulo da Ásia do Sul do EIIL;Cúige Khorasan an Stáit Ioslamaigh;Den Islamiske Stat i Irak og Levanten – Khorasan;División de Asia Meridional del EIIL;EI-Coraçone;EIIL Coraçone;EIIL-C;EIIL-J;EIILC;Estado Islámico de Irak y ash-Sham – provincia de Khorasan;Estado Islámico de Irak y el Levante en la provincia de Jorasán;Estado Islámico de Irak y el Levante – Jorasán (EIIL-J);Estado Islámico de Jorasán;Estado Islâmico Coraçone;Estado Islâmico do Iraque e da Síria – Coraçone;Estado Islâmico do Iraque e de ash-Sham – Província de Coraçone;Estado Islâmico do Iraque e do Levante na Província de Coraçone;Estado Islâmico do Iraque e do Levante – Coraçone;Grupējuma “Irākas un Levantes Islāma valsts Horasānas province”;IS-Chorasan;IS-Khorasan;ISIL - K;ISIL Chorasan;ISIL Dienvidāzijas filiāle;ISIL Dienvidāzijas nodaļa;ISIL Khorasan;ISIL's South Asia Branch;ISIS Khorasan;ISIS Wilajat Chorasan;ISIS Wilayat Khorasan;ISIS-K;ISISK;Irako ir Levanto islamo valstybės“ Chorasano atšaka;Irākas un Levantes Islāma valsts Korasānas provincē;Irākas un Sīrijas Islāma valsts Korasānas province;Islamic State Khurasan;Islamic State of Iraq and Levant in Khorasan Province;Islamic State's Khorasan Province;Islamitische Staat Khorasan;Islamitische Staat in Irak en de Levant — Khorasan;Islamitische Staat van Irak en Syrië — Khorasan;Islamitische Staat van Irak en ash-Sham — provincie Khorasan;Islamitische Staat van Irak en de Levant in de provincie Khorasan;Islamska država Iraka i Levanta – Khorasan;Islamska država Iraka in Levanta – Khorasan;Islamskie Państwo Iraku i Lewantu w prowincji Chorasan;Islamskie Państwo Iraku i Syrii – Chorasan;Islamskie Państwo Iraku i asz-Sham – Prowincja Chorasan;Islamskie Państwo w Iraku i Lewancie – Chorasan;Islamský štát v Iraku a Levante – provincia Chorásán;Islámský stát Khurasan;Islámský stát v Iráku a Levantě v provincii Khorasan;Islámský stát v Iráku a Levantě – Khorasan;Islámský stát v Iráku a Sýrii – Khorasan;Islámský stát v Iráku a oblasti ash-Sham – provincie Khorasan;Islāma valsts Irākā un ash-Sham Korasānas province;Islāma valsts Khurasan;Islāma valsts Korasānas province;Jihoasijská pobočka ISIL;Jihoasijský odbor ISIL;Jorasán del EIIL;Jorasán del Estado Islámico de Irak y Siria;Kapitolu tal-Asja t’Isfel tal-ISIL;L-Istat Iżlamiku tal-Iraq u ash-Sham — il-Provinċja ta’ Khorasan;L-Istat Iżlamiku tal-Iraq u l-Levante fil-Provinċja ta’ Khorasan;L-Istat Iżlamiku tal-Iraq u l-Levante — Khorasan;L-Istat Iżlamiku tal-Iraq u s-Sirja — Khorasa;Państwo Islamskie Chorasan;Południowoazjatycka Sekcja ISIL;Południowoazjatycki Oddział ISIL;Provincia de Jorasán del Estado Islámico;Provincie Khorasan Islámského státu;Provinċja ta’ Khorasan tal-Istat Iżlamiku;Província de Coraçone do EIIL;Província de Coraçone do Estado Islâmico;Prowincja Chorasan Państwa Islamskiego;Sección de Asia Meridional del EIIL;Secção da Ásia do Sul do EIIL;South Asian Chapter of ISIL;Stato islamico dell'Iraq e del Levante-Khorasan;Statul Islamic Khurasan;Statul Islamic al Irakului și Levantului din provincia Khorasan;Statul Islamic al Irakului și Siriei – Khorasan;Statul Islamic din Irak și ash-Sham – provincia Khorasan;Statul Islamic în Irak și Levant – Khorasan;Stát Ioslamach Khurasan;Stát Ioslamach na hIaráice agus an luaith-Sham — Cúige Khorasan;Stát Ioslamach na hIaráice agus an tSiria — Khorasan;Stát Ioslamach san Iaráic agus sa Leiveaint i gCúige Khorasan;The Islamic State of Iraq and Syria – Khorasan;The Islamic State of Iraq and ash-Sham – Khorasan Province;Valiato de Jorasán del EIIL;Zuid-Aziatische tak van ISIS;afdeling Zuid-Azië van ISIS;capitolul ISIL din Asia de Sud;il-Fergħa tal-Asja t’Isfel tal-ISIL;l-Istat Iżlamiku ta’ Khurasan;provincia Khorasan a Statului Islamic;provincie Khorasan van de Islamitische Staat;sucursala din Asia de Sud a ISIL;État islamique en Iraq et au Levant - Khorasan;Ισλαμικό Κράτος του Ιράκ και του Λεβάντε — Khorasan;Ислямска държава в Ирак и Леванта — Хорасан"
+      "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2019-05-14",
+      "aliases": "An Stáit Ioslamach san Iaráic agus sa Leiveaint — Khorasan;Brainse na hÁise Theas;Caibidil na hÁise Theas de ISIL;Capítulo da Ásia do Sul do EIIL;Cúige Khorasan an Stáit Ioslamaigh;Den Islamiske Stat i Irak og Levanten – Khorasan;División de Asia Meridional del EIIL;EI-Coraçone;EIIL Coraçone;EIIL-C;EIIL-J;EIILC;Estado Islámico de Irak y ash-Sham – provincia de Khorasan;Estado Islámico de Irak y el Levante en la provincia de Jorasán;Estado Islámico de Irak y el Levante – Jorasán (EIIL-J);Estado Islámico de Jorasán;Estado Islâmico Coraçone;Estado Islâmico do Iraque e da Síria – Coraçone;Estado Islâmico do Iraque e de ash-Sham – Província de Coraçone;Estado Islâmico do Iraque e do Levante na Província de Coraçone;Estado Islâmico do Iraque e do Levante – Coraçone;Grupējuma “Irākas un Levantes Islāma valsts Horasānas province”;IS-Chorasan;IS-Khorasan;ISIL Chorasan;ISIL Dienvidāzijas filiāle;ISIL Dienvidāzijas nodaļa;ISIL Khorasan;ISIL's South Asia Branch;ISIS Khorasan;ISIS Wilajat Chorasan;ISIS Wilayat Khorasan;ISIS-K;ISISK;ISKP;Irako ir Levanto islamo valstybės“ Chorasano atšaka;Irākas un Levantes Islāma valsts Korasānas provincē;Irākas un Sīrijas Islāma valsts Korasānas province;Islamic State Khurasan;Islamic State in Iraq and the Levant – Khorasan;Islamic State of Iraq and Levant in Khorasan Province;Islamic State's Khorasan Province;Islamitische Staat Khorasan;Islamitische Staat in Irak en de Levant — Khorasan;Islamitische Staat van Irak en Syrië — Khorasan;Islamitische Staat van Irak en ash-Sham — provincie Khorasan;Islamitische Staat van Irak en de Levant in de provincie Khorasan;Islamska država Iraka i Levanta – Khorasan;Islamska država Iraka in Levanta – Khorasan;Islamskie Państwo Iraku i Lewantu w prowincji Chorasan;Islamskie Państwo Iraku i Syrii – Chorasan;Islamskie Państwo Iraku i asz-Sham – Prowincja Chorasan;Islamskie Państwo w Iraku i Lewancie – Chorasan;Islamský štát v Iraku a Levante – provincia Chorásán;Islámský stát Khurasan;Islámský stát v Iráku a Levantě v provincii Khorasan;Islámský stát v Iráku a Levantě – Khorasan;Islámský stát v Iráku a Sýrii – Khorasan;Islámský stát v Iráku a oblasti ash-Sham – provincie Khorasan;Islāma valsts Irākā un ash-Sham Korasānas province;Islāma valsts Khurasan;Islāma valsts Korasānas province;Jihoasijská pobočka ISIL;Jihoasijský odbor ISIL;Jorasán del EIIL;Jorasán del Estado Islámico de Irak y Siria;Kapitolu tal-Asja t’Isfel tal-ISIL;L-Istat Iżlamiku tal-Iraq u ash-Sham — il-Provinċja ta’ Khorasan;L-Istat Iżlamiku tal-Iraq u l-Levante fil-Provinċja ta’ Khorasan;L-Istat Iżlamiku tal-Iraq u l-Levante — Khorasan;L-Istat Iżlamiku tal-Iraq u s-Sirja — Khorasa;Państwo Islamskie Chorasan;Południowoazjatycka Sekcja ISIL;Południowoazjatycki Oddział ISIL;Provincia de Jorasán del Estado Islámico;Provincie Khorasan Islámského státu;Provinċja ta’ Khorasan tal-Istat Iżlamiku;Província de Coraçone do EIIL;Província de Coraçone do Estado Islâmico;Prowincja Chorasan Państwa Islamskiego;Sección de Asia Meridional del EIIL;Secção da Ásia do Sul do EIIL;South Asian Chapter of ISIL;Stato islamico dell'Iraq e del Levante-Khorasan;Statul Islamic Khurasan;Statul Islamic al Irakului și Levantului din provincia Khorasan;Statul Islamic al Irakului și Siriei – Khorasan;Statul Islamic din Irak și ash-Sham – provincia Khorasan;Statul Islamic în Irak și Levant – Khorasan;Stát Ioslamach Khurasan;Stát Ioslamach na hIaráice agus an luaith-Sham — Cúige Khorasan;Stát Ioslamach na hIaráice agus an tSiria — Khorasan;Stát Ioslamach san Iaráic agus sa Leiveaint i gCúige Khorasan;The Islamic State of Iraq and Syria – Khorasan;The Islamic State of Iraq and ash-Sham – Khorasan Province;Valiato de Jorasán del EIIL;Zuid-Aziatische tak van ISIS;afdeling Zuid-Azië van ISIS;capitolul ISIL din Asia de Sud;il-Fergħa tal-Asja t’Isfel tal-ISIL;l-Istat Iżlamiku ta’ Khurasan;provincia Khorasan a Statului Islamic;provincie Khorasan van de Islamitische Staat;sucursala din Asia de Sud a ISIL;État islamique en Iraq et au Levant - Khorasan;Ισλαμικό Κράτος του Ιράκ και του Λεβάντε — Khorasan;Ислямска държава в Ирак и Леванта — Хорасан"
     },
     {
       "name": "Mohammad Moazami GOUDARZI",
@@ -18002,10 +18134,10 @@
       "aliases": ""
     },
     {
-      "name": "Abu Adam",
+      "name": "Abu Hamza",
       "schema": "Person",
-      "sanctions": "TAQA - 97/2012 (OJ L35) - 2012-01-25",
-      "aliases": "Monir Chouka"
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2012-01-25",
+      "aliases": "Abu Adam;Monir Chouka"
     },
     {
       "name": "JSC “Ulyanovsk Instrument Design Bureau”",
@@ -19172,6 +19304,12 @@
       "aliases": "АО Росэксимбанк"
     },
     {
+      "name": "MAPNA Group",
+      "schema": "Organization",
+      "sanctions": "IRN - 2026/1883 (OJ L202601883) - 2026-07-30",
+      "aliases": ""
+    },
+    {
       "name": "Naser MALEKI",
       "schema": "Person",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2023-10-17",
@@ -19756,7 +19894,7 @@
     {
       "name": "Al-Qaida in the Arabian Peninsula",
       "schema": "Organization",
-      "sanctions": "TAQA - 2016/1063 (OJ L177) - 2010-01-19",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2010-01-19",
       "aliases": "AAS;AQAP;AQPA;AQY;Al-Kaida na Półwyspie Arabskim;Al-Kaida organizacije Džihad z Arabskega polotoka,;Al-Kaida w Jemenie;Al-Kaida w południowej części Półwyspu Arabskiego;Al-Kaida z Arabskega polotoka;Al-Kaida z južnega dela Arabskega polotoka;Al-Qa'ida Jemen;Al-Qa'ida van het zuidelijk Arabisch Schiereiland;Al-Qa'ida-organisatie van het Arabisch Schiereiland;Al-Qaeda en la península arábiga;Al-Qaid a de l’organisation du Djihad dans la péninsule arabique;Al-Qaida Organization fil-Peniżola Għarbija;Al-Qaida Organization in the Arabian Peninsula;Al-Qaida Organization på Den Arabiske Halvø;Al-Qaida au Yémen;Al-Qaida dans la péninsule arabique;Al-Qaida dans la péninsule sud-arabique;Al-Qaida din Peninsula Arabia;Al-Qaida din Peninsula Arabia de Sud;Al-Qaida din Yemen;Al-Qaida fil-Jemen;Al-Qaida fil-Peniżola Għarbija;Al-Qaida fil-Peniżola t'Isfel Għarbija;Al-Qaida i Yemen;Al-Qaida i den sydlige del af Den Arabiske Halvø;Al-Qaida in Yemen;Al-Qaida in the South Arabian Peninsula;Al-Qaida iz Jemna;Al-Qaida of Jihad Organization din Peninsula Arabia;Al-Qaida of Jihad Organization in the Arabian Peninsula;Al-Qaida of Jihad Organization på Den Arabiske Halvø,;Al-Qaida på Den Arabiske Halvø;Al-Qaida tal-Jihad Organization fil-Peniżola Għarbija,;Al-Qaida στην Αραβική Χερσόνησο;Al-Qaida στην Νότια Αραβική Χερσόνησο;Al-Qaida στην Υεμένη;Al-Qaida της οργάνωσης Jihad στην Αραβική Χερσόνησο;Al-Qa‘ida van de Jihad-organisatie van het Arabisch Schiereiland;Al-Qa‘ida van het Arabisch Schiereiland;Ansar al-Shari’a;Organizacja dżihadu na Półwyspie arabskim Al-Kaida,;Organizacja na Półwyspie Arabskim Al-Kaida;Organizația Al-Qaida din Peninsula Arabia;Tanzim Qa'idat al-Jihad fi Jazirat al-Arabm;organisation Al-Qaida dans la péninsule arabique;organizacija Al-Kaida z Arabskega polotoka;οργάνωση Al-Qaida στην Αραβική Χερσόνησο"
     },
     {
@@ -19816,7 +19954,7 @@
     {
       "name": "Al-Haramain Foundation (Pakistan)",
       "schema": "Organization",
-      "sanctions": "TAQA - 316/2012 (OJ L103) - 2012-04-12",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2004-01-26",
       "aliases": ""
     },
     {
@@ -20598,12 +20736,6 @@
       "schema": "Person",
       "sanctions": "SYR - 2020/716 (OJ L168) - 2020-05-30",
       "aliases": "Khalaf Souleymane ABDALLAH"
-    },
-    {
-      "name": "Mehrdad AKHLAGHI-KETABACHI",
-      "schema": "Person",
-      "sanctions": "IRN - 2023/2196 (OJ L17102023) - 2023-10-17;IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
-      "aliases": "Mehrdada Akhlaghi Ketabachi;مهرداد اخلاقی کتابچی"
     },
     {
       "name": "Irina Aleksandrovna CHERKASOVA",
@@ -22232,6 +22364,12 @@
       "aliases": "Aerosila JSC SPE;Joint Stock Company Scientific Production Enterprise “Aerosila”;»Aeroszila« Tudományos Termelő Vállalat Rt.;»Aeroszila« Tudományos Termelő Vállalat Részvénytársaság;Întreprinderea științifică de producție «Aerosila», societate pe acțiuni;Акционерное Общество “Научно-Производственное Предприятие ‘Аэросила’” (НПП Аэросила)"
     },
     {
+      "name": "Olga Adolfovna KIRIY",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Ольга Адольфовна КИРИЙ"
+    },
+    {
       "name": "JSC DUKS",
       "schema": "Organization",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
@@ -22376,6 +22514,12 @@
       "aliases": "AO Технодинамика;Těchnodinamika"
     },
     {
+      "name": "Alexander Anatolevich GRISHANIN",
+      "schema": "Person",
+      "sanctions": "RUS - 2026/1708 (OJ L202601708) - 2026-07-13",
+      "aliases": "Александр Анатольевич ГРИШАНИН"
+    },
+    {
       "name": "Vladimir Evgenievych AVETISYAN",
       "schema": "Person",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
@@ -22404,6 +22548,12 @@
       "schema": "Person",
       "sanctions": "IRQ - 924/2004 (OJ L163) - 2004-04-29",
       "aliases": ""
+    },
+    {
+      "name": "Maria Yurievna VOLKONSKAYA",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Мария Юрьевна ВОЛКОНСКАЯ;Марія Юріївна ВОЛКОНСЬКА"
     },
     {
       "name": "Andrei Nikolaevich IVASHKIN",
@@ -22766,10 +22916,10 @@
       "aliases": "Руслан Рустемович БУЛАТОВ"
     },
     {
-      "name": "Al-Furqan Foundation Welfare Trust",
+      "name": "Jamiat Ihya Ul Turath Al Islamia",
       "schema": "Organization",
-      "sanctions": "TAQA - 2015/1390 (OJ L215) - 2015-08-14;TAQA - 34/2012 (OJ L15) - 2012-01-17",
-      "aliases": "ASC;Afghan Support Committee;Ahya Ul Turas;Al-Furqan Welfare Foundation;Comité de Apoio ao Afeganistão;Comité de soutien afghan;Islami Pärandi Taaselustamise Ühing;Islami Pärandi Taaselustamise Ühing Aafrika Mandril, Jamia Ihya Ul Turath;Jamia Ihya Ul Turath;Jamiat Ayat-Ur-Rhas Al Islamia;Jamiat Ihia Al-Turath Al-Islamiya;Jamiat Ihya Ul Turath Al Islamia;Lajnat Ul Masa Eidatul Afghania;RIHS;Restauração do Património Social Islâmico do Continente Africano;Revival of Islamic Heritage Society;Revival of Islamic Society Heritage on the African Continent;Sociedade da Restauração do Património Islâmico;Αφγανική Επιτροπή Στήριξης"
+      "sanctions": "TAQA - 2015/1390 (OJ L215) - 2015-08-14;TAQA - 2026/1965 (OJ L202601965) - 2002-01-11",
+      "aliases": "ASC;Afghan Support Committee;Ahya Ul Turas;Al-Furqan Foundation Welfare Trust;Al-Furqan Welfare Foundation;Comité de Apoio ao Afeganistão;Comité de soutien afghan;Islami Pärandi Taaselustamise Ühing;Islami Pärandi Taaselustamise Ühing Aafrika Mandril, Jamia Ihya Ul Turath;Jamia Ihya Ul Turath;Jamiat Ayat-Ur-Rhas Al Islamia;Jamiat Ihia Al-Turath Al-Islamiya;Lajnat Ul Masa Eidatul Afghania;RIHS;Restauração do Património Social Islâmico do Continente Africano;Revival of Islamic Heritage Society;Revival of Islamic Society Heritage on the African Continent;Sociedade da Restauração do Património Islâmico;Αφγανική Επιτροπή Στήριξης"
     },
     {
       "name": "LLC Commercial Bank Kuban Credit",
@@ -22828,7 +22978,7 @@
     {
       "name": "Mochammad Achwan",
       "schema": "Person",
-      "sanctions": "TAQA - 2022/873 (OJ L152) - 2012-03-12",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2012-03-12",
       "aliases": "Mochtar Achwan;Mochtar Akhwan;Mochtar Akwan;Muhammad Achwan;Muhammad Akhwan"
     },
     {
@@ -23404,7 +23554,7 @@
     {
       "name": "Al Wafa Organization",
       "schema": "Organization",
-      "sanctions": "TAQA - 2020/1297 (OJ L303I) - 2001-10-06",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2001-10-06",
       "aliases": "Al Wafa;L'organisation humanitaire de Wafa;Organização Al Wafa;Organização Humanitária Wafa;Wafa Al-Igatha Al-Islamia;Wafa Humanitarian Organisation"
     },
     {
@@ -27584,6 +27734,12 @@
       "aliases": "Denis Vladimirovitj KOLESNIKOV;Denis Vladimirovič KOLESNIKOV;Денис Владимирович КОЛЕСНИКОВ"
     },
     {
+      "name": "Alexandra JOST",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Sasha JOST;Александра ЙОСТ;Саша ЙОСТ"
+    },
+    {
       "name": "Elías José JAUA MILANO",
       "schema": "Person",
       "sanctions": "VEN - 2020/1696 (OJ L381) - 2018-06-25",
@@ -27986,6 +28142,12 @@
       "aliases": ""
     },
     {
+      "name": "Roman Yurevich ANTONOVSKII",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Роман Юрьевич АНТОНОВСКИЙ"
+    },
+    {
       "name": "Pavel Alekseevich MARINYCHEV",
       "schema": "Person",
       "sanctions": "UKR - 2024/196 (OJ L03012024) - 2024-01-03",
@@ -27996,6 +28158,12 @@
       "schema": "Person",
       "sanctions": "SDNZ - 2025/1480 (OJ L202501480) - 2025-07-18",
       "aliases": ""
+    },
+    {
+      "name": "Ali ANSARI",
+      "schema": "Person",
+      "sanctions": "IRN - 2026/1883 (OJ L202601883) - 2026-07-30",
+      "aliases": "Ali Akbar ANSARI"
     },
     {
       "name": "Larisa Valentinovna TOLSTYKINA",
@@ -28190,6 +28358,12 @@
       "aliases": "Юрий Илларионович ЛАСТОЧКИН;Юрій Iлларіонович ЛАСТОЧКIН"
     },
     {
+      "name": "Mehrdad AKHLAGHI-KETABACHI",
+      "schema": "Person",
+      "sanctions": "IRN - 2023/2196 (OJ L17102023) - 2023-10-17;IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "aliases": "Mehrdada Akhlaghi Ketabachi;مهرداد اخلاقی کتابچی"
+    },
+    {
       "name": "Vladimirovich DVORKOVICH",
       "schema": "Person",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
@@ -28306,7 +28480,7 @@
     {
       "name": "Ibrahim Hasan Tali Asiri",
       "schema": "Person",
-      "sanctions": "TAQA - 2023/329 (OJ L43I) - 2011-03-24",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2011-03-24",
       "aliases": "Abosslah;Abu Saleh;Abu-Salaah;Ibrahim Hasan Talea Aseeri;Ibrahim Hasan Tali al-’Asiri;Ibrahim Hasan Tali’A ’Asiri;Ibrahim Hassan Al Asiri;Ibrahim Hassan Tali Al-Asiri;Ibrahim Hassan Tali Asiri;Ibrahim Hassan Tali Assiri;Ibrahim Hassan al-Asiri;Ibrahim al-'Asiri;إبراهيم حسن طالع العسيري;إبراهيم حسن طالع عسيري"
     },
     {
@@ -28552,7 +28726,7 @@
     {
       "name": "Boubaker el Hakim",
       "schema": "Person",
-      "sanctions": "TAQA - 2016/1063 (OJ L177) - 2015-09-29",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2015-09-29",
       "aliases": "Abou Mouqatel;Abou al Moukatel;Abu-Muqatil al-Tunisi;Boubaker Ben Habib Ben Al-Hakim;Boubakeur el-Hakim;El Hakim Boubakeur"
     },
     {
@@ -28930,7 +29104,7 @@
     {
       "name": "Umar Patek",
       "schema": "Person",
-      "sanctions": "TAQA - 2017/1773 (OJ L251) - 2017-09-30",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2011-07-19",
       "aliases": "Al Abu Syekh Al Zacky;Anis Alawi Jafar;Hisyam Bin Zein;Mike Arsalan;Omar Patek;Pak Taek;Pa’tek;Umangis Mike;Umar Kecil"
     },
     {
@@ -29662,7 +29836,7 @@
     {
       "name": "Abu Ubaydah Yusuf Al-Anabi",
       "schema": "Person",
-      "sanctions": "TAQA - 2016/307 (OJ L58) - 2016-02-29",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2016-02-29",
       "aliases": "Abou ObeJda Youssef AI-Annabi;Abou Youcef;Abu- Ubaydah Yusuf Al-lnabi;Mebrak Yazid;Mibrak Yazid;Yazid Mabrak;Yazid Mebrak;Youcef Abu Obeida;Yousif Abu Obayda Yazid;Yusuf Abu Ubaydah"
     },
     {
@@ -29878,7 +30052,7 @@
     {
       "name": "Yahia Abou Ammar",
       "schema": "Person",
-      "sanctions": "TAQA - 2023/329 (OJ L43I) - 2008-07-03",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2008-07-03",
       "aliases": "Abou Ala;Yahia Djouadi;يحيى جوادي"
     },
     {
@@ -30520,7 +30694,7 @@
     {
       "name": "Peter Cherif",
       "schema": "Person",
-      "sanctions": "TAQA - 2016/1063 (OJ L177) - 2015-09-29",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2015-09-29",
       "aliases": ""
     },
     {
@@ -31126,7 +31300,7 @@
     {
       "name": "Isamuddin Riduan",
       "schema": "Person",
-      "sanctions": "TAQA - 577/2011 (OJ L159) - 2011-06-16",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2003-01-28",
       "aliases": "Encep Nurjaman (birth name);Hambali;Hambali Bin Ending;Hambali Ending Hambali;Isamudin Ridwan;Isomuddin, Nurjaman Riduan;Nurjaman;Nurjaman Riduan Isamuddin;Nurjaman Riduan Isomuddin"
     },
     {
@@ -31162,7 +31336,7 @@
     {
       "name": "Isnilon Hapilun",
       "schema": "Person",
-      "sanctions": "TAQA - 2023/329 (OJ L43I) - 2005-12-06",
+      "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2005-12-06",
       "aliases": "Abu Musab;Isnilon Totoni Hapilon;Isnilun Hapilun;Salahudin;Tuan Isnilon"
     },
     {
@@ -31698,6 +31872,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-02-23",
       "aliases": "Aljona Igorevna ARSJINOVA;Алёна Игоревна АРШИНОВА"
+    },
+    {
+      "name": "Pavel Alekseyevich ASTAKHOV",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Павел Алексеевич АСТАХОВ"
     },
     {
       "name": "Yelena Vladimirovna AFANASEVA",
@@ -32552,6 +32732,12 @@
       "aliases": "Pavel Vladimirovitj KRASJENINNIKOV;Павел Владимирович Крашенинников"
     },
     {
+      "name": "Anatoly Aleksandrovich KUZICHEV",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Анатолий Александрович КУЗИЧЕВ"
+    },
+    {
       "name": "Vladimir Grigorevich KULISHOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/1906 (OJ L259 I) - 2022-10-06",
@@ -32652,6 +32838,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Aleksander Aleksandrovič MALJKEVIČ;Aleksandr Aleksandrovitj MALKEVITJ;Александр Александрович МАЛЬКЕВИЧ"
+    },
+    {
+      "name": "Igor Valentinovich MALTSEV",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Игор Валентинович МАЛЬЦЕВ"
     },
     {
       "name": "Arkady Viktorovich MAMONTOV",
@@ -33332,6 +33524,12 @@
       "aliases": "Michail Borisovitj TERENTIEV;Михаил Борисович ТЕРЕНТЬЕВ"
     },
     {
+      "name": "Georgiy Aleksandrovich SHEVKUNOV",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Георгий Александрович ШЕВКУНОВ"
+    },
+    {
       "name": "Oleg Polikarpovich TKACH",
       "schema": "Person",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2022-03-09",
@@ -33814,7 +34012,7 @@
     {
       "name": "Amin Muhammad Ul Haq Saam Khan",
       "schema": "Person",
-      "sanctions": "TAQA - 2023/329 (OJ L43I) - 2001-01-25",
+      "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2001-01-25",
       "aliases": "Al-Haq, Amin;Amin, Muhammad;Dr Amin;Ul-Haq, Dr Amin"
     },
     {
@@ -35810,6 +36008,12 @@
       "aliases": "Sergej Viktorovitj TJEMEZOV;Sergej Čemezov;Sergey Viktorovich CHEMEZOV;Serghei Chemezov;Сергей Викторович ЧЕМЕЗОВ"
     },
     {
+      "name": "Aleksandr Yuryevich CHAYKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/613 (OJ L202600613) - 2026-03-16",
+      "aliases": "Alexander Yuryevich CHAIKO;Александр Юрьевич ЧАЙКО"
+    },
+    {
       "name": "Mikalai Mikalaevich VARABEI",
       "schema": "Person",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2020-12-17",
@@ -36200,6 +36404,12 @@
       "aliases": "جوزيف سويد"
     },
     {
+      "name": "Kirill FEDOROV",
+      "schema": "Person",
+      "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
+      "aliases": "Кирилл ФЕДОРОВ"
+    },
+    {
       "name": "Soe Htut",
       "schema": "Person",
       "sanctions": "MMR - 2022/662 (OJ L121) - 2021-06-21",
@@ -36230,10 +36440,10 @@
       "aliases": "Aleksandr Michajlovitj SAMOKUTIAJEV;Александр Михайлович САМОКУТЯЕВ"
     },
     {
-      "name": "Mohammed Salahaldin Abd El Halim Zidane",
+      "name": "Abu Khaled al-San’ani",
       "schema": "Person",
-      "sanctions": "TAQA - 2019/555 (OJ L97) - 2001-01-25",
-      "aliases": "Ibrahim al-Madani;Muhamad Ibrahim Makkawi;Saif Al-'Adil;Sayf-Al Adl;Seif al Adel"
+      "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2001-01-25",
+      "aliases": "Aber Sabil;Hazem al-Madani;Ibrahim al-Madani;Mohammed Salahaldin Abd El Halim Zidane;Muhamad Ibrahim Makkawi;Muhannad Salem;Saif Al-'Adil;Salem al-Sharif;Sayf-Al Adl;Seif al Adel;سالم الشريف;سيف العدل;محمد صلاح الدين عبدالحليم زيدان"
     },
     {
       "name": "Chae-Il Ri",
