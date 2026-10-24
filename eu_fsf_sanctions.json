@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:45:03.458337+00:00",
+  "generated_at": "2026-10-24T07:02:25.966812+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -2676,12 +2676,6 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/362 (OJ L22012024) - 2024-01-22",
       "aliases": "Fahd Darwish;Fahed Darwish"
-    },
-    {
-      "name": "Than Win",
-      "schema": "Person",
-      "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
-      "aliases": ""
     },
     {
       "name": "Mujahidin Indonesia Timor",
@@ -8148,12 +8142,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/2455 (OJ L13092024) - 2022-12-16",
       "aliases": "A.E. NUDELMAN DESIGNBUREAU VOOR PRECISIEMACHINES;BIROUL DE PROIECTARE PENTRU CONSTRUCȚII DE MAȘINI DE PRECIZIE A.E. NUDELMAN;KB TOCHMASH;NUDELMANO VARDO TIKSLIOSIOS MAŠINŲ GAMYBOS KONSTRUKTORIŲ BIURAS;OFICINA DE DISEÑO PARA CONSTRUCCIÓN DE MÁQUINAS DE PRECISIÓN A.E.NUDELMA;Société par actions A.E.NUDELMAN BUREAU DE CONCEPTION POUR LA CONSTRUCTION DE MACHINES DE PRÉCISION;АО КОНСТРУКТОРСКОЕ БЮРО ТОЧНОГО МАШИНОСТРОЕНИЯ ИМ. А. Э. НУДЕЛЬМАНА;КБ ТОЧМАШ"
-    },
-    {
-      "name": "Bassam AL HASSAN",
-      "schema": "Person",
-      "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2011-05-23",
-      "aliases": "Bassam Al Hasan;بسام الحسن"
     },
     {
       "name": "JSC Genbank",
@@ -26336,6 +26324,12 @@
       "aliases": ""
     },
     {
+      "name": "Than Win",
+      "schema": "Person",
+      "sanctions": "MMR - 2022/239 (OJ L40) - 2022-02-21",
+      "aliases": ""
+    },
+    {
       "name": "Min Min Oo",
       "schema": "Person",
       "sanctions": "MMR - 2022/2177 (OJ L286 I) - 2022-11-08",
@@ -28362,6 +28356,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2023/2196 (OJ L17102023) - 2023-10-17;IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
       "aliases": "Mehrdada Akhlaghi Ketabachi;مهرداد اخلاقی کتابچی"
+    },
+    {
+      "name": "Bassam AL HASSAN",
+      "schema": "Person",
+      "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2011-05-23",
+      "aliases": "Bassam Al Hasan;بسام الحسن"
     },
     {
       "name": "Vladimirovich DVORKOVICH",
