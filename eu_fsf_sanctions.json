@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:35:53.370278+00:00",
+  "generated_at": "2026-10-27T07:09:18.572985+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -8030,10 +8030,10 @@
       "aliases": "Abu Hani SHAMOUT;Abu SHAMMOUT;Hani SHAMMOUT;أبو شموط;أبو هاني شموط;هاني شموط"
     },
     {
-      "name": "Presidential Foundation for Cultural Initiatives/ PFKI",
+      "name": "Presidential Foundation for Cultural Initiatives",
       "schema": "Organization",
       "sanctions": "RUSDA - 2026/1356 (OJ L202601356) - 2026-06-15",
-      "aliases": "Президентский Фонд Культурных Инициатив / ПФКИ"
+      "aliases": "PFKI;ПФКИ;Президентский Фонд Культурных Инициатив"
     },
     {
       "name": "FKP \"Avangard\"",
@@ -19883,7 +19883,7 @@
       "name": "Al-Qaida in the Arabian Peninsula",
       "schema": "Organization",
       "sanctions": "TAQA - 2026/1965 (OJ L202601965) - 2010-01-19",
-      "aliases": "AAS;AQAP;AQPA;AQY;Al-Kaida na Półwyspie Arabskim;Al-Kaida organizacije Džihad z Arabskega polotoka,;Al-Kaida w Jemenie;Al-Kaida w południowej części Półwyspu Arabskiego;Al-Kaida z Arabskega polotoka;Al-Kaida z južnega dela Arabskega polotoka;Al-Qa'ida Jemen;Al-Qa'ida van het zuidelijk Arabisch Schiereiland;Al-Qa'ida-organisatie van het Arabisch Schiereiland;Al-Qaeda en la península arábiga;Al-Qaid a de l’organisation du Djihad dans la péninsule arabique;Al-Qaida Organization fil-Peniżola Għarbija;Al-Qaida Organization in the Arabian Peninsula;Al-Qaida Organization på Den Arabiske Halvø;Al-Qaida au Yémen;Al-Qaida dans la péninsule arabique;Al-Qaida dans la péninsule sud-arabique;Al-Qaida din Peninsula Arabia;Al-Qaida din Peninsula Arabia de Sud;Al-Qaida din Yemen;Al-Qaida fil-Jemen;Al-Qaida fil-Peniżola Għarbija;Al-Qaida fil-Peniżola t'Isfel Għarbija;Al-Qaida i Yemen;Al-Qaida i den sydlige del af Den Arabiske Halvø;Al-Qaida in Yemen;Al-Qaida in the South Arabian Peninsula;Al-Qaida iz Jemna;Al-Qaida of Jihad Organization din Peninsula Arabia;Al-Qaida of Jihad Organization in the Arabian Peninsula;Al-Qaida of Jihad Organization på Den Arabiske Halvø,;Al-Qaida på Den Arabiske Halvø;Al-Qaida tal-Jihad Organization fil-Peniżola Għarbija,;Al-Qaida στην Αραβική Χερσόνησο;Al-Qaida στην Νότια Αραβική Χερσόνησο;Al-Qaida στην Υεμένη;Al-Qaida της οργάνωσης Jihad στην Αραβική Χερσόνησο;Al-Qa‘ida van de Jihad-organisatie van het Arabisch Schiereiland;Al-Qa‘ida van het Arabisch Schiereiland;Ansar al-Shari’a;Organizacja dżihadu na Półwyspie arabskim Al-Kaida,;Organizacja na Półwyspie Arabskim Al-Kaida;Organizația Al-Qaida din Peninsula Arabia;Tanzim Qa'idat al-Jihad fi Jazirat al-Arabm;organisation Al-Qaida dans la péninsule arabique;organizacija Al-Kaida z Arabskega polotoka;οργάνωση Al-Qaida στην Αραβική Χερσόνησο"
+      "aliases": "AAS;AQAP;AQPA;AQY;Al-Kaida na Półwyspie Arabskim;Al-Kaida organizacije Džihad z Arabskega polotoka,;Al-Kaida w Jemenie;Al-Kaida w południowej części Półwyspu Arabskiego;Al-Kaida z Arabskega polotoka;Al-Kaida z južnega dela Arabskega polotoka;Al-Qa'ida Jemen;Al-Qa'ida van het zuidelijk Arabisch Schiereiland;Al-Qa'ida-organisatie van het Arabisch Schiereiland;Al-Qaeda en la península arábiga;Al-Qaid a de l’organisation du Djihad dans la péninsule arabique;Al-Qaida Organization fil-Peniżola Għarbija;Al-Qaida Organization in the Arabian Peninsula;Al-Qaida Organization på Den Arabiske Halvø;Al-Qaida au Yémen;Al-Qaida dans la péninsule arabique;Al-Qaida dans la péninsule sud-arabique;Al-Qaida din Peninsula Arabia;Al-Qaida din Peninsula Arabia de Sud;Al-Qaida din Yemen;Al-Qaida fil-Jemen;Al-Qaida fil-Peniżola Għarbija;Al-Qaida fil-Peniżola t'Isfel Għarbija;Al-Qaida i Yemen;Al-Qaida i den sydlige del af Den Arabiske Halvø;Al-Qaida in Yemen;Al-Qaida in the South Arabian Peninsula;Al-Qaida iz Jemna;Al-Qaida of Jihad Organization din Peninsula Arabia;Al-Qaida of Jihad Organization in the Arabian Peninsula;Al-Qaida of Jihad Organization på Den Arabiske Halvø,;Al-Qaida på Den Arabiske Halvø;Al-Qaida tal-Jihad Organization fil-Peniżola Għarbija;Al-Qaida στην Αραβική Χερσόνησο;Al-Qaida στην Νότια Αραβική Χερσόνησο;Al-Qaida στην Υεμένη;Al-Qaida της οργάνωσης Jihad στην Αραβική Χερσόνησο;Al-Qa‘ida van de Jihad-organisatie van het Arabisch Schiereiland;Al-Qa‘ida van het Arabisch Schiereiland;Ansar al-Shari’a;Organizacja dżihadu na Półwyspie arabskim Al-Kaida;Organizacja na Półwyspie Arabskim Al-Kaida;Organizația Al-Qaida din Peninsula Arabia;Tanzim Qa'idat al-Jihad fi Jazirat al-Arabm;organisation Al-Qaida dans la péninsule arabique;organizacija Al-Kaida z Arabskega polotoka;οργάνωση Al-Qaida στην Αραβική Χερσόνησο"
     },
     {
       "name": "All-Russia Young Army Military Patriotic Social Movement",
@@ -34013,7 +34013,7 @@
       "name": "Amin Muhammad Ul Haq Saam Khan",
       "schema": "Person",
       "sanctions": "TAQA - 2026/1960 (OJ L202601960) - 2001-01-25",
-      "aliases": "Al-Haq, Amin;Amin, Muhammad;Dr Amin;Ul-Haq, Dr Amin"
+      "aliases": "Amin Al-Haq;Dr Amin;Dr Amin Ul-Haq;Muhammad Amin"
     },
     {
       "name": "Muyassir al-Shammari",
