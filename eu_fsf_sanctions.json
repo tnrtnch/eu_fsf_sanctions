@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:21:09.083419+00:00",
+  "generated_at": "2026-10-31T07:51:07.647759+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -13302,12 +13302,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
       "aliases": "Armada Rusa;Den russiske flåde;Marina russa;Marina rusă;Marinha Russa;Orosz haditengerészet;Rosyjska marynarka wojenna;Rusijos karinis jūrų laivynas;Ruska mornarica;Ruské vojenské námorníctvo;Russische Seekriegsflotte;Russische marine;Venemaa merevägi;Venäjän laivasto;marine russe;ryska flottan;Ρωσικό ναυτικό;Военно-морской флот;Руският военноморски флот"
-    },
-    {
-      "name": "Igor VOROBYOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
-      "aliases": "Игорь ВОРОБЬЕВ"
     },
     {
       "name": "Svetlana Ivanovna NIKOLAYEVA",
@@ -28362,6 +28356,12 @@
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2011-05-23",
       "aliases": "Bassam Al Hasan;بسام الحسن"
+    },
+    {
+      "name": "Igor VOROBYOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
+      "aliases": "Игорь ВОРОБЬЕВ"
     },
     {
       "name": "Vladimirovich DVORKOVICH",
