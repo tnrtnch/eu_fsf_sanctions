@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:56:10.513157+00:00",
+  "generated_at": "2026-11-02T08:43:01.823758+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -10242,12 +10242,6 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/527 (OJ L202500527) - 2023-02-25",
       "aliases": "AKTCIONERNOE OBSHESTVO “NAUCHNO-ISSLEDOVATELSKIJ INSTITUT GAZORAZRYADNIH PRIBOROV ‘PLAZMA’”;Plasma SA;АКЦИОНЕРНОЕ ОБЩЕСТВО “НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГАЗОРАЗРЯДНЫХ ПРИБОРОВ ‘ПЛАЗМА’”;АО “Плазма”"
-    },
-    {
-      "name": "Ivan Vladimirovich SANAEV",
-      "schema": "Person",
-      "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-04-08",
-      "aliases": "Ivan Vladimirovich SANAYEV;Ivan Vladimirovitj SANAJEV;Иван Владимирович САНАЕВ"
     },
     {
       "name": "Iteranet LLC",
@@ -28362,6 +28356,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "Игорь ВОРОБЬЕВ"
+    },
+    {
+      "name": "Ivan Vladimirovich SANAEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2023/571 (OJ L75 I) - 2022-04-08",
+      "aliases": "Ivan Vladimirovich SANAYEV;Ivan Vladimirovitj SANAJEV;Иван Владимирович САНАЕВ"
     },
     {
       "name": "Vladimirovich DVORKOVICH",
