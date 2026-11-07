@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:04:55.053855+00:00",
+  "generated_at": "2026-11-07T08:06:07.659526+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -984,12 +984,6 @@
       "schema": "Person",
       "sanctions": "IRN - 2022/592 (OJ L114) - 2011-10-10",
       "aliases": ""
-    },
-    {
-      "name": "Behrouz KAMALIAN",
-      "schema": "Person",
-      "sanctions": "IRN - 2025/689 (OJ L202500689) - 2011-10-10",
-      "aliases": "Behrooz_Ice;Hackers Brain"
     },
     {
       "name": "Joint stock company “Gas Industry Insurance Company SOGAZ”",
@@ -16844,12 +16838,6 @@
       "aliases": "Mousa KHALILOLLAHI;Moussa KHALILOLLAHI"
     },
     {
-      "name": "Valeriy Vladimirovich LEONOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
-      "aliases": "Валерий Владимирович ЛЕОНОВ"
-    },
-    {
       "name": "Prime Shipping",
       "schema": "Organization",
       "sanctions": "UKR - 2024/3183 (OJ L16122024) - 2024-12-16",
@@ -17804,12 +17792,6 @@
       "aliases": "BMPPC"
     },
     {
-      "name": "Denis Sergeevich KOLESNIKOV",
-      "schema": "Person",
-      "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
-      "aliases": "Denis Sergejevitj KOLESNIKOV;Денис Сергеевич КОЛЕСНИКОВ"
-    },
-    {
       "name": "Abdul Rahman Zahed",
       "schema": "Person",
       "sanctions": "AFG - 2017/404 (OJ L63) - 2001-01-25",
@@ -18060,12 +18042,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2020/398 (OJ L78) - 2020-03-14",
       "aliases": "Aleksey Alekseevich NAYDENKO;Алексей Алексеевич НАЙДЕНКО;Олексій Олексійович НАЙДЕНКО"
-    },
-    {
-      "name": "Vadim GROZAVU",
-      "schema": "Person",
-      "sanctions": "MDA - 2025/1434 (OJ L202501434) - 2025-07-15",
-      "aliases": ""
     },
     {
       "name": "Djamal Mostafa",
@@ -26798,6 +26774,12 @@
       "aliases": "Housam LUQA;Housam Louca;Housam Louka;Housam Louqa;Housam Luka;Houssam LUQA;Houssam Louca;Houssam Louqa;Houssam Luka;Husam LUQA;Husam Louca;Husam Louka;Husam Louqa;Husam Luka;Hussam LUQA;Hussam Louca;Hussam Louka;Hussam Louqa;Hussam Luka;حسام لوقا"
     },
     {
+      "name": "Behrouz KAMALIAN",
+      "schema": "Person",
+      "sanctions": "IRN - 2025/689 (OJ L202500689) - 2011-10-10",
+      "aliases": "Behrooz_Ice;Hackers Brain"
+    },
+    {
       "name": "Denis Sergeevich KURASHOV",
       "schema": "Person",
       "sanctions": "UKR - 2023/1765 (OJ L226) - 2022-12-16",
@@ -28340,6 +28322,12 @@
       "aliases": "Юрий Илларионович ЛАСТОЧКИН;Юрій Iлларіонович ЛАСТОЧКIН"
     },
     {
+      "name": "Vadim GROZAVU",
+      "schema": "Person",
+      "sanctions": "MDA - 2025/1434 (OJ L202501434) - 2025-07-15",
+      "aliases": ""
+    },
+    {
       "name": "Mehrdad AKHLAGHI-KETABACHI",
       "schema": "Person",
       "sanctions": "IRN - 2023/2196 (OJ L17102023) - 2023-10-17;IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
@@ -28356,6 +28344,18 @@
       "schema": "Person",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "Игорь ВОРОБЬЕВ"
+    },
+    {
+      "name": "Denis Sergeevich KOLESNIKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
+      "aliases": "Denis Sergejevitj KOLESNIKOV;Денис Сергеевич КОЛЕСНИКОВ"
+    },
+    {
+      "name": "Valeriy Vladimirovich LEONOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
+      "aliases": "Валерий Владимирович ЛЕОНОВ"
     },
     {
       "name": "Ivan Vladimirovich SANAEV",
