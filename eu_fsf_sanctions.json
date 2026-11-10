@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:26:03.826913+00:00",
+  "generated_at": "2026-11-10T09:02:06.616994+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -2400,12 +2400,6 @@
       "schema": "Person",
       "sanctions": "NIC - 2023/2125 (OJ L10102023) - 2022-01-10",
       "aliases": ""
-    },
-    {
-      "name": "Salim Saleh Kony",
-      "schema": "Person",
-      "sanctions": "CAF - 2017/906 (OJ L139) - 2016-08-23",
-      "aliases": "Okolu Salim;Salim KONY;Salim Ogaro;Salim Saleh;Salim Saleh Obol Ogaro;Simon Salim Obol"
     },
     {
       "name": "Jaber Abdallah Jaber Ahmad Al-Jalahmah",
@@ -11774,12 +11768,6 @@
       "aliases": "aerolínea Saha;هواپیمایی ساها"
     },
     {
-      "name": "Limited Liability Company OZON Bank",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Общество с Ограниченной Ответственностью ОЗОН Банк"
-    },
-    {
       "name": "Nina Sergeevna FAUSTOVA",
       "schema": "Person",
       "sanctions": "UKR - 2022/236 (OJ L40) - 2022-02-21",
@@ -20720,6 +20708,12 @@
       "aliases": "Jamal Sha’ban SHAHEEN;جمال شعبان شاهين"
     },
     {
+      "name": "Limited Liability Company OZON Bank",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Общество с Ограниченной Ответственностью ОЗОН Банк"
+    },
+    {
       "name": "JSC Koshelev-Bank",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
@@ -28344,6 +28338,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
       "aliases": "Игорь ВОРОБЬЕВ"
+    },
+    {
+      "name": "Salim Saleh Kony",
+      "schema": "Person",
+      "sanctions": "CAF - 2017/906 (OJ L139) - 2016-08-23",
+      "aliases": "Okolu Salim;Salim KONY;Salim Ogaro;Salim Saleh;Salim Saleh Obol Ogaro;Simon Salim Obol"
     },
     {
       "name": "Denis Sergeevich KOLESNIKOV",
