@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:31:48.160637+00:00",
+  "generated_at": "2026-11-13T08:57:45.656111+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -6624,12 +6624,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
       "aliases": "Лариса Павловна ФАЛЬКОВСКАЯ"
-    },
-    {
-      "name": "JSC Polyus Research Institute of M. F. Stelmakh",
-      "schema": "Organization",
-      "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
-      "aliases": "Az M. F. Stelmakh-ról elnevezett Polyus Kutatóintézet Rt;Instituto de Investigación Polyus;Institutul de Cercetare Polyus al M.F. Stelmakh JSC;АО «НИИ «Полюс» им. М.Ф Стельмаха»"
     },
     {
       "name": "Andrey Viktorovich KOCHERGA",
@@ -20958,6 +20952,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
       "aliases": ""
+    },
+    {
+      "name": "JSC Polyus Research Institute of M. F. Stelmakh",
+      "schema": "Organization",
+      "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
+      "aliases": "Az M. F. Stelmakh-ról elnevezett Polyus Kutatóintézet Rt;Instituto de Investigación Polyus;Institutul de Cercetare Polyus al M.F. Stelmakh JSC;АО «НИИ «Полюс» им. М.Ф Стельмаха»"
     },
     {
       "name": "Yuriy Alexandrovich PRONKO",
