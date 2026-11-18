@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:58:16.349630+00:00",
+  "generated_at": "2026-11-18T09:35:24.890000+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -27482,6 +27482,12 @@
       "aliases": "Aleksandr Aleksandrovitj OPRISJTJENKO;Александр Александрович ОПРИЩЕНКО;Олександр Олександрович ОПРИЩЕНКО"
     },
     {
+      "name": "Abu Ali",
+      "schema": "Person",
+      "sanctions": "IRQ - 1210/2003 (OJ L169) - 2003-07-07",
+      "aliases": "Abou Ali;Saddam Hussein Al-Tikriti"
+    },
+    {
       "name": "Mohammad Khaddour",
       "schema": "Person",
       "sanctions": "SYR - 2024/1517 (OJ L28052024) - 2012-01-23",
@@ -27500,10 +27506,10 @@
       "aliases": "سالار آبنوش"
     },
     {
-      "name": "Abu Ali",
+      "name": "Usama bin Muhammad bin Awad bin Ladin",
       "schema": "Person",
-      "sanctions": "IRQ - 1210/2003 (OJ L169) - 2003-07-07",
-      "aliases": "Abou Ali;Saddam Hussein Al-Tikriti"
+      "sanctions": "TAQA - 596/2013 (OJ L172) - 2013-06-24",
+      "aliases": "Abu Abdallah Abd Al-Hakim;Al Qaqa;Ben Laden Osama;Ben Laden Ossama;Ben Laden Usama;Bin Laden Osama Mohamed Awdh;Bin Laden Usamah Bin Muhammad;Osama bin Ladin;Osama bin Muhammad bin Awad bin Ladin;Shaykh Usama Bin Ladin;Usama Bin Muhammed Bin Awad, Osama Bin Laden;Usama Muhammed Awad Bin Laden;Usama bin Laden;Usama bin Ladin;Usamah Bin Muhammad Bin Ladin"
     },
     {
       "name": "Rosalba GIL PACHECO",
@@ -27516,12 +27522,6 @@
       "schema": "Person",
       "sanctions": "TAQA - 2020/1473 (OJ L334I) - 2020-10-08",
       "aliases": "Abu Hussein;Abu Malek El Talleh;Abu-Malik al-Shami;Abu-Malik al-Talli;Jamal Husayn Zayniyah;abu-Malik al-Ansari;زینیھ حسن حسین جمال"
-    },
-    {
-      "name": "Usama bin Muhammad bin Awad bin Ladin",
-      "schema": "Person",
-      "sanctions": "TAQA - 596/2013 (OJ L172) - 2013-06-24",
-      "aliases": "Abu Abdallah Abd Al-Hakim;Al Qaqa;Ben Laden Osama;Ben Laden Ossama;Ben Laden Usama;Bin Laden Osama Mohamed Awdh;Bin Laden Usamah Bin Muhammad;Osama bin Ladin;Osama bin Muhammad bin Awad bin Ladin;Shaykh Usama Bin Ladin;Usama Bin Muhammed Bin Awad, Osama Bin Laden;Usama Muhammed Awad Bin Laden;Usama bin Laden;Usama bin Ladin;Usamah Bin Muhammad Bin Ladin"
     },
     {
       "name": "Willy NGOMA",
@@ -29198,16 +29198,16 @@
       "aliases": "Igor Evgenievič KONAŠENKOV;Igor Jevgenjevitj KONASJENKOV;Igor Konašenkov;Игор Конашенков;Игорь Евгеньевич КОНАШЕНКОВ"
     },
     {
-      "name": "Sergey Nikolayevich LUKIN",
-      "schema": "Person",
-      "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
-      "aliases": "Сергей Николаевич ЛУКИН"
-    },
-    {
       "name": "Gennady Andreevich ZYUGANOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-02-23",
       "aliases": "Gennadij Andrejevitj ZIUGANOV;Геннадий Андреевич ЗЮГАНОВ"
+    },
+    {
+      "name": "Sergey Nikolayevich LUKIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2022/2476 (OJ L322-I) - 2022-12-16",
+      "aliases": "Сергей Николаевич ЛУКИН"
     },
     {
       "name": "Valentina Ivanova MATVIYENKO",
@@ -31004,6 +31004,12 @@
       "aliases": "Dmitrij Aleksandrovitj SVISJTJOV;Дмитрий Александрович СВИЩЕВ"
     },
     {
+      "name": "Alexandr Grigorievich LUKASHENKO",
+      "schema": "Person",
+      "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
+      "aliases": "Aleksandr Grigorjevitj LUKASJENKO;Alexander Grigorievich LUKASHENKO;Aliaksandr Ryhoravich LUKASHENKA;Aljaksandr Ryhoravitj LUKASJENKA;Александр Григорьевич ЛУКАШЕНКО;Аляксандр Рыгоравіч ЛУКАШЭНКА"
+    },
+    {
       "name": "Sergei Alexandrovich KULIKOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/396 (OJ L80) - 2022-03-09",
@@ -31020,12 +31026,6 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/1529 (OJ L239) - 2022-02-23",
       "aliases": "Michail Valentinovitj ROMANOV;Михаил Валентинович РОМАНОВ"
-    },
-    {
-      "name": "Alexandr Grigorievich LUKASHENKO",
-      "schema": "Person",
-      "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
-      "aliases": "Aleksandr Grigorjevitj LUKASJENKO;Alexander Grigorievich LUKASHENKO;Aliaksandr Ryhoravich LUKASHENKA;Aljaksandr Ryhoravitj LUKASJENKA;Александр Григорьевич ЛУКАШЕНКО;Аляксандр Рыгоравіч ЛУКАШЭНКА"
     },
     {
       "name": "Maxim Gennadyevich RESHETNIKOV",
