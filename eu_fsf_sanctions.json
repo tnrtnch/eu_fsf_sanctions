@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:30:39.567531+00:00",
+  "generated_at": "2026-11-21T09:01:42.785544+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -120,6 +120,12 @@
       "schema": "Person",
       "sanctions": "BLR - 2021/339 (OJ L68) - 2020-11-06",
       "aliases": "Sergej Jevgenjevitj ZUBKOV;Siarhei Yaugenavich ZUBKOU;Siarhej Jauhenavitj ZUBKOU;Сергей Евгеньевич ЗУБКОВ;Сяргей Яўгенавіч ЗУБКОЎ"
+    },
+    {
+      "name": "Children's Center \"Sunny Beach\"",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "\"Children's camp \"\"Sunny Beach\"\"\";\"State Budgetary General Educational Institution of the Republic of Dagestan \"\"Republican Center of Education \"\"Sunny Beach\"\"\";\"ГБОУ РД \"\"РЦО \"\"Солнечный берег\"\"\";\"Государственное бюджетное общеобразовательное учреждение Республики Дагестан \"\"Республиканский центр образования \"\"Солнечный берег\"\"\";ДОЛ «Солнечный берег»;Детский центр «Солнечный берег»"
     },
     {
       "name": "Hassan HIJAZI",
@@ -264,6 +270,12 @@
       "schema": "Person",
       "sanctions": "RUSDA - 2024/3188 (OJ L16122024) - 2024-12-16",
       "aliases": "Николай Александрович ТУПИКИН"
+    },
+    {
+      "name": "Viktor Evgenevich IVANOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1940 (OJ L202601940) - 2026-08-07",
+      "aliases": "Виктор Евгеньевич ИВАНОВ"
     },
     {
       "name": "Federal State Unitary Enterprise “Main Radio Frequency Centre”",
@@ -728,6 +740,12 @@
       "aliases": "Владислав Вячеславович КОСТИН"
     },
     {
+      "name": "Maksim Nikolayevich SHVETS",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Максим Николаевич ШВЕЦ"
+    },
+    {
       "name": "JSC Peleng",
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
@@ -822,6 +840,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
       "aliases": "JSC Stratim;»Stratim« Részvénytársaság;Акционерное Общество “Стратим”"
+    },
+    {
+      "name": "FGBI “DOP ‘Raduga’”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Children’s camp “Rainbow”;FGBU “DOP ‘Raduga’”;FSBI “DOP ‘Raduga’”;Federal State Budgetary Institution “Children’s Health Boarding House ‘Raduga’” of the Administration of the President of the Russian Federation;Детский лагерь “Радуга”;ФГБУ “ДОП ‘РАДУГА’”;Федеральное государственное бюджетное учреждение “детский оздоровительный пансионат ‘радуга’” управления делами президента российской федерации"
     },
     {
       "name": "Igor Alekseevich GROZA",
@@ -1274,6 +1298,12 @@
       "aliases": "Александр Александрович ШТОДА"
     },
     {
+      "name": "Ali Osmanovich CHOMAEV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Али Османович ЧОМАЕВ"
+    },
+    {
       "name": "Alexander Sergeevich KAMYSHOV",
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
@@ -1370,6 +1400,12 @@
       "aliases": "辽阳石化公司"
     },
     {
+      "name": "Svetlana Edislavovna BESPALOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Свiтлана Эдиславiвна БЕСПАЛОВА;Светлана Эдиславовна БЕСПАЛОВА"
+    },
+    {
       "name": "Yuriy Petrovich MUTSENEK",
       "schema": "Person",
       "sanctions": "UKR - 2024/1746 (OJ L24062024) - 2024-06-24",
@@ -1452,6 +1488,12 @@
       "schema": "Person",
       "sanctions": "IRN - 2020/510 (OJ L113) - 2011-04-12",
       "aliases": "Malek Ajdar SHARIFI"
+    },
+    {
+      "name": "LLC “Leto”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "LLC “Summer”;\"ООО \"\"ЛЕТО\"\"\""
     },
     {
       "name": "Ekaterina Sergeevna FROLOVA",
@@ -1968,6 +2010,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/1765 (OJ L226) - 2020-01-28",
       "aliases": "Lidija Aleksandrovna BASOVA;Lidiya Oleksandrivna BASOVA;Lydyja Oleksandrivna BASOVA;Лiдiя Олександрiвна БАСОВА;Лидия Александровна БАСОВА"
+    },
+    {
+      "name": "LLC Children’s Health Complex “Sputnik”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "LLC “DOK ‘Sputnik’”;ООО ДЕТСКИЙ ОЗДОРОВИТЕЛЬНЫЙ КОМПЛЕКС “СПУТНИК”;ООО “ДОК ‘Спутник’”"
     },
     {
       "name": "Elio Ramón ESTRADA PAREDES",
@@ -3470,6 +3518,12 @@
       "aliases": "Oleg Youryevitch KOSOLAPOV;Oleg Yuryevich KOSOLAPOV;Олег Юрьевич КОСОЛАПОВ"
     },
     {
+      "name": "Anna Stanislavovna MOLCHANOVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Hanna Stanislavivna MOLCHANOVA;Анна Станиславовна МОЛЧАНОВА;Ганна Станіславівна МОЛЧАНОВА"
+    },
+    {
       "name": "Sergei Sergeevich GIRGEL",
       "schema": "Person",
       "sanctions": "BLR - 2021/2124 (OJ L430I) - 2021-12-02",
@@ -3612,6 +3666,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2023/1216 (OJ L159 I) - 2023-06-23",
       "aliases": "Viktor Ivanovitj Zinkov;Виктор Иванович ЗИНЬКОВ"
+    },
+    {
+      "name": "TSISM",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "CISM;The Centre for the Study of the Youth Environment and Monitoring of Networks;Центр изучения и сетевого мониторинга молодежной среды;Центр изучения молодежной среды"
     },
     {
       "name": "Juan José MENDOZA JOVER",
@@ -4056,6 +4116,12 @@
       "schema": "Organization",
       "sanctions": "PRK - 2023/2576 (OJ L14112023) - 2022-04-21",
       "aliases": ""
+    },
+    {
+      "name": "Iryna Viktorivna KRAVCHENKO",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Irina Viktorivna KRAVCHENKO;Iryna Viktorovna KRAVCHENKO;Ірина Вікторівна КРАВЧЕНКО;Ирина Викторовна КРАВЧЕНКО"
     },
     {
       "name": "Koryo Credit Development Bank",
@@ -7418,6 +7484,12 @@
       "aliases": "Dezvoltatorul Specializat PIK, societate pe acțiuni;PIK Cégcsoport Nyrt.;PIK Specializált Fejlesztő Rt.;PIK-specialised developer JSC;Public Joint Stock Company “PIK-specialized homebuilder”;»PIK Specializált Házépítő« Nyilvánosan Működő Részvénytársaság;АО “ПИК специализированный застройщик”"
     },
     {
+      "name": "LLC “Centre for Children and Youth Programmes ‘Mir’”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "LLC “TsDiYUP “Mir”;ООО «ЦДиЮП «Мир»;ООО «Центр детских и юношеских программ «Мир»;“Mir” Centre for Administrative and Legal Affairs"
+    },
+    {
       "name": "Alexey Nikolaevich VYAZNIKOV",
       "schema": "Person",
       "sanctions": "UKR - 2025/933 (OJ L202500933) - 2025-05-20",
@@ -7728,6 +7800,12 @@
       "schema": "Person",
       "sanctions": "IRQ - 1210/2003 (OJ L169) - 2003-07-07",
       "aliases": "Sabaoui Ibrahim Hassan Al-Tikriti"
+    },
+    {
+      "name": "LLC SOK “Romashka”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Cпортивно-оздоровительный комплекс “Ромашка”;Sports and Recreation Complex “Romashka”;ООО СОК “Ромашка”"
     },
     {
       "name": "Center for Military Sports Training and patriotic education of youth “WARRIOR”",
@@ -8628,6 +8706,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/389 (OJ L24022025) - 2025-02-24",
       "aliases": "Fegyvertechnológiai Fejlesztési és Gyártási Alap »Lobaev Alapítvány«;Fond za razvoj oružanih tehnologija i proizvodnju Zaklada Lobaev;Fondation Lobaev;Fonds pour le développement des technologies d'armement et la production, Fondation Lobaev ou Fonds Lobaev;Lobaev Alapítvány;Lobaev Foundation;Фонд Развития Оружейных Технологий и Производств Фонд Лобаева (Фонд Лобаева)"
+    },
+    {
+      "name": "Oleg Ivanovich SLADKEVICH",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Олег Иванович СЛАДКЕВИЧ"
     },
     {
       "name": "KIM Il Su",
@@ -9822,6 +9906,12 @@
       "schema": "Organization",
       "sanctions": "BLR - 2022/300 (OJ L46) - 2020-12-17;UKR - 2025/933 (OJ L202500933) - 2025-05-20",
       "aliases": "Fábrica de Tratores de Rodas de Minsk;MZKT;MZKT Nyrt.;MZKT OJSC;VOLAT;ААТ “МЗКЦ”;ААТ “Мінскі завод колавых цягачоў”;МЗКТ - Минский завод колёсных тягачей;ОАО “МЗКТ”;ОАО “Минский завод колёсных тягачей”"
+    },
+    {
+      "name": "Aleksandr Yurevich DYUKAREV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1940 (OJ L202601940) - 2026-08-07",
+      "aliases": "Александр Юрьевич ДЮКАРЕВ"
     },
     {
       "name": "Yong Chol Kim",
@@ -11690,6 +11780,12 @@
       "aliases": "Andrej Fjodorovitj SOPELNIK;Андрiй Федорович СОПЕЛЬНИК;Андрей Федорович СОПЕЛЬНИК"
     },
     {
+      "name": "LLC Children’s Center “Kotlostroitel”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Boiler Builder;\"LLC DOC \"\"Kotlostroitel\"\"\";\"ООО ДОЦ \"\"Котлостроитель\"\"\""
+    },
+    {
       "name": "Prophane VICTOR",
       "schema": "Person",
       "sanctions": "HTI - 2024/2755 (OJ L24102024) - 2024-09-27",
@@ -12920,6 +13016,12 @@
       "aliases": "IOTC"
     },
     {
+      "name": "Sergey Nikolaevich BESSONOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1940 (OJ L202601940) - 2026-08-07",
+      "aliases": "Сергей Николаевич БЕССОНОВ"
+    },
+    {
       "name": "Vitalii Mikhailavich MAKRITSKII",
       "schema": "Person",
       "sanctions": "BLR - 2021/997 (OJ L219I) - 2021-06-21",
@@ -13500,6 +13602,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": "س.م.د.م مارين الغاف"
+    },
+    {
+      "name": "LLC “Otdykh‑71“",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "\"LLC \"\"Rest-71\"\"\";\"Limited Liability Company \"\"Otdykh-71\"\"\";ООО «ОТДЫХ-71»;Общество с ограниченной ответственностью «ОТДЫХ-71»"
     },
     {
       "name": "Fredy Raúl ORELLANA LETONA",
@@ -15362,6 +15470,12 @@
       "aliases": "Al-Gama'a al-Islamiyya;Gama'a al-Islamiyya;Groupe islamique;Grupa Islamska;Grupo Islámico;Grupo Islâmico;Grupul Islamic;Grúpa Ioslamach;IG;Islamirühmitus;Islamische Gruppe;Islamisk Gruppe;Islamiska gruppen;Islamistična skupina;Islamitische Groep;Islamo grupuotė;Islamska skupina;Islamská skupina;Islámská skupina;Iszlám Csoport;Jamaat al-islamiyya;il-Grupp Iżlamiku;Ισλαμική Ομάδα;Джамаа Ислямия"
     },
     {
+      "name": "Renard Vladimirovich KUTKOVSKY",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Renard KUTKOWSKI;Ренард Владимирович КУТКОВСКИЙ"
+    },
+    {
       "name": "Innocent Zimurinda",
       "schema": "Person",
       "sanctions": "COD - 2017/396 (OJ L60) - 2010-12-01",
@@ -15486,6 +15600,12 @@
       "schema": "Organization",
       "sanctions": "LBY - 2016/44 (OJ L12) - 2011-03-21",
       "aliases": ""
+    },
+    {
+      "name": "Ramil Nailevich BADGUTDINOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1940 (OJ L202601940) - 2026-08-07",
+      "aliases": "Рамиль Наилевич БАДГУТДИНОВ"
     },
     {
       "name": "JSC “SSC RF TRINITY”",
@@ -15728,6 +15848,12 @@
       "aliases": "حسن قطانة"
     },
     {
+      "name": "Children’s Sanatorium “Vita”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "LLC Sanatorium “Vita”;Детский Курорт “Вита”;\"Детский санаторий \"\"Вита\"\"\";\"ООО “Санаторий “Вита\"\"\";“Vita” Children’s Resort"
+    },
+    {
       "name": "KMZ “Zenit”",
       "schema": "Organization",
       "sanctions": "UKR - 2023/429 (OJ L59 I) - 2023-02-25",
@@ -15954,6 +16080,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2026/509 (OJ L202600509) - 2026-04-23",
       "aliases": "JSC “ANKhK”;Joint Stock Company “Angarsk Petrochemical Company”;АО “Анхк”;Акционерное общество “Ангарская НЕфтехимическая Компания”"
+    },
+    {
+      "name": "Sergey Aleksandrovich BASHKOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/1940 (OJ L202601940) - 2026-08-07",
+      "aliases": "Сергей Александрович БАШКОВ"
     },
     {
       "name": "Tong-Ho Kim",
@@ -16548,6 +16680,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2025/2588 (OJ L202502588) - 2025-12-15",
       "aliases": ""
+    },
+    {
+      "name": "LLC Children's Health Complex \"Signal\"",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "\"LLC DOK \"\"Signal\"\"\";\"ООО \"\"Детский оздоровительный комплекс \"\"Сигнал\"\"\";\"ООО ДОК \"\"Сигнал\"\"\""
     },
     {
       "name": "JSCB “NRBank”",
@@ -17280,6 +17418,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "JSC Tula Cartridge Plant;Tulai Tölténygyár Rt.;sociedad anónima Tula Cartridge Plan;АО “ТПЗ”;Акционерное Общество “Тульский Патронный Завод”"
+    },
+    {
+      "name": "Children’s camp “Art-Quest”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "LLC “Art-Quest”;ООО “АРТ-КВЕСТ”"
     },
     {
       "name": "E-Sail Shipping Company",
@@ -19958,6 +20102,12 @@
       "aliases": "Yasin Ahmad DAHI;Yasin Dahi;ضاحي ياسين"
     },
     {
+      "name": "Moscow Tourism Committee",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Mostourism;The Moscow City Tourism Committee;Комитет по туризму города Москвы;Мостуризм"
+    },
+    {
       "name": "Khatam al-Anbiye Central Headquarters",
       "schema": "Organization",
       "sanctions": "IRN - 2024/90388 (OJ L11072024) - 2024-05-31;IRN - 2025/1982 (OJ L202501982) - 2023-10-17",
@@ -20010,6 +20160,12 @@
       "schema": "Person",
       "sanctions": "VEN - 2024/1340 (OJ L14052024) - 2021-02-22",
       "aliases": ""
+    },
+    {
+      "name": "All-Russian Children’s Centre “Ocean”",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "All-Russian Children’s Centre “Okean”;FSBEI “All-Russian Children’s Centre ‘Ocean’”;Federal State Budgetary Educational Institution “All-Russian Children’s Centre ‘Ocean’”;Всероссийский детский центр “Океан”;ФГБОУ “ВДЦ ‘Океан’”;Федеральное государственное бюджетное образовательное учреждение “Всероссийский детский центр ‘Океан’”"
     },
     {
       "name": "Beijing Xichao International Technology and Trade",
@@ -20154,6 +20310,12 @@
       "schema": "Organization",
       "sanctions": "UKR - 2024/753 (OJ L23022024) - 2024-02-23",
       "aliases": "\"Limited Liability Company \"\"Favorit\"\" Research and Production Company\";sociedad de responsabilidad limitada Research and Production Company Favorit;\"ООО \"\"Фаворитъ\"\" НПК\";Общество С Ограниченной Ответственностью “Фаворитъ” Научно-Производственная Компания;„Favorit” Kutatási és Gyártási Vállalat Kft.;„Favorit” Kutatási és Gyártási Vállalat Korlátolt Felelősségű Társaság"
+    },
+    {
+      "name": "Children's Health and Education Center \"Brigantine\"",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "\"Municipal budgetary educational institution of additional education \"\"children's health and educational center \"\"brigantine\"\"\";\"Детский оздоровительно-образовательный центр \"\"Бригантина\"\"\";\"Муниципальное бюджетное образовательное учреждение дополнительного образования \"\"детский оздоровительно-образовательный центр \"\"бригантина\"\"\";„Brigantina“"
     },
     {
       "name": "State enterprise sparkling wine plant ‘Novy Svet’",
@@ -23148,6 +23310,12 @@
       "schema": "Organization",
       "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2023-10-17",
       "aliases": "Composite Propellant Missile Industry;Department 140/14;Groupe industriel Shahid Baheri;Grupo Industrial Shahid Bagheri;Koncern Shahid Baheri Industrial Group;Mahtab Technical Engineering Company;SBIG;SSM;Sanaye Sokhte Morakab;Shahid Bagheri Industries Group;Shahid Baheri Industrial Group;Shahid Baheri Ipari Csoport;Shahid Baheri Organisation;Shahid Bakeri Industrial Group;صنایع شهید باقری"
+    },
+    {
+      "name": "Preobrazhensky Defence and Sports Centre",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Moscow Region Special Forces Centre “Preobrazhensky”;Non-State Educational Institution Training Centre “Preobrazhensky”;Preobrazhensky Defense and Sports Centre of the Special Forces Fund of the Airborne Forces;Preobrazhensky Educational Centre;Негосударственное образовательное учреждение учебный центр Преображенский;Преображенский ОСЦ;Преображенского оборонно-спортивного центра;Преображенского оборонно-спортивного центра Фонда спецназ ВДВ"
     },
     {
       "name": "Svetlana Pavlovna POKHODOVA",
@@ -27926,6 +28094,12 @@
       "aliases": "Андрей Леонидович СИГУТА;Андрій Леонідович СІГУТА"
     },
     {
+      "name": "Aleksandr Mikhailovich KALYAGIN",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Александр Михайлович КАЛЯГИН"
+    },
+    {
       "name": "Egor Andreevich LOGUNOV",
       "schema": "Person",
       "sanctions": "UKR - 2026/1055 (OJ L202601055) - 2026-05-11",
@@ -27954,6 +28128,12 @@
       "schema": "Person",
       "sanctions": "UKR - 2022/581 (OJ L110) - 2022-04-08",
       "aliases": "Vladimir Nikolajevitj DUBOVKA;Volodymyr Mykolajovytj DUBOVKA;Владимир Николаевич ДУБОВКА;Володимир Миколайович ДУБОВКА"
+    },
+    {
+      "name": "Oleg Volodimirovych TROFIMOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Oleg Vladimirovich TROFIMOV;Oleh Volodimirovich TROFIMOV;Олег Владимирович ТРОФИМОВ"
     },
     {
       "name": "Dmitry Anatolievich GARTSEV",
@@ -36734,6 +36914,12 @@
       "aliases": "Vjatjeslav Viktorovitj VOLODIN;Вячеслав Викторович ВОЛОДИН"
     },
     {
+      "name": "Rustam Nurgaliyevich MINNIKHANOV",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "Рустам Нургалиевич МИННИХАНОВ"
+    },
+    {
       "name": "Sergei Evgenevich NARYSHKIN",
       "schema": "Person",
       "sanctions": "UKR - 2023/571 (OJ L75 I) - 2014-03-21",
@@ -36978,6 +37164,24 @@
       "schema": "Person",
       "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
       "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
+    },
+    {
+      "name": "Songdowon International Children’s Camp",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "송도원국제소년단야영소"
+    },
+    {
+      "name": "Children‘s camp „Art-Quest“",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "\"LLC \"\"Art-Quest\"\"\";\"ООО \"\"АРТ-КВЕСТ\"\"\""
+    },
+    {
+      "name": "Olga Alekseevna BELYAVTSEVA",
+      "schema": "Person",
+      "sanctions": "UKR - 2026/2263 (OJ L202602263) - 2026-10-08",
+      "aliases": "Ольга Алексеевна БЕЛЯВЦЕВА"
     }
   ]
 }
