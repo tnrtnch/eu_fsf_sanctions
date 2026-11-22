@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:01:42.785544+00:00",
+  "generated_at": "2026-11-22T09:10:26.756171+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -5290,7 +5290,7 @@
     {
       "name": "Olga Alekseevna BELYAVTSEVA",
       "schema": "Person",
-      "sanctions": "RUSDA - 2024/3188 (OJ L16122024) - 2024-12-16",
+      "sanctions": "RUSDA - 2024/3188 (OJ L16122024) - 2024-12-16;UKR - 2026/2263 (OJ L202602263) - 2026-10-08",
       "aliases": "Olga Alekseevna BELJIAWZEWA;Olga Aleksevna MIZAEV;Olha Oleksiyivna BIELIAVTSEVA;Ольга Алексеевна БЕЛЯВЦЕВА"
     },
     {
@@ -11906,6 +11906,12 @@
       "aliases": "Jelena Jevgeňjevna Morozová;Jelena Morozova;Jelena Morozovová;Елена Евгеньевна МОРОЗОВА"
     },
     {
+      "name": "Songdowon International Children’s Camp",
+      "schema": "Organization",
+      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
+      "aliases": "송도원국제소년단야영소"
+    },
+    {
       "name": "Uladzimir Mikalaevich CHARAUKHIN",
       "schema": "Person",
       "sanctions": "UKR - 2023/2875 (OJ L18122023) - 2023-12-18",
@@ -17423,7 +17429,7 @@
       "name": "Children’s camp “Art-Quest”",
       "schema": "Organization",
       "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
-      "aliases": "LLC “Art-Quest”;ООО “АРТ-КВЕСТ”"
+      "aliases": "Children‘s camp „Art-Quest“;\"LLC \"\"Art-Quest\"\"\";LLC “Art-Quest”;\"ООО \"\"АРТ-КВЕСТ\"\"\";ООО “АРТ-КВЕСТ”"
     },
     {
       "name": "E-Sail Shipping Company",
@@ -37164,24 +37170,6 @@
       "schema": "Person",
       "sanctions": "HR - 2025/1111 (OJ L202501111) - 2025-05-28",
       "aliases": "Saif ABU BAKR;Sayf BALUD;Sayf Boulad ABU BAKR;Seyf EBUBEKIR;سيف أبو بكر;سيف بولاد;سيف بولاد أبو بكر"
-    },
-    {
-      "name": "Songdowon International Children’s Camp",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
-      "aliases": "송도원국제소년단야영소"
-    },
-    {
-      "name": "Children‘s camp „Art-Quest“",
-      "schema": "Organization",
-      "sanctions": "UKR - 2026/2184 (OJ L202602184) - 2026-09-28",
-      "aliases": "\"LLC \"\"Art-Quest\"\"\";\"ООО \"\"АРТ-КВЕСТ\"\"\""
-    },
-    {
-      "name": "Olga Alekseevna BELYAVTSEVA",
-      "schema": "Person",
-      "sanctions": "UKR - 2026/2263 (OJ L202602263) - 2026-10-08",
-      "aliases": "Ольга Алексеевна БЕЛЯВЦЕВА"
     }
   ]
 }
