@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:17:27.560393+00:00",
+  "generated_at": "2026-11-27T10:23:22.351813+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -4685,7 +4685,7 @@
       "name": "JSC Pavlik",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "JSC Gold Mining Company Pavlik;Pavlik;АКЦИОНЕРНОЕ ОБЩЕСТВО ЗОЛОТОРУДНА Я КОМПАНИЯ ПАВЛИК;АО ‘ПАВЛИК"
+      "aliases": "JSC Gold Mining Company Pavlik;JSC Gold Mining Company “Pavlik”;Pavlik;АКЦИОНЕРНОЕ ОБЩЕСТВО ЗОЛОТОРУДНА Я КОМПАНИЯ ПАВЛИК;АО ‘ПАВЛИК;АО “Павлик”;Акционерное Общество “Золоторудная Компания Павлик”"
     },
     {
       "name": "Design Bureau “Mikrob”",
@@ -7433,7 +7433,7 @@
       "name": "UK UZTM KARTEX LLC",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "UPRAVLYAYUSH CHAYA KOMPANIYA UZTM KARTEKS;ОБ УЗТМ КАРТЭКС"
+      "aliases": "Upravlyayushchaya Kompaniya UZTM KARTEKS;ОБ УЗТМ-КАРТЭКС"
     },
     {
       "name": "Vladlen Mausyrovich SHORIN",
@@ -8465,7 +8465,7 @@
       "name": "Hortensia",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Design Bureau;Gortensia;Gortenziya;Hortensia Design Bureau;Hydrangea;Hydrangea Design Bureau;LIMITED LIABILITY COMPANY KB LIS;LLC “KB LIS”;ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННО СТЬЮ КБ ЛИС;ООО КБ ЛИС"
+      "aliases": "Design Bureau;Gortensia;Gortenziya;Hydrangea;LLC “KB LIS”;\"Limited Liability Company “KB LIS\"\"\";ООО “КБ ЛИС”;Общество с Ограниченной Ответственностью “КБ ЛИС”;“Hortensia” Design Bureau;“Hydrangea” Design Bureau"
     },
     {
       "name": "Sergey Mirzoevich AVAKOV",
@@ -9578,10 +9578,10 @@
       "aliases": "Alexej Minin;Алексей Валерьевич МИНИН"
     },
     {
-      "name": "JSC ‘’Realist Bank’’",
+      "name": "JSC \"Realist Bank\"",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "AO ‘’Реалист Банк’’"
+      "aliases": ""
     },
     {
       "name": "Shwe Kyein",
@@ -11390,10 +11390,10 @@
       "aliases": "Industrias Electrónicas de Irán;Iráni Elektronikai Iparágak Vállalat"
     },
     {
-      "name": "Oborontest, societate deschisă pe acțiuni",
+      "name": "Open joint stock company “Oborontest”",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Open joint stock company “Oborontest”;ОБОРОНТЕСТ;Открытое Акционерное Общество"
+      "aliases": "Russian: Открытое Акционерное Общество “ОБОРОНТЕСТ”"
     },
     {
       "name": "JSC NPO Elektromechaniki",
@@ -13160,10 +13160,10 @@
       "aliases": "Vadim Muraško;Vadzim Muraška;Vadzim Rastivlavovich MURASHKA;Вадзім Расціслававіч МУРАШКА;Вадим Ростиславович МУРАШКО"
     },
     {
-      "name": "Joint Stock Company Pergam Engineering",
+      "name": "Joint Stock Company “Pergam Engineering”",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "Акционерное общество Пергам Инжиниринг"
+      "aliases": "Акционерное общество “Пергам Инжиниринг”"
     },
     {
       "name": "Abdul Razaq Akhund Lala Akhund",
@@ -13322,10 +13322,10 @@
       "aliases": "AO Sibirskaya Servisnaya Kompany;Siberian Service Company JSC;Siberian Service Company Rt.;Sibiřská servisní společnost, a. s.;АО Сибирская Сервисная Компания;АО “ССК”"
     },
     {
-      "name": "JSC KALMNEFTEGAZ",
+      "name": "JSC Kalmneftegaz",
       "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-06-23",
-      "aliases": "\"NON PUBLIC JOINT STOCK COMPANY \"\"KALMYK OIL AND GAS COMPANY\";súkromná akciová spoločnosť „Kalmyk Oil and Gas Company“;\"АО \"\"КАЛМНЕФТЕГА З\"\"\";\"НЕПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"\"КАЛМЫЦКАЯ НЕФТЕГАЗОВАЯ КОМПАНИЯ\"\"\""
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
+      "aliases": "Non-Public Joint-Stock Company “Kalmyk Oil and Gas Company”;АО “Калмнефтегаз”;Непубличное Акционерное общество “Калмыцкая Нефтегазовая Компания”"
     },
     {
       "name": "Sung Nam Jang",
@@ -19586,10 +19586,10 @@
       "aliases": "Федеральное государственное унитарное предприятие «Крымская железная дорога»"
     },
     {
-      "name": "URALMASHPLAN T JSC",
+      "name": "Uralmashplant JSC",
       "schema": "Organization",
-      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "UZTM;Uralmashzavod JSC;ПАО УРАЛМАШЗАВО Д;УЗТМ"
+      "sanctions": "IRN - 2026/1883 (OJ L202601883) - 2026-07-30",
+      "aliases": "UZTM;Uralmashzavod JSC;ПАО Уралмашзавод;УЗТМ"
     },
     {
       "name": "José Rafael CURRUCHICHE CUCUL",
@@ -20435,7 +20435,7 @@
       "name": "LLC LAGGAR PRO",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "LAGGAR PRO, societate cu răspundere limitată;Limited Liability Company LAGGAR PRO;ООО ЛАГГАР ПРО"
+      "aliases": "Limited Liability Company LAGGAR PRO;ООО ЛАГГАР ПРО"
     },
     {
       "name": "Ibrahim Saeed Salem Awad Aissa Hamed Dawoud Al Jadhran",
