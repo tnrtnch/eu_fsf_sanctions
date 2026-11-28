@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:23:22.351813+00:00",
+  "generated_at": "2026-11-28T09:40:24.194977+00:00",
   "items": [
     {
       "name": "OJSC EHMZ named after N. D. Zelinsky",
@@ -4685,7 +4685,7 @@
       "name": "JSC Pavlik",
       "schema": "Organization",
       "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
-      "aliases": "JSC Gold Mining Company Pavlik;JSC Gold Mining Company “Pavlik”;Pavlik;АКЦИОНЕРНОЕ ОБЩЕСТВО ЗОЛОТОРУДНА Я КОМПАНИЯ ПАВЛИК;АО ‘ПАВЛИК;АО “Павлик”;Акционерное Общество “Золоторудная Компания Павлик”"
+      "aliases": "JSC Gold Mining Company “Pavlik”;Pavlik;АО “Павлик”;Акционерное Общество “Золоторудная Компания Павлик”"
     },
     {
       "name": "Design Bureau “Mikrob”",
@@ -18856,7 +18856,7 @@
     {
       "name": "Center for Agricultural Research and Nuclear Medicine",
       "schema": "Organization",
-      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2025-09-29",
+      "sanctions": "IRN - 2025/1982 (OJ L202501982) - 2010-06-09",
       "aliases": "Karaji Agricultural and Medical Research Center;Nuclear Research Center for Agriculture and Medicine"
     },
     {
@@ -19588,7 +19588,7 @@
     {
       "name": "Uralmashplant JSC",
       "schema": "Organization",
-      "sanctions": "IRN - 2026/1883 (OJ L202601883) - 2026-07-30",
+      "sanctions": "UKR - 2026/1845 (OJ L202601845) - 2026-07-23",
       "aliases": "UZTM;Uralmashzavod JSC;ПАО Уралмашзавод;УЗТМ"
     },
     {
